@@ -208,8 +208,11 @@ def fallback_analysis(item: dict, concept: dict) -> dict:
             {"request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.", "why": "Tests whether the capital raised is enough to reach a value-creating milestone."}
         ],
         "concept_lesson": {
-            **concept,
-            "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this metric for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+            "name": concept["name"],
+            "definition": concept["definition"],
+            "formula": concept["formula"],
+            "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+            "worked_example": concept["illustration"],
             "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
         },
         "vcic": {
