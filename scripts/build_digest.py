@@ -254,7 +254,7 @@ STRICT RULES:
 - Do not reproduce the article. Summarise in your own words and link readers to the publisher.
 
 Return ONLY valid JSON with this structure:
-{
+{{
  "company_at_a_glance": "plain-English description; disclose unknowns",
  "what_happened": "deal/news explained in plain English",
  "deal_facts": [{"label":"...","value":"..."}],
@@ -266,7 +266,7 @@ Return ONLY valid JSON with this structure:
  "concept_lesson": {"name":"...", "definition":"...", "formula":"...", "connection_to_deal":"...", "worked_example":"...", "takeaway":"..."},
  "vcic": {"sample_recommendation":"...", "how_to_present":"...", "follow_up_questions":["..."]},
  "ai_note":"State limits and distinguish excerpt facts from inference."
-}
+}}
 Include 3–5 risks, 5–7 diligence requests, 3–5 reasons/conditions. For every number in worked_example, identify whether it is reported or hypothetical.
 """
     payload = {
