@@ -253,21 +253,20 @@ STRICT RULES:
 - For the concept lesson, connect it to this deal if the facts allow. If not, say that it cannot be calculated from disclosed facts and use a clearly labelled hypothetical numerical illustration.
 - Do not reproduce the article. Summarise in your own words and link readers to the publisher.
 
-Return ONLY valid JSON with this structure:
-{{
- "company_at_a_glance": "plain-English description; disclose unknowns",
- "what_happened": "deal/news explained in plain English",
- "deal_facts": [{"label":"...","value":"..."}],
- "business_model": {"plain_english":"...", "customer":"...", "revenue_engine":"...", "unit_economics_to_check":["..."]},
- "why_now": ["possible rationale, explicitly labelled as hypothesis"],
- "investor_view": {"verdict":"...", "thesis":"...", "reasons_to_be_interested":["..."], "what_must_be_true":["..."]},
- "risks": [{"risk":"...", "why_it_matters":"...", "how_to_test":"..."}],
- "diligence": [{"request":"specific data/document/question", "why":"what it validates"}],
- "concept_lesson": {"name":"...", "definition":"...", "formula":"...", "connection_to_deal":"...", "worked_example":"...", "takeaway":"..."},
- "vcic": {"sample_recommendation":"...", "how_to_present":"...", "follow_up_questions":["..."]},
- "ai_note":"State limits and distinguish excerpt facts from inference."
-}}
-Include 3–5 risks, 5–7 diligence requests, 3–5 reasons/conditions. For every number in worked_example, identify whether it is reported or hypothetical.
+Return only a valid JSON object. Do not wrap it in Markdown fences.
+Required top-level keys and expected fields:
+- company_at_a_glance: string
+- what_happened: string
+- deal_facts: array of objects, each with label and value strings
+- business_model: object with plain_english, customer, revenue_engine strings and unit_economics_to_check array of strings
+- why_now: array of strings, explicitly framed as possible investor rationale hypotheses
+- investor_view: object with verdict, thesis strings; reasons_to_be_interested and what_must_be_true arrays
+- risks: array of objects with risk, why_it_matters and how_to_test strings
+- diligence: array of objects with request and why strings
+- concept_lesson: object with name, definition, formula, connection_to_deal, worked_example and takeaway strings
+- vcic: object with sample_recommendation, how_to_present strings and follow_up_questions array
+- ai_note: string
+ For every number in worked_example, identify whether it is reported or hypothetical.
 """
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
