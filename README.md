@@ -39,3 +39,7 @@ The workflow is scheduled for 7:15 AM Asia/Singapore. You can also run it manual
 
 ## Content and copyright
 The site links to original publishers and stores only headlines, source names, publication dates and short RSS excerpts for discovery. Read full articles on publisher sites and respect their terms and paywalls.
+
+
+## Reliability note
+Because this is a public repository on GitHub Free, scheduled workflows may be automatically disabled after 60 days with no repository activity. Visit the repository or make a small change occasionally, and check the Actions tab if an edition is missing.
