@@ -1,11 +1,12 @@
 {
   "timezone": "Asia/Singapore",
-  "daily_story_count": 8,
-  "india_story_target": 4,
-  "global_story_target": 4,
+  "daily_reading_time_minutes": 15,
+  "stories_per_day": 1,
   "max_age_hours": 72,
   "max_items_per_feed": 35,
   "archive_index_limit": 180,
   "site_title": "VC & PE Daily",
-  "reader_subtitle": "Global deals, India startups and an investor's lens"
+  "reader_subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "preferred_regions": ["India", "Global"],
+  "analysis_mode": "Gemini free tier when configured; rule-based fallback otherwise"
 }
