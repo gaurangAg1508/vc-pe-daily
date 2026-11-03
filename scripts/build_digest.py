@@ -301,7 +301,9 @@ def build_edition(settings: dict, sources: list[dict]) -> dict:
     now_local = now_utc.astimezone(tz)
     cutoff = now_utc - timedelta(hours=int(settings.get("max_age_hours", 72)))
     errors, collected, seen = [], [], set()
-    for source in sources:
+    # Read publisher feeds before Google News search feeds so duplicate stories keep the original publisher URL.
+    ordered_sources = sorted(sources, key=lambda source: 1 if "google news" in source["name"].lower() else 0)
+    for source in ordered_sources:
         items, error = get_feed(source)
         if error:
             errors.append(error)
