@@ -1,0 +1,17 @@
+[
+  {"name":"India startup funding (Google News)","url":"https://news.google.com/rss/search?q=India+startup+funding+OR+venture+capital+OR+private+equity+OR+acquisition+when%3A2d&hl=en-IN&gl=IN&ceid=IN:en","region":"India","kind":"news"},
+  {"name":"Global VC & PE (Google News)","url":"https://news.google.com/rss/search?q=global+startup+funding+OR+venture+capital+OR+private+equity+OR+buyout+OR+M%26A+when%3A2d&hl=en-US&gl=US&ceid=US:en","region":"Global","kind":"news"},
+  {"name":"Asia startup deals (Google News)","url":"https://news.google.com/rss/search?q=Asia+startup+funding+OR+venture+capital+OR+private+equity+when%3A2d&hl=en-SG&gl=SG&ceid=SG:en","region":"Global","kind":"news"},
+  {"name":"Inc42","url":"https://inc42.com/feed/","region":"India","kind":"news"},
+  {"name":"Entrackr","url":"https://entrackr.com/feed/","region":"India","kind":"news"},
+  {"name":"YourStory","url":"https://yourstory.com/feed","region":"India","kind":"news"},
+  {"name":"TechCrunch Venture","url":"https://techcrunch.com/category/venture/feed/","region":"Global","kind":"news"},
+  {"name":"Tech.eu","url":"https://tech.eu/feed/","region":"Global","kind":"news"},
+  {"name":"EU-Startups","url":"https://www.eu-startups.com/feed/","region":"Global","kind":"news"},
+  {"name":"Tech in Asia","url":"https://www.techinasia.com/feed","region":"Global","kind":"news"},
+  {"name":"KrASIA","url":"https://kr-asia.com/feed/","region":"Global","kind":"news"},
+  {"name":"First Round Review","url":"https://review.firstround.com/articles/rss","region":"Global","kind":"analysis"},
+  {"name":"a16z","url":"https://a16z.com/feed/","region":"Global","kind":"analysis"},
+  {"name":"Sequoia","url":"https://www.sequoiacap.com/feed/","region":"Global","kind":"analysis"},
+  {"name":"Y Combinator","url":"https://www.ycombinator.com/blog/rss/","region":"Global","kind":"analysis"}
+]
