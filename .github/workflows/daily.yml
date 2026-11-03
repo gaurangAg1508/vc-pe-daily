@@ -1,6 +1,14 @@
 name: VC & PE Daily
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily.yml"
+      - "config/**"
+      - "scripts/**"
+      - "site/index.html"
   schedule:
     - cron: "15 7 * * *"
       timezone: "Asia/Singapore"
