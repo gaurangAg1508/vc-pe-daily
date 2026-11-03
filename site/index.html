@@ -1,53 +1,74 @@
 <!doctype html>
-<html lang="en"><head>
+<html lang="en">
+<head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#101827"><meta name="description" content="Daily venture capital, private equity and startup investing intelligence focused on global markets and India.">
-<title>VC & PE Daily</title>
+<meta name="theme-color" content="#101827">
+<meta name="description" content="One carefully selected venture capital or private equity deal, explained in a 15-minute daily case study.">
+<title>VC & PE Daily — One Deal a Day</title>
 <style>
-:root{--bg:#f4f6fa;--card:#fff;--ink:#172033;--muted:#637089;--line:#e3e8f0;--navy:#101827;--blue:#3157a4;--soft:#edf2fb;--green:#eaf5ef}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-header{background:var(--navy);color:white;padding:28px 18px 26px}.wrap{max-width:980px;margin:0 auto}.eyebrow{font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#a9badc}
-h1{font-size:clamp(28px,6vw,42px);line-height:1.1;margin:8px 0}header p{color:#d2d9e6;margin:0}main{max-width:980px;margin:22px auto;padding:0 14px 56px}
-.topline{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:18px}.date{font-size:14px;color:var(--muted)}.pill{background:var(--soft);color:var(--blue);font-size:12px;font-weight:700;padding:5px 10px;border-radius:99px}
-.section{margin:24px 0}.section h2{font-size:19px;margin:0 0 12px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:16px;box-shadow:0 2px 8px #12213a08;min-width:0}.card h3{font-size:17px;line-height:1.35;margin:8px 0}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--blue);text-decoration:underline}
-.meta{font-size:12px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}.summary{color:#46536a;font-size:14px;margin:9px 0 0}.featured{border-top:4px solid var(--blue)}.feature-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.label{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--blue)}ul{padding-left:20px;margin:8px 0 0}li{margin:6px 0;color:#3f4d63;font-size:14px}
-.callout{background:var(--green);border-radius:10px;padding:12px;margin-top:12px;color:#355044;font-size:13px}.drill{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.drill div{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px;font-size:14px}
-.archive a{display:inline-block;margin:4px 7px 4px 0;color:var(--blue);font-size:13px;text-decoration:none}.archive a:hover{text-decoration:underline}.empty{background:white;border:1px dashed #cbd3e1;padding:22px;border-radius:14px;color:var(--muted)}
-footer{color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:16px;margin-top:30px}.notice{font-size:12px;color:var(--muted);margin-top:8px}
-@media(max-width:680px){header{padding:24px 16px}.grid,.feature-grid{grid-template-columns:1fr}.drill{grid-template-columns:1fr}main{margin-top:14px}.card{padding:14px}}
-</style></head>
-<body><header><div class="wrap"><div class="eyebrow">Daily investor reading brief</div><h1>VC & PE Daily</h1><p>Global deals · India startups · Investor thinking · VCIC practice</p></div></header>
-<main><div class="topline"><div><strong id="edition-title">Today's edition</strong><div class="date" id="edition-date">Loading latest edition…</div></div><span class="pill">7:15 AM · Singapore</span></div>
-<div id="app"><div class="empty">Loading your reading edition…</div></div>
-<footer><strong>How to use this brief:</strong> Read the original article, verify deal facts, then form your own investment view. The automated deal lens is a first-pass hypothesis based on headlines and RSS excerpts—not a confirmed investor thesis.<div class="notice">Built for personal VC/PE learning. Original reporting remains the property of each publisher.</div></footer></main>
+:root{--bg:#f4f6fa;--card:#fff;--ink:#172033;--muted:#637089;--line:#e3e8f0;--navy:#101827;--blue:#3157a4;--soft:#edf2fb;--green:#eaf5ef;--amber:#fff6df}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.58 Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+header{background:var(--navy);color:#fff;padding:27px 18px}.wrap{max-width:850px;margin:0 auto}.eyebrow{font-size:12px;font-weight:750;letter-spacing:.14em;text-transform:uppercase;color:#b5c5e0}
+h1{font-size:clamp(28px,6vw,40px);line-height:1.12;margin:8px 0}header p{margin:0;color:#d3dbea}
+main{max-width:850px;margin:22px auto;padding:0 14px 56px}.topline{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:16px}
+.muted{color:var(--muted);font-size:13px}.pill{display:inline-block;background:var(--soft);color:var(--blue);font-size:11px;font-weight:750;padding:4px 9px;border-radius:99px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:17px;margin:12px 0;box-shadow:0 2px 8px #12213a08}
+h2{font-size:19px;margin:0 0 11px;line-height:1.3}h3{font-size:15px;margin:15px 0 5px;line-height:1.4}
+p{margin:8px 0}.meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.hero{border-top:4px solid var(--blue)}.hero h2{font-size:24px;margin:12px 0 7px}.hero a{color:var(--ink);text-decoration:none}.hero a:hover{color:var(--blue);text-decoration:underline}
+.section{margin-top:23px}.section-title{display:flex;gap:10px;align-items:baseline;justify-content:space-between}.section-title small{color:var(--muted);font-weight:650}
+.fact-table{width:100%;border-collapse:collapse;margin-top:8px;font-size:14px}.fact-table td{padding:9px 5px;border-bottom:1px solid var(--line);vertical-align:top}.fact-table td:first-child{width:38%;font-weight:700;color:#48566d}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}.subcard{background:#f8f9fc;border:1px solid var(--line);border-radius:12px;padding:13px}.label{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--blue)}
+ul,ol{padding-left:21px;margin:8px 0}li{margin:7px 0;font-size:14px;color:#3f4d63}
+.decision{background:var(--green);border-color:#d2e8dc}.risk{background:#fff;border-left:3px solid #d6a64a;border-radius:8px;padding:10px 12px;margin:9px 0}.risk strong{display:block;font-size:14px}.risk p{font-size:13px;color:#536077;margin:4px 0}
+.concept{background:#f0f3fa}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:#fff;border:1px solid var(--line);border-radius:9px;padding:11px;font-size:13px;white-space:normal}
+.reading-plan{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:14px 0}.reading-plan div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;font-size:12px;color:var(--muted)}.reading-plan b{display:block;color:var(--ink);font-size:15px}
+.notice{font-size:12px;color:var(--muted);margin-top:10px}.callout{background:var(--amber);border:1px solid #f0dfae;border-radius:10px;padding:12px;font-size:13px;color:#66521c}
+.archive a{display:inline-block;margin:5px 8px 4px 0;color:var(--blue);font-size:13px;text-decoration:none}.archive a:hover{text-decoration:underline}
+.empty{background:white;border:1px dashed #cbd3e1;padding:22px;border-radius:14px;color:var(--muted)}
+footer{color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:16px;margin-top:28px}
+@media(max-width:650px){header{padding:23px 16px}.two{grid-template-columns:1fr}.reading-plan{grid-template-columns:repeat(2,1fr)}.card{padding:14px}.hero h2{font-size:21px}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="eyebrow">Your 15-minute investor classroom</div><h1>VC & PE Daily</h1><p>One deal. One investor lens. One concept to master.</p></div></header>
+<main>
+<div class="topline"><div><strong id="edition-title">Today's case study</strong><div class="muted" id="edition-date">Loading your daily case…</div></div><span class="pill">15 MIN · SINGAPORE</span></div>
+<div id="app"><div class="empty">Loading your daily case study…</div></div>
+<footer>Learning note: use the original publisher article to verify facts. The investor view is an educational assessment based on available public information, not investment advice. Any missing deal data should remain unknown, not guessed. Previous editions are retained below.</footer>
+</main>
 <script>
-const app=document.getElementById("app"),q=new URLSearchParams(location.search),requested=q.get("edition");
-const safe=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const dateLabel=iso=>{if(!iso)return "Date not provided";const d=new Date(iso);return isNaN(d)?"Date not provided":d.toLocaleString("en-SG",{dateStyle:"medium",timeStyle:"short",timeZone:"Asia/Singapore"})};
-const link=item=>'<a href="'+safe(item.url)+'" target="_blank" rel="noopener noreferrer">'+safe(item.title)+'</a>';
-const section=(title,inner)=>'<section class="section"><h2>'+title+'</h2>'+inner+'</section>';
-const list=items=>'<ul>'+items.map(x=>'<li>'+safe(x)+'</li>').join("")+'</ul>';
-function storyCard(s){return '<article class="card"><div class="meta"><span class="pill">'+safe(s.region)+'</span><span>'+safe(s.source)+'</span><span>'+dateLabel(s.published_at)+'</span></div><h3>'+link(s)+'</h3><p class="summary">'+safe(s.summary||"Open the publisher article for details and context.")+'</p></article>'}
+const app=document.getElementById("app");
+const query=new URLSearchParams(location.search);
+const requested=query.get("edition");
+const safe=value=>String(value??"").replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+const dateLabel=iso=>{if(!iso)return "Date not supplied";const d=new Date(iso);return isNaN(d)?"Date not supplied":d.toLocaleString("en-SG",{dateStyle:"medium",timeStyle:"short",timeZone:"Asia/Singapore"})};
+const list=items=>Array.isArray(items)&&items.length?'<ul>'+items.map(item=>'<li>'+safe(item)+'</li>').join("")+'</ul>':'<p class="muted">Not disclosed in the available source excerpt.</p>';
+const section=(n,title,time,body)=>'<section class="section"><div class="section-title"><h2>'+n+'. '+title+'</h2><small>'+time+'</small></div>'+body+'</section>';
 function render(d){
-document.getElementById("edition-title").textContent=requested?"Archive edition":"Today's edition";
-document.getElementById("edition-date").textContent=d.date+" · Generated "+dateLabel(d.generated_at)+" · "+d.story_count+" stories";
-let out="";
-if(!d.stories||!d.stories.length)out+='<div class="empty">No recent articles were collected in this run. Check the Actions log for feed connectivity; the next scheduled run will try again.</div>';
-else{
-out+=section("01 · Deal of the day",d.deal_of_the_day?(()=>{const x=d.deal_of_the_day,a=x.analysis||{};return '<article class="card featured"><div class="meta"><span class="pill">'+safe(x.region)+'</span><span>'+safe(x.source)+'</span><span>'+dateLabel(x.published_at)+'</span></div><h3>'+link(x)+'</h3><p class="summary">'+safe(x.summary||"Open the original article to verify deal terms.")+'</p><div class="feature-grid"><div><div class="label">Sector lens</div><p>'+safe(a.sector||"Not clear")+'</p><div class="label">Reported context</div><p class="summary">'+safe(a.reported_context||"Open the original article.")+'</p></div><div><div class="label">Why the deal may make sense</div>'+list(a.hypotheses||[])+'</div><div><div class="label">What to validate</div>'+list(a.what_to_validate||[])+'</div><div><div class="label">VCIC diligence questions</div>'+list(a.vcic_questions||[])+'</div></div><div class="callout">'+safe(a.caveat||"Hypotheses only. Verify using original reporting.")+'</div></article>'})():'<div class="empty">No clear deal story found today.</div>');
-const a=d.article_of_the_day;
-out+=section("02 · One article to read",a?'<article class="card featured"><div class="meta"><span class="pill">ARTICLE PICK</span><span>'+safe(a.source)+'</span><span>'+dateLabel(a.published_at)+'</span></div><h3>'+link(a)+'</h3><p class="summary">'+safe(a.summary||"Open the article for the full argument.")+'</p><p>'+safe(a.why_read||"Selected for investor learning.")+'</p><div class="label">Read with these questions</div>'+list(a.reading_prompts||[])+'</article>':'<div class="empty">No separate analysis article found today; use the news list below.</div>');
-const india=d.stories.filter(s=>s.region==="India"),global=d.stories.filter(s=>s.region!=="India");
-out+=section("03 · India startup & deal watch",'<div class="grid">'+(india.length?india.map(storyCard).join(""):'<div class="empty">No India stories in this edition.</div>')+'</div>');
-out+=section("04 · Global VC & PE watch",'<div class="grid">'+(global.length?global.map(storyCard).join(""):'<div class="empty">No global stories in this edition.</div>')+'</div>');
-out+=section("05 · VCIC practice",'<div class="drill">'+(d.vcic_drill||[]).map((x,i)=>'<div><div class="label">Question '+(i+1)+'</div>'+safe(x)+'</div>').join("")+'</div>');
+ const c=d.case_study;
+ document.getElementById("edition-title").textContent=requested?"Archive case study":"Today's case study";
+ document.getElementById("edition-date").textContent=d.date+" · Generated "+dateLabel(d.generated_at);
+ if(!c){app.innerHTML='<div class="empty"><strong>No eligible story was found today.</strong><p>The feed collector did not find a recent startup/deal story. Check Actions logs or try Run workflow again.</p></div>';loadArchive();return;}
+ const s=c.story||{},a=c.analysis||{},facts=a.deal_facts||[],bm=a.business_model||{},iv=a.investor_view||{},cl=a.concept_lesson||{},vc=a.vcic||{};
+ let out='<article class="card hero"><div class="meta"><span class="pill">'+safe(s.region||c.region_focus||"")+'</span><span>'+safe(s.source||"")+'</span><span>'+dateLabel(s.published_at)+'</span></div><h2><a href="'+safe(s.url||"#")+'" target="_blank" rel="noopener noreferrer">'+safe(s.title||"Today's selected deal")+'</a></h2><p>'+safe(a.company_at_a_glance||"Company overview not available.")+'</p><p class="muted">'+safe(s.summary||"Open the publisher link for the original reporting.")+'</p><div class="reading-plan"><div><b>2 min</b>What happened?</div><div><b>4 min</b>How the business works</div><div><b>5 min</b>Would I invest?</div><div><b>4 min</b>Concept + VCIC</div></div><div class="notice">Read the original article: <a href="'+safe(s.url||"#")+'" target="_blank" rel="noopener noreferrer">Open publisher article ↗</a></div></article>';
+ out+=section("01","What happened?","2 MIN",'<article class="card"><p>'+safe(a.what_happened||"Open the original reporting and establish exactly what happened.")+'</p><h3>Deal facts</h3><table class="fact-table">'+facts.map(f=>'<tr><td>'+safe(f.label)+'</td><td>'+safe(f.value)+'</td></tr>').join("")+'</table><p class="notice">Only facts present in the available reporting should be treated as confirmed. A missing valuation or deal amount is not an invitation to estimate one.</p></article>');
+ out+=section("02","How does this business make money?","4 MIN",'<article class="card"><p>'+safe(bm.plain_english||"The available excerpt does not establish the full business model.")+'</p><div class="two"><div class="subcard"><div class="label">Who pays?</div><p>'+safe(bm.customer||"Not established from the source.")+'</p></div><div class="subcard"><div class="label">How revenue is earned</div><p>'+safe(bm.revenue_engine||"Not established from the source.")+'</p></div></div><h3>Unit economics to understand</h3>'+list(bm.unit_economics_to_check||[])+'<h3>Why might the deal be happening now?</h3>'+list(a.why_now||[])+'</article>');
+ out+=section("03","Would I invest?","5 MIN",'<article class="card decision"><div class="label">Provisional investment view</div><h2>'+safe(iv.verdict||"Insufficient information to decide")+'</h2><p>'+safe(iv.thesis||"Build the thesis after verifying the business model, growth, economics and valuation.")+'</p><h3>What makes this interesting?</h3>'+list(iv.reasons_to_be_interested||[])+'<h3>What must be true for this to become a good investment?</h3>'+list(iv.what_must_be_true||[])+'</article>');
+ const risks=(a.risks||[]).map(r=>'<div class="risk"><strong>'+safe(r.risk)+'</strong><p><b>Why it matters:</b> '+safe(r.why_it_matters)+'</p><p><b>How to test:</b> '+safe(r.how_to_test)+'</p></div>').join("");
+ const diligence=(a.diligence||[]).map((x,i)=>'<div class="subcard"><div class="label">Request '+(i+1)+'</div><p><b>'+safe(x.request)+'</b></p><p class="muted">'+safe(x.why)+'</p></div>').join("");
+ out+=section("04","What are the biggest risks?","2 MIN",'<article class="card">'+(risks||'<p class="muted">Not enough information to identify deal-specific risks. Start with market, product, execution, competition, regulation and valuation.</p>')+'</article>');
+ out+=section("05","What would I ask before investing?","1 MIN",'<article class="card"><p>These are the documents and data I would request from the founders before an investment committee decision.</p><div class="two">'+(diligence||'<div class="subcard">Customer cohorts, unit economics, financials, cap table and use of proceeds.</div>')+'</div></article>');
+ out+=section("06","VC/PE concept of the day","1 MIN",'<article class="card concept"><span class="pill">LEARN THROUGH THIS DEAL</span><h2>'+safe(cl.name||"Investment concept")+'</h2><p>'+safe(cl.definition||"Concept explanation not available.")+'</p><div class="label">Formula / framework</div><div class="formula">'+safe(cl.formula||"See the explanation above.")+'</div><h3>How it connects to today's deal</h3><p>'+safe(cl.connection_to_deal||"Use the deal to identify where this concept affects investor returns.")+'</p><h3>Worked example</h3><p>'+safe(cl.worked_example||"Use illustrative numbers only when deal-specific figures are unavailable.")+'</p><div class="callout"><b>Remember:</b> '+safe(cl.takeaway||"Understand the mechanics, then apply them to a new deal.")+'</div></article>');
+ out+=section("07","How to present this in VCIC","1 MIN",'<article class="card"><h3>Sample recommendation</h3><p>'+safe(vc.sample_recommendation||"State a conditional recommendation based on the available evidence.")+'</p><h3>Structure your answer</h3><p>'+safe(vc.how_to_present||"Market → business model → traction → unit economics → valuation → risks → recommendation.")+'</p><h3>Questions to take into the room</h3>'+list(vc.follow_up_questions||[])+'</article>');
+ if(a.ai_note)out+='<p class="notice">'+safe(a.ai_note)+'</p>';
+ out+='<p class="notice">Region focus today: '+safe(c.region_focus||"Global / India")+' · One story selected from '+safe(d.sources_checked||"")+' configured sources · '+safe(d.candidate_count||"")+' candidate stories reviewed.</p>';
+ out+='<section class="section archive"><div class="section-title"><h2>Previous daily case studies</h2></div><div id="archive-list" class="muted">Loading archive…</div></section>';
+ if(d.sources_with_errors&&d.sources_with_errors.length)out+='<p class="notice">'+d.sources_with_errors.length+' feed(s) could not be read during collection. Other feeds may still have supplied today's story.</p>';
+ app.innerHTML=out;loadArchive();
 }
-out+='<section class="section archive"><h2>Previous editions</h2><div id="archive-list" class="date">Loading archive…</div></section>';
-if(d.sources_with_errors&&d.sources_with_errors.length)out+='<p class="notice">'+d.sources_with_errors.length+' source(s) could not be read in this run. Other feeds may still have supplied stories.</p>';
-app.innerHTML=out;loadArchive();
-}
-async function loadArchive(){const box=document.getElementById("archive-list");if(!box)return;try{const r=await fetch("data/archive/index.json");if(!r.ok)throw new Error();const dates=await r.json();box.innerHTML=dates.slice(0,30).map(date=>'<a href="?edition='+encodeURIComponent(date)+'">'+safe(date)+'</a>').join("")||"No archived editions yet."}catch(e){box.textContent="No archived editions yet."}}
-(async()=>{try{const path=requested?"data/archive/"+encodeURIComponent(requested)+".json":"data/latest.json";const r=await fetch(path,{cache:"no-store"});if(!r.ok)throw new Error("Edition not found");render(await r.json())}catch(e){app.innerHTML='<div class="empty"><strong>No edition published yet.</strong><p>Once the first GitHub Actions run completes, your daily brief will appear here. Open the repository Actions tab and run “VC & PE Daily” manually for the first edition.</p></div>';document.getElementById("edition-date").textContent="Waiting for first edition"}})();
-</script></body></html>
+async function loadArchive(){const box=document.getElementById("archive-list");if(!box)return;try{const r=await fetch("data/archive/index.json");if(!r.ok)throw new Error();const dates=await r.json();box.innerHTML=dates.slice(0,45).map(date=>'<a href="?edition='+encodeURIComponent(date)+'">'+safe(date)+'</a>').join("")||"No previous editions yet."}catch(e){box.textContent="No previous editions yet."}}
+(async()=>{try{const path=requested?"data/archive/"+encodeURIComponent(requested)+".json":"data/latest.json";const response=await fetch(path,{cache:"no-store"});if(!response.ok)throw new Error("Edition not found");render(await response.json())}catch(e){app.innerHTML='<div class="empty"><strong>No daily case has been published yet.</strong><p>Run the VC & PE Daily workflow in the repository Actions tab.</p></div>';document.getElementById("edition-date").textContent="Waiting for edition"}})();
+</script>
+</body>
+</html>
