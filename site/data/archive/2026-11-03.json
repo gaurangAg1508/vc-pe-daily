@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T22:43:50.669902+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "Global deals, India startups and an investor's lens",
+  "story_count": 8,
+  "sources_checked": 15,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "stories": [
+    {
+      "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+      "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
+      "summary": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "news",
+      "published_at": "2026-11-03T10:27:49+00:00",
+      "hours_old": 4.3,
+      "is_deal": true
+    },
+    {
+      "title": "Two Point O Capital Raises $10 Mn In Series A Round Led By Transition Venture Capital - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG9NcjBKZTR2WFBvcWRDamlNaUFlSzRVS2Q2RUNQeGNBTVg1bi1PTGktcFZCb0haVkNoQWJFcTR5R1RVejRGTUE1NmcxRVZmS1p0UHA2N2U1SWF6cEN4UTEtMzBQSXFEaE1BRi1GaTJqdHFaZklTdzVHMFVyU1BXRjVpUEdNN2J6ZERoRGNhUW4xVy1SSlVPa3hJY0V5YVhhaGh2WUNGQ2c0MjZsQ0MxWGdieC0xeVREOElJMTQ5NUM4aG1PWXpHTllrRGxrUFBWeW91Nmt2N28?oc=5",
+      "summary": "Two Point O Capital Raises $10 Mn In Series A Round Led By Transition Venture Capital TradingView",
+      "source": "TradingView",
+      "region": "India",
+      "kind": "news",
+      "published_at": "2026-11-02T11:32:29+00:00",
+      "hours_old": 27.2,
+      "is_deal": true
+    },
+    {
+      "title": "PowerUp Money Raises $10 Mn To Expand Wealth Management Services",
+      "url": "https://inc42.com/buzz/powerup-money-raises-10-mn-to-expand-wealth-management-services/",
+      "summary": "Bengaluru-based wealthtech startup PowerUp Money has raised $10 Mn (₹95 Cr) in a fresh funding round led by Flourish Ventures,…",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "news",
+      "published_at": "2026-11-02T23:30:26+00:00",
+      "hours_old": 15.2,
+      "is_deal": true
+    },
+    {
+      "title": "VC funding into Indian startups plunges 66% in October",
+      "url": "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october",
+      "summary": "The steep drop in venture capital funding into Indian startups has been primarily due to near absence of large value deals in the month of October.",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "news",
+      "published_at": "2026-11-03T07:13:23+00:00",
+      "hours_old": 7.5,
+      "is_deal": true
+    },
+    {
+      "title": "Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions",
+      "url": "https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/",
+      "summary": "SpaceTech company Tumbleweed has raised €6.9 million, allegedly the largest SpaceTech Seed round ever raised in Austria, four months after the startup put the country’s first commercial satellite in orbit. The round was led by PactVC, with participation from Vanagon Ventures, early backer Prototype Capital, and EWOR. Notably, over one-third of Tumbleweed’s 25-person team also […] The post Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "kind": "news",
+      "published_at": "2026-11-03T09:35:35+00:00",
+      "hours_old": 5.1,
+      "is_deal": true
+    },
+    {
+      "title": "Clinics On Cloud Raises Rs 120 Cr Series A From Model42 At Rs 600 Cr Valuation - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlFoTDlLd0tRUlNQNXhURkxmbzJ4Njl5UWRRWHRqWG1kR3ZwTHpwbkVHc2h5OUE0MzBuSExjcjJOeXhoWk5rUFV4NXZScnpMY3FLbDZjQTZQREd3TkdWZzUwV29CZXNEalZZMG5mcGlxX053VkQxWm9LMkxIa3dwY0Z3amVmSE9MYS01dTEyZmpUQ0x0eDA5cEZBVVQxTVV5eDhMZWQ1aWlLQXRpR3JsdGRFWF9rX0laamdz?oc=5",
+      "summary": "Clinics On Cloud Raises Rs 120 Cr Series A From Model42 At Rs 600 Cr Valuation BW Disrupt",
+      "source": "BW Disrupt",
+      "region": "Global",
+      "kind": "news",
+      "published_at": "2026-11-03T04:21:26+00:00",
+      "hours_old": 10.4,
+      "is_deal": true
+    },
+    {
+      "title": "10 European bootstrapped startups who are crushing it in 2026",
+      "url": "https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/",
+      "summary": "Europe’s startup ecosystem is often associated with major funding rounds, venture capital and ambitious expansion plans. However, some of the continent’s most interesting companies are taking a different approach, building their businesses without relying on external investors. From AI-powered software to sustainable mobility solutions, these startups are demonstrating that significant progress doesn’t always require significant […] The post 10 European bootstrapped startups who are crushing it in 2026 appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "kind": "news",
+      "published_at": "2026-11-03T14:31:16+00:00",
+      "hours_old": 0.2,
+      "is_deal": true
+    },
+    {
+      "title": "Swedish VC Creandum closes €668 million CVIII fund – its largest to date",
+      "url": "https://www.eu-startups.com/2026/11/swedish-vc-creandum-closes-e668-million-cviii-fund-its-largest-to-date/",
+      "summary": "Stockholm-based venture capital firm Creandum has closed a €668 million ($750 million) fund, Creandum VIII, to back early-stage technology startups from pre-Seed to Series A. The fund, its largest to date, will support approximately 30 investments over the next two years, with a particular interest in opportunities emerging from the rapid development of AI. It […] The post Swedish VC Creandum closes €668 million CVIII fund – its largest to date appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "kind": "news",
+      "published_at": "2026-11-02T10:16:41+00:00",
+      "hours_old": 28.5,
+      "is_deal": true
+    }
+  ],
+  "deal_of_the_day": {
+    "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+    "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
+    "summary": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
+    "source": "Inc42",
+    "region": "India",
+    "kind": "news",
+    "published_at": "2026-11-03T10:27:49+00:00",
+    "hours_old": 4.3,
+    "is_deal": true,
+    "analysis": {
+      "sector": "Consumer",
+      "reported_context": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
+      "hypotheses": [
+        "The investor may be underwriting product differentiation or technology-led productivity. Test defensibility, switching costs and distribution."
+      ],
+      "what_to_validate": [
+        "Use of proceeds and runway",
+        "Revenue growth, gross margin and burn",
+        "Retention, repeat usage and customer concentration",
+        "Competitive advantage and likely exit paths"
+      ],
+      "vcic_questions": [
+        "What specific milestone does this capital make possible, and by when?",
+        "What evidence supports product-market fit: retention, repeat purchase, cohort behaviour or gross margin?",
+        "What could make this investment lose money: competition, regulation, execution, dilution or valuation?"
+      ],
+      "caveat": "These are first-pass hypotheses generated from the headline and RSS excerpt, not confirmed statements from the investor. Read the linked article and verify the facts."
+    }
+  },
+  "article_of_the_day": {
+    "title": "Clinics On Cloud Raises Rs 120 Cr Series A From Model42 At Rs 600 Cr Valuation - BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlFoTDlLd0tRUlNQNXhURkxmbzJ4Njl5UWRRWHRqWG1kR3ZwTHpwbkVHc2h5OUE0MzBuSExjcjJOeXhoWk5rUFV4NXZScnpMY3FLbDZjQTZQREd3TkdWZzUwV29CZXNEalZZMG5mcGlxX053VkQxWm9LMkxIa3dwY0Z3amVmSE9MYS01dTEyZmpUQ0x0eDA5cEZBVVQxTVV5eDhMZWQ1aWlLQXRpR3JsdGRFWF9rX0laamdz?oc=5",
+    "summary": "Clinics On Cloud Raises Rs 120 Cr Series A From Model42 At Rs 600 Cr Valuation BW Disrupt",
+    "source": "BW Disrupt",
+    "region": "Global",
+    "kind": "news",
+    "published_at": "2026-11-03T04:21:26+00:00",
+    "hours_old": 10.4,
+    "is_deal": true,
+    "why_read": "Selected from the configured investor and founder analysis feeds. Focus on the argument, evidence and assumptions—not just the conclusion.",
+    "reading_prompts": [
+      "What is the author's central claim, and what evidence supports it?",
+      "Which assumption would you challenge as an investor?",
+      "What could this teach you about sourcing, diligence, valuation or value creation?"
+    ]
+  },
+  "vcic_drill": [
+    "Would you invest? State your decision in one sentence.",
+    "What are the three strongest reasons to invest—and the three biggest risks?",
+    "What five diligence questions would you ask before submitting an IC memo?"
+  ],
+  "editor_note": "Automated first-pass curation. Headlines and excerpts are discovery aids; use the publisher link for full context and verify transaction details."
+}
