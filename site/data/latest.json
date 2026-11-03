@@ -1,11 +1,11 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T22:53:00.262880+08:00",
+  "generated_at": "2026-11-03T23:01:56.364558+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 85,
+  "candidate_count": 89,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
