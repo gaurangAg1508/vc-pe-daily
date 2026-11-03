@@ -21,7 +21,7 @@ The project can use Google's Gemini API free tier for a more detailed, company-s
 3. Set the secret name to `GEMINI_API_KEY` and paste your key as its value.
 4. Run the workflow manually once to test it.
 
-The workflow uses `gemini-3.1-flash-lite` by default. Do not enable paid billing or upgrade the API project if you want to keep this zero-cost. Google says the Gemini API free tier has limited model access/rate limits and that free-tier content may be used to improve its products. This project sends only public article headlines and RSS excerpts, not private personal data. Review Google's current terms before enabling it.
+The workflow uses `gemini-3.6-flash` by default. Do not enable paid billing or upgrade the API project if you want to keep this zero-cost. Google says the Gemini API free tier has limited model access/rate limits and that free-tier content may be used to improve its products. This project sends only public article headlines and RSS excerpts, not private personal data. Review Google's current terms before enabling it.
 
 Without the secret, the site still publishes a basic rule-based teaching template. It is less company-specific and will say when the available information is insufficient.
 
