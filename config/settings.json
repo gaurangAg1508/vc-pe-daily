@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Singapore",
+  "daily_story_count": 8,
+  "india_story_target": 4,
+  "global_story_target": 4,
+  "max_age_hours": 72,
+  "max_items_per_feed": 35,
+  "archive_index_limit": 180,
+  "site_title": "VC & PE Daily",
+  "reader_subtitle": "Global deals, India startups and an investor's lens"
+}
