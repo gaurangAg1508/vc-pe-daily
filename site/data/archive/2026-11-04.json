@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:00:14.357549+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 84,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions",
+      "url": "https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/",
+      "summary": "SpaceTech company Tumbleweed has raised €6.9 million, allegedly the largest SpaceTech Seed round ever raised in Austria, four months after the startup put the country’s first commercial satellite in orbit. The round was led by PactVC, with participation from Vanagon Ventures, early backer Prototype Capital, and EWOR. Notably, over one-third of Tumbleweed’s 25-person team also […] The post Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-03T09:35:35+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "The selected story concerns Following Austria’s first commercial satellite launch, Tumbleweed. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "SpaceTech company Tumbleweed has raised €6.9 million, allegedly the largest SpaceTech Seed round ever raised in Austria, four months after the startup put the country’s first commercial satellite in orbit. The round was led by PactVC, with participation from Vanagon Ventures, early backer Prototype Capital, and EWOR. Notably, over one-third of Tumbleweed’s 25-person team also […] The post Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions appeared first on EU-Startups .",
+      "deal_facts": [
+        {
+          "label": "Company",
+          "value": "Following Austria’s first commercial satellite launch, Tumbleweed"
+        },
+        {
+          "label": "Deal type",
+          "value": "Not confirmed from the available RSS excerpt"
+        },
+        {
+          "label": "Amount raised / deal value",
+          "value": "Not reported in the available RSS excerpt"
+        },
+        {
+          "label": "Valuation",
+          "value": "Not reported in the available RSS excerpt"
+        },
+        {
+          "label": "Investors",
+          "value": "Verify in the original article"
+        }
+      ],
+      "business_model": {
+        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
+        "customer": "Not established from the available excerpt",
+        "revenue_engine": "Not established from the available excerpt",
+        "unit_economics_to_check": [
+          "Gross margin",
+          "Customer acquisition cost (CAC)",
+          "Retention / repeat purchase",
+          "Contribution margin"
+        ]
+      },
+      "why_now": [
+        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
+        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
+      ],
+      "investor_view": {
+        "verdict": "Do not make an investment decision yet — conditional interest only",
+        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
+        "reasons_to_be_interested": [
+          "The company has attracted financing or deal attention (verify the transaction details).",
+          "The sector may offer a meaningful market opportunity (validate using independent market data)."
+        ],
+        "what_must_be_true": [
+          "Customers have a painful problem and are willing to pay.",
+          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
+          "The company has a defensible advantage.",
+          "The entry valuation allows an attractive return under realistic exit assumptions."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Weak product-market fit",
+          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
+          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
+        },
+        {
+          "risk": "Unattractive unit economics",
+          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
+          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
+        },
+        {
+          "risk": "Valuation and dilution",
+          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
+          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
+          "why": "Tests growth quality and whether scale is improving economics."
+        },
+        {
+          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
+          "why": "Tests whether demand is durable rather than one-off."
+        },
+        {
+          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
+          "why": "Tests whether growth can be scaled profitably."
+        },
+        {
+          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
+          "why": "Shows ownership, dilution and downside protection."
+        },
+        {
+          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
+          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
+        }
+      ],
+      "concept_lesson": {
+        "name": "VC/PE fund economics",
+        "definition": "Fund economics explain how investors (LPs) and the fund manager (GP) share costs, fees and profits. Key terms include management fee, carried interest, hurdle and distributions.",
+        "formula": "Simplified carry = Carry rate × Profits eligible for carry, after applying the fund's distribution waterfall and any hurdle or return of capital.",
+        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+        "worked_example": "Illustrative example: a fund returns $150m on $100m invested, producing $50m gross profit. At a simplified 20% carry with no hurdle or other adjustments, carry would be $10m. Real waterfalls can differ substantially.",
+        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
+      },
+      "vcic": {
+        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
+        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
+        "follow_up_questions": [
+          "What is the strongest evidence of repeat demand?",
+          "What is the fully diluted ownership at this price?",
+          "What milestone will this capital finance?"
+        ]
+      },
+      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
+    },
+    "region_focus": "Global",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 3,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
