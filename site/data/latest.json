@@ -1,34 +1,35 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T11:28:57.468908+08:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T11:26:27.728519+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 56,
+  "candidate_count": 44,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: TimeoutError: The read operation timed out",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
-      "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
-      "summary": "Cleantech startup altM has raised $10.3 Mn (₹97.5 Cr) in a Series A funding round led by new investors Rainmatter…",
-      "source": "Inc42",
-      "region": "India",
-      "published_at": "2026-11-05T00:30:27+00:00"
+      "title": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWVWd1BnaHo5YmlTYU9ZZjk3QmI2UzdqYTI1WUFEYkJBQnhqaHJDUXFvNi1pejVGLVFUbmN0OG44M00xdVFjV2xsVHB6ZURPUnRKUk8wTkF1MGsyN3h6TWxOWTd1aWgwVVBBeEtMVTZneHQwZ3NMVzhCR1VPWW1JOUxvRkluNERzZmxCLWdtQlRLbmZ0elplN25CMnp0TmNDU1JtWEtzcjFHeG9xOWlsZ3l2RThMN0VPX3c?oc=5",
+      "summary": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine greatreporter",
+      "source": "greatreporter",
+      "region": "Global",
+      "published_at": "2026-11-06T00:00:43+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The selected story concerns Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing. The RSS excerpt is a starting point, not a full company profile.",
-      "what_happened": "Cleantech startup altM has raised $10.3 Mn (₹97.5 Cr) in a Series A funding round led by new investors Rainmatter…",
+      "company_at_a_glance": "The selected story concerns The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine greatreporter",
       "deal_facts": [
         {
           "label": "Company",
-          "value": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing"
+          "value": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter"
         },
         {
           "label": "Deal type",
@@ -116,11 +117,11 @@
         }
       ],
       "concept_lesson": {
-        "name": "Portfolio construction",
-        "definition": "Portfolio construction is how a fund spreads capital across companies, stages, sectors and geographies while managing concentration, reserves and the possibility that many investments fail.",
-        "formula": "A useful lens is portfolio exposure = Capital invested in a company / Total fund commitments. Ownership targets and reserve needs affect the number of investments a fund can make.",
+        "name": "Due diligence",
+        "definition": "Due diligence is the process of testing whether a company's claims, economics, team, market and risks support the proposed investment decision and price.",
+        "formula": "Organise diligence into market, product, customers, competition, financials, team, legal/regulatory and transaction terms. For each claim, identify evidence, owner and unresolved risk.",
         "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
-        "worked_example": "Illustrative example: a $100m fund investing $5m initially in a company has 5% of commitments deployed before follow-on reserves and fund expenses. This is not a recommended allocation.",
+        "worked_example": "Illustrative example: rather than accepting 'high retention', request cohort retention by month, customer segment, gross revenue retention and net revenue retention, then reconcile the figures to source data.",
         "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
@@ -134,9 +135,9 @@
       },
       "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 4,
+  "concept_rotation_index": 5,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
