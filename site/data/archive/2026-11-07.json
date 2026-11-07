@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:46:54.519341+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 45,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
+      "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+      "summary": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-05T14:46:07+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "The selected story concerns Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
+      "deal_facts": [
+        {
+          "label": "Company",
+          "value": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine"
+        },
+        {
+          "label": "Deal type",
+          "value": "Not confirmed from the available RSS excerpt"
+        },
+        {
+          "label": "Amount raised / deal value",
+          "value": "Not reported in the available RSS excerpt"
+        },
+        {
+          "label": "Valuation",
+          "value": "Not reported in the available RSS excerpt"
+        },
+        {
+          "label": "Investors",
+          "value": "Verify in the original article"
+        }
+      ],
+      "business_model": {
+        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
+        "customer": "Not established from the available excerpt",
+        "revenue_engine": "Not established from the available excerpt",
+        "unit_economics_to_check": [
+          "Gross margin",
+          "Customer acquisition cost (CAC)",
+          "Retention / repeat purchase",
+          "Contribution margin"
+        ]
+      },
+      "why_now": [
+        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
+        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
+      ],
+      "investor_view": {
+        "verdict": "Do not make an investment decision yet — conditional interest only",
+        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
+        "reasons_to_be_interested": [
+          "The company has attracted financing or deal attention (verify the transaction details).",
+          "The sector may offer a meaningful market opportunity (validate using independent market data)."
+        ],
+        "what_must_be_true": [
+          "Customers have a painful problem and are willing to pay.",
+          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
+          "The company has a defensible advantage.",
+          "The entry valuation allows an attractive return under realistic exit assumptions."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Weak product-market fit",
+          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
+          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
+        },
+        {
+          "risk": "Unattractive unit economics",
+          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
+          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
+        },
+        {
+          "risk": "Valuation and dilution",
+          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
+          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
+          "why": "Tests growth quality and whether scale is improving economics."
+        },
+        {
+          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
+          "why": "Tests whether demand is durable rather than one-off."
+        },
+        {
+          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
+          "why": "Tests whether growth can be scaled profitably."
+        },
+        {
+          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
+          "why": "Shows ownership, dilution and downside protection."
+        },
+        {
+          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
+          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
+        }
+      ],
+      "concept_lesson": {
+        "name": "Pre-money vs post-money valuation",
+        "definition": "Pre-money valuation is what the company is worth immediately before new investment. Post-money valuation is the value immediately after the investment.",
+        "formula": "Post-money = Pre-money + New investment. Investor ownership = Investment / Post-money.",
+        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+        "worked_example": "Illustrative example: a $4m investment at a $16m pre-money valuation gives a $20m post-money valuation and 20% ownership. These numbers are not facts about today's company.",
+        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
+      },
+      "vcic": {
+        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
+        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
+        "follow_up_questions": [
+          "What is the strongest evidence of repeat demand?",
+          "What is the fully diluted ownership at this price?",
+          "What milestone will this capital finance?"
+        ]
+      },
+      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
+    },
+    "region_focus": "India",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 0,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}

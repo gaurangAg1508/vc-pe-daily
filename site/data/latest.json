@@ -1,35 +1,35 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:26:27.728519+08:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:46:54.519341+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 44,
+  "candidate_count": 45,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
-    "EU-Startups: TimeoutError: The read operation timed out",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWVWd1BnaHo5YmlTYU9ZZjk3QmI2UzdqYTI1WUFEYkJBQnhqaHJDUXFvNi1pejVGLVFUbmN0OG44M00xdVFjV2xsVHB6ZURPUnRKUk8wTkF1MGsyN3h6TWxOWTd1aWgwVVBBeEtMVTZneHQwZ3NMVzhCR1VPWW1JOUxvRkluNERzZmxCLWdtQlRLbmZ0elplN25CMnp0TmNDU1JtWEtzcjFHeG9xOWlsZ3l2RThMN0VPX3c?oc=5",
-      "summary": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine greatreporter",
-      "source": "greatreporter",
-      "region": "Global",
-      "published_at": "2026-11-06T00:00:43+00:00"
+      "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
+      "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+      "summary": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-05T14:46:07+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The selected story concerns The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter. The RSS excerpt is a starting point, not a full company profile.",
-      "what_happened": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine greatreporter",
+      "company_at_a_glance": "The selected story concerns Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
       "deal_facts": [
         {
           "label": "Company",
-          "value": "The Grassroots Renaissance: How One Visionary Leader Is Transforming Thailand’s Village Funds into the World’s Largest Community Venture Capital Engine - greatreporter"
+          "value": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine"
         },
         {
           "label": "Deal type",
@@ -117,11 +117,11 @@
         }
       ],
       "concept_lesson": {
-        "name": "Due diligence",
-        "definition": "Due diligence is the process of testing whether a company's claims, economics, team, market and risks support the proposed investment decision and price.",
-        "formula": "Organise diligence into market, product, customers, competition, financials, team, legal/regulatory and transaction terms. For each claim, identify evidence, owner and unresolved risk.",
+        "name": "Pre-money vs post-money valuation",
+        "definition": "Pre-money valuation is what the company is worth immediately before new investment. Post-money valuation is the value immediately after the investment.",
+        "formula": "Post-money = Pre-money + New investment. Investor ownership = Investment / Post-money.",
         "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
-        "worked_example": "Illustrative example: rather than accepting 'high retention', request cohort retention by month, customer segment, gross revenue retention and net revenue retention, then reconcile the figures to source data.",
+        "worked_example": "Illustrative example: a $4m investment at a $16m pre-money valuation gives a $20m post-money valuation and 20% ownership. These numbers are not facts about today's company.",
         "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
@@ -135,9 +135,9 @@
       },
       "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "Global",
+    "region_focus": "India",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 5,
+  "concept_rotation_index": 0,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
