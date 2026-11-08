@@ -1,143 +1,148 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T10:46:54.519341+08:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T10:28:56.383250+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 45,
+  "candidate_count": 55,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
-    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
-      "url": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
-      "summary": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
-      "source": "Inc42",
-      "region": "India",
-      "published_at": "2026-11-05T14:46:07+00:00"
+      "title": "Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home",
+      "url": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/",
+      "summary": "Bioliberty, an Edinburgh- and Boston-based rehabilitation technology startup, has raised a €2.95 million ($3.3 million) Series A extension, bringing its total funding to €12.07 million ($13.5 million). The Series A extension adds four new institutional backers: TGH Ventures, the investment arm of Tampa General Hospital; Ballad Ventures; Belfast-based Whiterock; and 25m Health. The extension builds […] The post Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-06T09:13:13+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The selected story concerns Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine. The RSS excerpt is a starting point, not a full company profile.",
-      "what_happened": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
+      "company_at_a_glance": "Bioliberty is an Edinburgh- and Boston-based medical technology startup developing AI-powered rehabilitation technology designed for home use by patients.",
+      "what_happened": "Bioliberty raised a €2.95 million ($3.3 million) Series A extension round, bringing its cumulative funding to €12.07 million ($13.5 million). The extension attracted four new institutional investors: TGH Ventures (the corporate investment arm of Tampa General Hospital), Ballad Ventures, Belfast-based Whiterock, and 25m Health.",
       "deal_facts": [
         {
-          "label": "Company",
-          "value": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine"
+          "label": "Company Name",
+          "value": "Bioliberty"
         },
         {
-          "label": "Deal type",
-          "value": "Not confirmed from the available RSS excerpt"
+          "label": "Funding Round",
+          "value": "Series A Extension"
         },
         {
-          "label": "Amount raised / deal value",
-          "value": "Not reported in the available RSS excerpt"
+          "label": "Extension Capital Raised",
+          "value": "€2.95 million ($3.3 million)"
         },
         {
-          "label": "Valuation",
-          "value": "Not reported in the available RSS excerpt"
+          "label": "Total Capital Raised to Date",
+          "value": "€12.07 million ($13.5 million)"
         },
         {
-          "label": "Investors",
-          "value": "Verify in the original article"
+          "label": "New Institutional Investors",
+          "value": "TGH Ventures (Tampa General Hospital), Ballad Ventures, Whiterock, 25m Health"
+        },
+        {
+          "label": "Headquarters / Geographic Footprint",
+          "value": "Edinburgh, UK and Boston, Massachusetts, USA"
+        },
+        {
+          "label": "Core Product Focus",
+          "value": "AI-powered rehabilitation technology for home use"
+        },
+        {
+          "label": "Pre-Money / Post-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt"
+        },
+        {
+          "label": "Company Financial Metrics (Revenue, Burn, Growth)",
+          "value": "Not disclosed in the supplied article excerpt"
+        },
+        {
+          "label": "Liquidation Preference & Governance Terms",
+          "value": "Not disclosed in the supplied article excerpt"
         }
       ],
       "business_model": {
-        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
-        "customer": "Not established from the available excerpt",
-        "revenue_engine": "Not established from the available excerpt",
+        "plain_english": "Bioliberty creates AI-driven hardware and software solutions that allow patients to complete rehabilitation therapy at home rather than inside physical hospital clinics.",
+        "customer": "Likely targets health systems, outpatient rehab centers, insurers, and home healthcare providers, though specific target customer profiles are Not disclosed in the supplied article excerpt. The involvement of health system venture arms (TGH Ventures) suggests B2B or B2B2C distribution through health networks.",
+        "revenue_engine": "The exact monetization model (e.g., medical device sales, recurring software license per active patient, or remote patient monitoring service fees) is Not disclosed in the supplied article excerpt.",
         "unit_economics_to_check": [
-          "Gross margin",
-          "Customer acquisition cost (CAC)",
-          "Retention / repeat purchase",
-          "Contribution margin"
+          "Gross margin structure on hardware/devices versus continuous software tracking (Not disclosed in the supplied article excerpt).",
+          "Customer Acquisition Cost (CAC) for health system sales channels vs. direct patient adoption (Not disclosed in the supplied article excerpt).",
+          "Reimbursement rate per patient session under existing Remote Therapeutic Monitoring (RTM) billing codes (Not disclosed in the supplied article excerpt)."
         ]
       },
       "why_now": [
-        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
-        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
+        "Possible investor rationale: Healthcare providers face structural physical therapist shortages, creating acute demand for scalable home-based rehabilitation technologies.",
+        "Possible investor rationale: Strategic health system investors like TGH Ventures see an opportunity to lower hospital readmission rates and reduce post-acute care expenses using AI monitoring.",
+        "Possible investor rationale: Expanding from Edinburgh into Boston enables access to the large, lucrative US healthcare and insurance reimbursement market."
       ],
       "investor_view": {
-        "verdict": "Do not make an investment decision yet — conditional interest only",
-        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
+        "verdict": "Conditional interest pending full diligence; immediate investment cannot be recommended based solely on disclosed data.",
+        "thesis": "Bioliberty addresses a large post-acute rehabilitation market by combining AI with home therapy. Participation from strategic health system funds validates clinical potential, but missing revenue, valuation, regulatory status, and cap table data require thorough verification.",
         "reasons_to_be_interested": [
-          "The company has attracted financing or deal attention (verify the transaction details).",
-          "The sector may offer a meaningful market opportunity (validate using independent market data)."
+          "Strategic distribution partners: Backing from TGH Ventures (Tampa General Hospital) offers direct clinical validation and potential customer adoption in the US.",
+          "Dual-market geographic strategy: Positioning across Edinburgh and Boston leverages European engineering talent while positioning for US commercialization.",
+          "Investor syndicate expansion: Securing four new institutional funds for an extension signals positive syndicate momentum despite tough medtech capital markets."
         ],
         "what_must_be_true": [
-          "Customers have a painful problem and are willing to pay.",
-          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
-          "The company has a defensible advantage.",
-          "The entry valuation allows an attractive return under realistic exit assumptions."
+          "The product possesses necessary regulatory clearances (e.g., FDA 510(k) or CE Mark) for home patient operation (Not disclosed in the supplied article excerpt).",
+          "Clear billing codes (such as CPT codes) exist allowing health providers to get reimbursed when patients use the technology (Not disclosed in the supplied article excerpt).",
+          "The cap table liquidation preference structure from €12.07M total raised does not severely dilate or subordinate new extension investors."
         ]
       },
       "risks": [
-        {
-          "risk": "Weak product-market fit",
-          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
-          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
-        },
-        {
-          "risk": "Unattractive unit economics",
-          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
-          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
-        },
-        {
-          "risk": "Valuation and dilution",
-          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
-          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
-        }
+        "Risk: Regulatory clearance bottlenecks or delays.",
+        "Why it matters: Medical technology devices intended for patient home use require stringent regulatory approval; delays lengthen cash burn drastically.",
+        "How to test: Inspect regulatory filing status (FDA pre-submissions or clearances, CE marks), clinical trial outputs, and legal counsel opinions.",
+        "Risk: Payer adoption and reimbursement coverage failure.",
+        "Why it matters: Without clear insurance reimbursement, adoption relies on out-of-pocket patient pay, significantly limiting market size.",
+        "How to test: Request audit of billing history, existing CPT/HCPCS code applicability, and payer coverage contracts from pilot implementations.",
+        "Risk: Cap table liquidation preference overhang.",
+        "Why it matters: Raising cumulative funding of €12.07M across multiple tranches can stack heavy liquidation preferences, wiping out equity returns for junior investors or founders in a modest exit.",
+        "How to test: Review full capitalisation table, Articles of Association, and constitutional documents detailing preference seniority and participation rights."
       ],
       "diligence": [
         {
-          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
-          "why": "Tests growth quality and whether scale is improving economics."
+          "request": "Complete Capitalization Table and Series A / Extension Term Sheets",
+          "why": "To verify ownership percentages, preference seniority (pari passu vs. stacked), liquidation multiples, and non-participating vs. participating preference rights."
         },
         {
-          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
-          "why": "Tests whether demand is durable rather than one-off."
+          "request": "Historical Financial Statements, Monthly Burn Rate, and Runway Model",
+          "why": "Financial metrics are Not disclosed in the supplied article excerpt; we must evaluate how long the €2.95M extension extends company runway."
         },
         {
-          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
-          "why": "Tests whether growth can be scaled profitably."
-        },
-        {
-          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
-          "why": "Shows ownership, dilution and downside protection."
-        },
-        {
-          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
-          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
+          "request": "Regulatory Filings and Clinical Efficacy Data",
+          "why": "To confirm that the AI technology is legally cleared for home patient rehabilitation and that clinical trial outcomes show equivalent or superior recovery metrics."
         }
       ],
       "concept_lesson": {
-        "name": "Pre-money vs post-money valuation",
-        "definition": "Pre-money valuation is what the company is worth immediately before new investment. Post-money valuation is the value immediately after the investment.",
-        "formula": "Post-money = Pre-money + New investment. Investor ownership = Investment / Post-money.",
-        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
-        "worked_example": "Illustrative example: a $4m investment at a $16m pre-money valuation gives a $20m post-money valuation and 20% ownership. These numbers are not facts about today's company.",
-        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
+        "name": "Liquidation Preference",
+        "definition": "A liquidation preference is a clause in a venture capital term sheet that dictates the order and amount of payout that preferred shareholders receive before common shareholders (typically founders and employees) receive cash upon an exit, merger, or liquidation.",
+        "formula": "For 1x Non-Participating Preferred: Investor Payout = Max( Invested Capital , Ownership Percentage * Total Net Exit Proceeds ). For 1x Fully Participating Preferred: Investor Payout = Invested Capital + [ Ownership Percentage * (Total Net Exit Proceeds - Total Preference Claims) ].",
+        "connection_to_deal": "The exact liquidation preference terms of Bioliberty's €2.95M Series A extension are Not disclosed in the supplied article excerpt. However, assessing liquidation preferences is critical in extension rounds because Bioliberty has raised €12.07M total. Seniority and participation terms determine how proceeds will be split between existing preferred shareholders, extension investors, and common shareholders in an exit.",
+        "worked_example": "Below is a hypothetical numerical illustration analyzing potential exit payouts for Bioliberty investors. All parameters are explicitly tagged as reported or hypothetical:\n\n- Extension Capital Raised [Reported]: €2.95 million ($3.3 million).\n- Total Cumulative Capital Raised [Reported]: €12.07 million ($13.5 million).\n- Exit Valuation Scenario [Hypothetical]: €20.0 million net proceeds upon company sale.\n- Series A Extension Investor Ownership [Hypothetical]: 10.0% post-money equity stake.\n- Total Preferred Shares Preference Pool [Hypothetical]: 1x Non-Participating Preference equal to total capital raised (€12.07 million).\n\nSCENARIO A: 1x Non-Participating Preferred\n1. Extension Investor evaluates choices:\n   a) Exercise 1x liquidation preference payout = €2.95 million [Hypothetical calculation].\n   b) Convert to common stock and take as-converted share: 10.0% * €20.0 million = €2.00 million [Hypothetical calculation].\n2. Decision: Investor elects preference payout of €2.95 million because €2.95 million > €2.00 million.\n3. Aggregate Preferred Claims: Total preferred investors collect their 1x preference pool totaling €12.07 million [Hypothetical payout].\n4. Remaining for Common Shareholders (Founders/Employees): €20.0 million - €12.07 million = €7.93 million [Hypothetical payout].\n\nSCENARIO B: 1x Fully Participating Preferred (Hypothetical Counterfactual)\n1. Preferred investors first collect 1x preference return: €12.07 million paid out upfront [Hypothetical].\n2. Remaining exit pool to distribute: €20.0 million - €12.07 million = €7.93 million [Hypothetical].\n3. Extension investor 'double dips' by taking their 10% share of remaining pool: 10% * €7.93 million = €0.793 million [Hypothetical].\n4. Total Extension Investor Payout: €2.95 million preference + €0.793 million participation = €3.743 million [Hypothetical payout].",
+        "takeaway": "Liquidation preferences act as downside protection for venture capitalists. Non-participating preferences ensure investors get their capital back before common shareholders if the exit price is low, while participating preferences allow investors to 'double dip' by claiming preferred capital first and then sharing in remaining proceeds."
       },
       "vcic": {
-        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
-        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
+        "sample_recommendation": "We recommend proceeding to formal Phase 2 due diligence on Bioliberty's €2.95M Series A extension, but withholding a final investment check commitment. While strategic hospital backing (TGH Ventures) and dual US/UK positioning are strong positive signals, critical data including historical revenues, burn rate, regulatory approvals, and cap table liquidation terms are Not disclosed in the supplied article excerpt.",
+        "how_to_present": "In your VCIC partner presentation: 1) Frame the Opportunity: Highlight the market pull for AI home rehabilitation validated by health system funds like TGH Ventures. 2) Call out Key Risks: Emphasize that with €12.07M total capital raised, cap table preferences must be audited to ensure late-stage investors aren't subordinated. 3) Define Clear Diligence Requirements: State that final decision requires reviewing FDA status, reimbursement CPT codes, and the constitutional liquidation preference structure.",
         "follow_up_questions": [
-          "What is the strongest evidence of repeat demand?",
-          "What is the fully diluted ownership at this price?",
-          "What milestone will this capital finance?"
+          "What is the exact liquidation preference structure and seniority ranking across prior funding tranches and this Series A extension?",
+          "What are the specific FDA regulatory clearances or CE marks held by Bioliberty for home rehabilitation devices?",
+          "What is Bioliberty's current monthly cash burn rate, and how many months of runway does this €2.95M extension provide?"
         ]
       },
-      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
+      "ai_note": "This analysis was prepared by an AI VC analyst simulation based strictly on facts present in the provided article excerpt. Operational, financial, valuation, and contractual terms not explicitly reported are flagged as 'Not disclosed in the supplied article excerpt'. All numerical models for liquidation preference mechanics utilize stated funding numbers alongside clearly declared hypothetical assumptions."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 0,
+  "concept_rotation_index": 1,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
