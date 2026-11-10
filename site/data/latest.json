@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T10:39:50.792676+08:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:37:20.639495+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 39,
+  "candidate_count": 34,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
@@ -15,124 +15,128 @@
   ],
   "case_study": {
     "story": {
-      "title": "Startup ecosystem sees sharp rise VC inflow; Building a hemp ecosystem in Uttarakhand",
-      "url": "https://yourstory.com/2026/11/angel-one-claims-silver-spot-in-indias-broking-race",
-      "summary": "Industry watchers expect that a post-US midterm slowdown in AI funding could work in favor of Indian startups.",
-      "source": "YourStory",
-      "region": "India",
-      "published_at": "2026-11-09T02:00:00+00:00"
+      "title": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise",
+      "url": "https://www.eu-startups.com/2026/11/palantir-alumni-founded-dutch-defencetech-scale-up-onodrim-hits-unicorn-status-after-raising-e268-01-million/",
+      "summary": "Onodrim, the Dutch European defence and industrial scale-up platform, has closed a €268.01 million ($300 million) Series A funding round at a €1.16 billion ($1.3 billion) valuation. The funding round was led by US investment group Lux Capital, with participation from existing investors General Catalyst and Lakestar, alongside Altimeter, Strike Capital, 137 Ventures, and 8090, […] The post Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-09T10:30:26+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The provided news excerpt focuses on broader macro trends in the Indian startup ecosystem, specifically noting a sharp rise in Venture Capital (VC) inflows into India and highlighting regional initiatives such as building a hemp ecosystem in Uttarakhand. Details regarding specific individual startup companies, executive teams, founding dates, or proprietary technology metrics are not disclosed in the supplied article excerpt.",
-      "what_happened": "According to industry observers cited by YourStory, the Indian startup ecosystem is experiencing a marked acceleration in venture capital inflows. Market commentators expect that a potential slowdown in US AI funding following the US midterm elections could redirect global institutional venture capital toward Indian emerging markets and regional initiatives like Uttarakhand's hemp sector. Source article: https://yourstory.com/2026/11/angel-one-claims-silver-spot-in-indias-broking-race.",
+      "company_at_a_glance": "The selected story concerns Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Onodrim, the Dutch European defence and industrial scale-up platform, has closed a €268.01 million ($300 million) Series A funding round at a €1.16 billion ($1.3 billion) valuation. The funding round was led by US investment group Lux Capital, with participation from existing investors General Catalyst and Lakestar, alongside Altimeter, Strike Capital, 137 Ventures, and 8090, […] The post Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise appeared first on EU-Startups .",
       "deal_facts": [
         {
-          "label": "Target Company / Entity",
-          "value": "Not disclosed in the supplied article excerpt (mentions broader ecosystem trends and Uttarakhand hemp initiative without specifying a single deal target)."
+          "label": "Company",
+          "value": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise"
         },
         {
-          "label": "Investment Amount / Deal Size",
-          "value": "Not disclosed in the supplied article excerpt. Essential for assessing round dynamics and fund deployment constraints."
+          "label": "Deal type",
+          "value": "Not confirmed from the available RSS excerpt"
         },
         {
-          "label": "Post-Money Valuation",
-          "value": "Not disclosed in the supplied article excerpt. Critical for underwriting ownership stake and calculating target returns."
+          "label": "Amount raised / deal value",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "Lead Investors",
-          "value": "Not disclosed in the supplied article excerpt. Necessary for evaluating syndicate quality and signaling value."
+          "label": "Valuation",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "Geographic Region",
-          "value": "India (specifically referencing Uttarakhand in the headline)."
-        },
-        {
-          "label": "Macro Driver",
-          "value": "Anticipated post-US midterm slowdown in US AI investments driving capital reallocation toward Indian startups."
+          "label": "Investors",
+          "value": "Verify in the original article"
         }
       ],
       "business_model": {
-        "plain_english": "Not disclosed in the supplied article excerpt. The text highlights sector-level VC inflows and regional industrial focus (hemp ecosystem) rather than a single operating entity's model.",
-        "customer": "Not disclosed in the supplied article excerpt. Potential buyers could range from industrial B2B off-takers to B2C wellness consumers depending on the exact company operating within the hemp space.",
-        "revenue_engine": "Not disclosed in the supplied article excerpt. Monetization structures (e.g., direct sales, marketplace take-rates, contract processing) cannot be verified from the snippet.",
+        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
+        "customer": "Not established from the available excerpt",
+        "revenue_engine": "Not established from the available excerpt",
         "unit_economics_to_check": [
-          "Customer Acquisition Cost (CAC) vs. Customer Lifetime Value (LTV)",
-          "Gross Margin % (to verify unit profitability before fixed overhead)",
-          "Contribution Margin post-logistics and regional distribution costs",
-          "Burn Multiple (Net Burn / Net New ARR or Revenue growth)"
+          "Gross margin",
+          "Customer acquisition cost (CAC)",
+          "Retention / repeat purchase",
+          "Contribution margin"
         ]
       },
       "why_now": [
-        "Possible investor rationale: Global fund managers may seek to reallocate capital away from over-saturated, high-valuation US AI markets post-midterms toward higher-yielding emerging tech and industrial sectors in India.",
-        "Possible investor rationale: Early movers in regional industrial initiatives, such as Uttarakhand's hemp ecosystem, could benefit from state-level regulatory tailwinds and early supply-chain monopolies.",
-        "Possible investor rationale: Surging domestic VC inflow creates favorable follow-on funding environment, reducing liquidity and execution risks for early-stage investors."
+        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
+        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
       ],
       "investor_view": {
-        "verdict": "Not yet; conditional interest.",
-        "thesis": "The combination of global capital reallocation into India and early-stage development in sustainable sectors like hemp presents an attractive macro narrative. However, institutional venture investing requires granular asset-level unit economics, legal clarity, and clear entry valuations which are currently absent.",
+        "verdict": "Do not make an investment decision yet — conditional interest only",
+        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
         "reasons_to_be_interested": [
-          "Macro tailwinds accelerating venture capital deployment into the Indian technology and industrial sectors.",
-          "Potential valuation arbitrage opportunities if US AI deal activity cools down and global LPs demand capital deployment in high-growth emerging regions."
+          "The company has attracted financing or deal attention (verify the transaction details).",
+          "The sector may offer a meaningful market opportunity (validate using independent market data)."
         ],
         "what_must_be_true": [
-          "Target company must present audited financial statements proving non-zero revenues and positive contribution margins.",
-          "Regulatory frameworks governing hemp cultivation, processing, and distribution in Uttarakhand must be fully compliant and nationally scalable.",
-          "Entry valuation must allow the fund to achieve its target return thresholds (>3.0x MOIC / >25% net IRR)."
+          "Customers have a painful problem and are willing to pay.",
+          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
+          "The company has a defensible advantage.",
+          "The entry valuation allows an attractive return under realistic exit assumptions."
         ]
       },
       "risks": [
         {
-          "risk": "Lack of company-specific financial and operational data",
-          "why_it_matters": "Without revenue, gross margins, and burn rates, an investor cannot model return scenarios or evaluate cash runaway, exposing the fund to unquantifiable capital loss.",
-          "how_to_test": "Request audited cap tables, 24-month historical income statements, cash flow statements, and monthly cohort retention schedules."
+          "risk": "Weak product-market fit",
+          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
+          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
         },
         {
-          "risk": "Regulatory and legal ambiguity in regional bio-ecosystems (hemp)",
-          "why_it_matters": "Hemp and agricultural processing are subject to state-level licencing in India; regulatory shifts could freeze operations overnight.",
-          "how_to_test": "Conduct detailed legal due diligence with local counsel in Uttarakhand to review operating licences, state commercial permits, and compliance records."
+          "risk": "Unattractive unit economics",
+          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
+          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
         },
         {
-          "risk": "Macro capital rotation narrative fails to materialize",
-          "why_it_matters": "If capital does not shift from US AI to Indian startups, downstream follow-on funding rounds (Series A/B) may dry up, leading to down-rounds or insolvency.",
-          "how_to_test": "Analyze dry powder data from Indian VC funds and monitor cross-border capital flow trends over consecutive quarters."
+          "risk": "Valuation and dilution",
+          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
+          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
         }
       ],
       "diligence": [
         {
-          "request": "Detailed Cap Table & Term Sheet History",
-          "why": "To verify current ownership percentages, liquidation preferences, option pools, and existing investor rights."
+          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
+          "why": "Tests growth quality and whether scale is improving economics."
         },
         {
-          "request": "Unit Economics & Customer Cohort Analysis",
-          "why": "To establish whether growth is driven by sustainable economic fundamentals or unprofitable marketing spend."
+          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
+          "why": "Tests whether demand is durable rather than one-off."
         },
         {
-          "request": "Regulatory Compliance & Operating Licences",
-          "why": "To confirm legal authorization to cultivate, process, or sell hemp-derived products in Uttarakhand and across state borders."
+          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
+          "why": "Tests whether growth can be scaled profitably."
+        },
+        {
+          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
+          "why": "Shows ownership, dilution and downside protection."
+        },
+        {
+          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
+          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
         }
       ],
       "concept_lesson": {
-        "name": "IRR (Internal Rate of Return) vs. MOIC (Multiple on Invested Capital)",
-        "definition": "MOIC (Multiple on Invested Capital) measures the absolute gross return generated by an investment relative to the capital put in, completely ignoring time. IRR (Internal Rate of Return) measures the annualized effective compounded return rate, accounting directly for the timing of cash inflows and outflows (Time Value of Money).",
-        "formula": "MOIC = Total Cash Returned / Total Cash Invested. IRR (for a single entry and exit cash flow) = (Exit Value / Investment Amount)^(1 / Years) - 1.",
-        "connection_to_deal": "Because specific cash outflow amounts, exit valuations, entry dates, and holding periods are not disclosed in the supplied article excerpt, neither MOIC nor IRR can be calculated for this opportunity. However, understanding the trade-off between MOIC and IRR is essential for VC investors evaluating early-stage deals during macro liquidity shifts.",
-        "worked_example": "Consider two hypothetical investment scenarios for a venture capital fund evaluating an Indian startup. Note: All dollar figures, timelines, and return multiples below are 100% HYPOTHETICAL illustrative numbers because no transaction amounts were disclosed in the article snippet.\n\nScenario A (Fast Exit):\n- Capital Invested: $1,000,000 (Hypothetical)\n- Total Exit Proceeds: $3,000,000 (Hypothetical)\n- Holding Period: 3 Years (Hypothetical)\n- MOIC Calculation: $3,000,000 / $1,000,000 = 3.0x MOIC (Hypothetical)\n- IRR Calculation: ($3,000,000 / $1,000,000)^(1/3) - 1 = (3.0)^(0.3333) - 1 = 44.22% IRR (Hypothetical)\n\nScenario B (Slow Exit):\n- Capital Invested: $1,000,000 (Hypothetical)\n- Total Exit Proceeds: $3,000,000 (Hypothetical)\n- Holding Period: 8 Years (Hypothetical)\n- MOIC Calculation: $3,000,000 / $1,000,000 = 3.0x MOIC (Hypothetical)\n- IRR Calculation: ($3,000,000 / $1,000,000)^(1/8) - 1 = (3.0)^(0.125) - 1 = 14.72% IRR (Hypothetical)\n\nComparison Analysis: Both scenarios yield the exact same 3.0x MOIC (Hypothetical), returning $3M on $1M. However, Scenario A achieves a 44.22% IRR (Hypothetical) while Scenario B achieves only 14.72% IRR (Hypothetical) because Scenario A returned the cash 5 years faster. Venture funds care about IRR because Fund LPs demand high annualized returns relative to public market benchmarks.",
-        "takeaway": "MOIC tells you how much total cash returned to your fund to help hit absolute dollar targets, whereas IRR tells you how fast that cash was generated. Highly successful VC funds balance both: high MOIC returns capital scale, while high IRR protects fund performance against time-decay."
+        "name": "VC/PE fund economics",
+        "definition": "Fund economics explain how investors (LPs) and the fund manager (GP) share costs, fees and profits. Key terms include management fee, carried interest, hurdle and distributions.",
+        "formula": "Simplified carry = Carry rate × Profits eligible for carry, after applying the fund's distribution waterfall and any hurdle or return of capital.",
+        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+        "worked_example": "Illustrative example: a fund returns $150m on $100m invested, producing $50m gross profit. At a simplified 20% carry with no hurdle or other adjustments, carry would be $10m. Real waterfalls can differ substantially.",
+        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
-        "sample_recommendation": "Partner Recommendation: PASS on immediate capital commitment; issuing CONDITIONAL INTEREST pending target identification.\n\nKey Supporting Arguments:\n1. Macro Opportunity: Tailwinds supporting Indian VC inflows provide an advantageous fundraising backdrop, but macro trends alone do not guarantee micro-level fundability.\n2. Incomplete Information: Key parameters—including company identity, historical revenues, unit economics, and entry valuation—are 'Not disclosed in the supplied article excerpt'.\n3. Value Creation Requirement: To achieve our target hurdle rate (>3.0x MOIC / >25% IRR), we require documented evidence of capital-efficient unit economics and regulatory moats before issuing a formal Term Sheet.",
-        "how_to_present": "Begin your 3-minute VCIC pitch by clearly acknowledging macro tailwinds (capital rotation from US AI to India) to show commercial awareness. Instantly transition to disciplined underwriting rigor: highlight that critical metrics (valuation, revenue, cap table) are absent. Clearly articulate your return hurdles using IRR and MOIC terminology, proving to the judges that you prioritize capital preservation over thematic hype.",
+        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
+        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
         "follow_up_questions": [
-          "Given the potential rotation of capital from US AI markets, how are local Indian seed-stage valuations adjusting, and are we at risk of entering at peak multiples?",
-          "If we achieve a 3.0x MOIC on an early-stage Indian hemp venture, what specific holding period is required to keep our net LP IRR above our hurdle rate of 25%?",
-          "What regulatory covenants or liquidation preferences must we insert into the term sheet to protect our capital against local policy shifts in Uttarakhand?"
+          "What is the strongest evidence of repeat demand?",
+          "What is the fully diluted ownership at this price?",
+          "What milestone will this capital finance?"
         ]
       },
-      "ai_note": "This case study was generated strictly analyzing the provided headline and RSS excerpt. Where critical metrics were absent, they were explicitly identified as 'Not disclosed in the supplied article excerpt' to maintain rigorous academic standards appropriate for VCIC preparation."
+      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 2,
+  "concept_rotation_index": 3,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
