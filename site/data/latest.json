@@ -1,142 +1,132 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T12:37:20.639495+08:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:46:11.341277+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 34,
+  "candidate_count": 44,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise",
-      "url": "https://www.eu-startups.com/2026/11/palantir-alumni-founded-dutch-defencetech-scale-up-onodrim-hits-unicorn-status-after-raising-e268-01-million/",
-      "summary": "Onodrim, the Dutch European defence and industrial scale-up platform, has closed a €268.01 million ($300 million) Series A funding round at a €1.16 billion ($1.3 billion) valuation. The funding round was led by US investment group Lux Capital, with participation from existing investors General Catalyst and Lakestar, alongside Altimeter, Strike Capital, 137 Ventures, and 8090, […] The post Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise appeared first on EU-Startups .",
-      "source": "EU-Startups",
-      "region": "Global",
-      "published_at": "2026-11-09T10:30:26+00:00"
+      "title": "Venture Capital Market Witnesses Growth Driven by Rising Startup Investments and Innovation Funding | Coherent Market Insights - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3VtRVFjRFl6TzZ4Z3NDWl85THY4VXlFa3RqcTB3YnZldlQ1aFZSZmFNUUdlTGNnM01HbVdIUll6YzBzd3JaVU51QTR5RXRDb3JHR1kwU2E4Rnd1STlFSGdJWkVBb3hVdXM3cjNsZWZZZ19pYXRGcTFYNnBETWQycVBpMmZEUGttVUNmUjduRVNKQQ?oc=5",
+      "summary": "Venture Capital Market Witnesses Growth Driven by Rising Startup Investments and Innovation Funding | Coherent Market Insights Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "region": "India",
+      "published_at": "2026-11-10T12:07:00+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The selected story concerns Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise. The RSS excerpt is a starting point, not a full company profile.",
-      "what_happened": "Onodrim, the Dutch European defence and industrial scale-up platform, has closed a €268.01 million ($300 million) Series A funding round at a €1.16 billion ($1.3 billion) valuation. The funding round was led by US investment group Lux Capital, with participation from existing investors General Catalyst and Lakestar, alongside Altimeter, Strike Capital, 137 Ventures, and 8090, […] The post Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise appeared first on EU-Startups .",
+      "company_at_a_glance": "The entity under review is the overall Venture Capital (VC) asset class and startup funding market, as analyzed in a industry market research report by Coherent Market Insights (published on Yahoo Finance UK). No individual startup or private company is named in the excerpt.",
+      "what_happened": "Coherent Market Insights published a report on Yahoo Finance UK indicating that the global venture capital market is experiencing growth. This expansion is driven by an increase in startup investments and rising allocation toward innovation funding across key markets.",
       "deal_facts": [
         {
-          "label": "Company",
-          "value": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise"
+          "label": "Report Title",
+          "value": "Venture Capital Market Witnesses Growth Driven by Rising Startup Investments and Innovation Funding"
         },
         {
-          "label": "Deal type",
-          "value": "Not confirmed from the available RSS excerpt"
+          "label": "Publisher / Feed",
+          "value": "Coherent Market Insights via Yahoo Finance UK"
         },
         {
-          "label": "Amount raised / deal value",
-          "value": "Not reported in the available RSS excerpt"
+          "label": "Publication Date",
+          "value": "2026-11-10"
         },
         {
-          "label": "Valuation",
-          "value": "Not reported in the available RSS excerpt"
+          "label": "Target Company / Specific Deal Name",
+          "value": "Not disclosed in the supplied article excerpt. The excerpt describes macro market growth rather than a specific transactional deal."
         },
         {
-          "label": "Investors",
-          "value": "Verify in the original article"
+          "label": "Transaction Size / Round Amount",
+          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing round syndicate dynamics and fund check size fit."
+        },
+        {
+          "label": "Post-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt. Necessary to evaluate entry multiple risk and potential return upside."
+        },
+        {
+          "label": "Lead Investor / Key Participants",
+          "value": "Not disclosed in the supplied article excerpt. Important to understand syndicate quality and governance signals."
         }
       ],
       "business_model": {
-        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
-        "customer": "Not established from the available excerpt",
-        "revenue_engine": "Not established from the available excerpt",
+        "plain_english": "In the venture capital business model, fund managers (General Partners or GPs) raise capital pools from institutional investors (Limited Partners or LPs) to buy equity stakes in early-to-growth stage startups. Value is generated when portfolio companies exit via Initial Public Offering (IPO) or Mergers & Acquisitions (M&A) at a multiple of the invested capital.",
+        "customer": "Venture capital funds serve two primary stakeholders: Limited Partners (institutional investors, endowments, high-net-worth individuals providing fund capital) and Portfolio Company Founders (startups receiving capital, strategic guidance, and network access).",
+        "revenue_engine": "Fund managers earn revenue through two main streams: (1) Management Fees (typically 2.0% annually of committed or invested capital to fund operations), and (2) Carried Interest ('carry', typically 20% of net profits generated above a preferred return hurdle rate once LP principal is returned).",
         "unit_economics_to_check": [
-          "Gross margin",
-          "Customer acquisition cost (CAC)",
-          "Retention / repeat purchase",
-          "Contribution margin"
+          "Total Value to Paid-In (TVPI): Ratio of current portfolio mark-to-market value plus distributions relative to total capital called.",
+          "Distributed to Paid-In (DPI): Ratio of actual cash returned to LPs relative to capital called; the ultimate measure of fund cash realization.",
+          "Net Internal Rate of Return (Net IRR): Time-weighted annualized return of the fund after management fees and carried interest.",
+          "Follow-on Reserve Ratio: Ratio of fund reserves earmarked for pro-rata follow-on investments versus initial core checks.",
+          "Loss Ratio: Percentage of portfolio companies that return 0x to <1x capital, illustrating power-law reliance."
         ]
       },
       "why_now": [
-        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
-        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
+        "Hypothesis 1 (Secular Technological Shift): Surging demand for artificial intelligence, deeptech, and energy transition solutions may be forcing institutional LPs to increase capital allocations toward early-stage innovation funding.",
+        "Hypothesis 2 (Liquidity Cycle Normalization): Following period slowdowns, macro rate stabilization and secondary market activity may be encouraging GPs to deploy dry powder into high-growth startups.",
+        "Hypothesis 3 (Global Innovation Expansion): Emerging technological ecosystems outside traditional hubs are creating regional investment opportunities with attractive entry valuations and strong developer density."
       ],
       "investor_view": {
-        "verdict": "Do not make an investment decision yet — conditional interest only",
-        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
+        "verdict": "Not yet; conditional interest",
+        "thesis": "While macro tailwinds in venture funding indicate robust deal flow and capital availability, investing in a rising market without disciplined portfolio construction exposes capital to high loss rates and valuation compression. We require fund-level metrics and strategy confirmation before committing capital.",
         "reasons_to_be_interested": [
-          "The company has attracted financing or deal attention (verify the transaction details).",
-          "The sector may offer a meaningful market opportunity (validate using independent market data)."
+          "Macro Tailwinds: Market-wide expansion in innovation funding provides abundant deal sourcing and syndicate co-investment opportunities.",
+          "Power-Law Capture: Expanding market activity increases the probability of encountering outliers capable of returning an entire fund size."
         ],
         "what_must_be_true": [
-          "Customers have a painful problem and are willing to pay.",
-          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
-          "The company has a defensible advantage.",
-          "The entry valuation allows an attractive return under realistic exit assumptions."
+          "Targeted Ownership Disciplines: Fund management must maintain strict initial ownership target rules (e.g., 10-15%) rather than spraying small checks across too many companies.",
+          "Rigorous Reserve Management: A clear 1:1 or 1.5:1 reserve strategy to back high-conviction winners in follow-on Series A/B rounds.",
+          "Differentiated Sourcing Advantage: Evidence that the firm gains allocation in top-decile deals rather than adverse-selection access."
         ]
       },
       "risks": [
-        {
-          "risk": "Weak product-market fit",
-          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
-          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
-        },
-        {
-          "risk": "Unattractive unit economics",
-          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
-          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
-        },
-        {
-          "risk": "Valuation and dilution",
-          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
-          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
-        }
+        "Spray and Pray Risk",
+        "Valuation Inflation Risk",
+        "Reserve Exhaustion Risk"
       ],
       "diligence": [
         {
-          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
-          "why": "Tests growth quality and whether scale is improving economics."
+          "request": "Historical Fund Portfolio Construction Matrix",
+          "why": "To analyze past check sizes, initial vs. follow-on capital allocation per company, and realized ownership dilution across funding rounds."
         },
         {
-          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
-          "why": "Tests whether demand is durable rather than one-off."
+          "request": "Fund Reserve Allocation Strategy Document",
+          "why": "To verify how management decides which portfolio companies receive follow-on checks versus cutting losses on underperforming investments."
         },
         {
-          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
-          "why": "Tests whether growth can be scaled profitably."
-        },
-        {
-          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
-          "why": "Shows ownership, dilution and downside protection."
-        },
-        {
-          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
-          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
+          "request": "Graduation & Loss Ratio Breakdown across Prior Vintages",
+          "why": "To assess what percentage of investments successfully transition from Seed to Series A/B and quantify true power-law dependence."
         }
       ],
       "concept_lesson": {
-        "name": "VC/PE fund economics",
-        "definition": "Fund economics explain how investors (LPs) and the fund manager (GP) share costs, fees and profits. Key terms include management fee, carried interest, hurdle and distributions.",
-        "formula": "Simplified carry = Carry rate × Profits eligible for carry, after applying the fund's distribution waterfall and any hurdle or return of capital.",
-        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
-        "worked_example": "Illustrative example: a fund returns $150m on $100m invested, producing $50m gross profit. At a simplified 20% carry with no hurdle or other adjustments, carry would be $10m. Real waterfalls can differ substantially.",
-        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
+        "name": "Portfolio Construction",
+        "definition": "Portfolio construction is the quantitative strategy fund managers use to spread capital across investments, stages, sectors, and geographies. It balances entry valuations, check sizes, target ownership percentages, and follow-on reserves against the power-law distribution of returns, where a tiny minority of investments generate the majority of total returns while many fail completely.",
+        "formula": "Initial Check Size = (Total Fund Commitments * Target Initial Capital Allocation %) / Number of Core Deals\nTarget Ownership % = Initial Check Size / Post-Money Valuation\nPortfolio Exposure = Total Capital Invested in Company X (Initial + Reserves) / Total Fund Commitments",
+        "connection_to_deal": "Not disclosed in the supplied article excerpt. The excerpt covers general macro growth in venture capital funding rather than a specific fund's portfolio construction parameters. To illustrate portfolio construction principles, a hypothetical numerical model is provided below.",
+        "worked_example": "Hypothetical Scenario (All figures are hypothetical as no specific fund size or deal terms were reported in the article excerpt):\n\nConsider Fund IV, a hypothetical $100,000,000 Early-Stage VC Fund:\n1. Total Fund Commitment (Hypothetical): $100,000,000.\n2. Management Fee Reserve (Hypothetical): 15% ($15,000,000 over 10 years), leaving $85,000,000 total investable capital.\n3. Initial vs. Reserve Allocation Strategy (Hypothetical): 40% initial checks ($34,000,000), 60% follow-on reserves ($51,000,000).\n4. Number of Core Deals Target (Hypothetical): 20 core Seed-stage companies.\n5. Initial Check Size per Company (Hypothetical): $34,000,000 / 20 = $1,700,000 initial check.\n6. Entry Valuation Target (Hypothetical): $10,000,000 post-money valuation.\n7. Initial Target Ownership % (Hypothetical): $1,700,000 / $10,000,000 = 17.0% initial equity ownership.\n8. Reserve Deployment Strategy (Hypothetical):\n   - Expected Failure Rate: 60% (12 companies fail or return <1x; no reserve spent).\n   - Tier-2 Companies: 25% (5 companies get $3,000,000 follow-on reserves total = $15,000,000).\n   - Power-Law Winners: 15% (3 breakout companies receive $12,000,000 follow-on reserves total = $36,000,000).\n9. Maximum Single-Company Portfolio Exposure (Hypothetical): Best-performing breakout company receives $1,700,000 initial + $12,000,000 follow-on reserves = $13,700,000 total invested capital.\n   Portfolio Exposure = $13,700,000 / $100,000,000 = 13.7% maximum concentration exposure relative to total fund commitments.",
+        "takeaway": "Macro market growth means little to a venture capital fund if its portfolio construction is flawed. A fund must carefully size its checks, target sufficient initial ownership to survive dilution, retain ample reserves for winners, and maintain disciplined concentration limits so that power-law winners can return the entire fund without taking fatal single-company risks."
       },
       "vcic": {
-        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
-        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
+        "sample_recommendation": "Partner Pitch Recommendation: Conditional Pass on Broad Market Macro Bets; Require Fund Construction Audit. While the market expansion reported by Coherent Market Insights signals strong sector momentum, we recommend allocating capital only to GP teams demonstrating strict portfolio construction discipline: target ownership >=15%, dedicated reserve ratios >=50% of investable capital, and concentration caps <=15% per company.",
+        "how_to_present": "In your VCIC pitch, lead with fund mathematical realities rather than macro narrative enthusiasm. Start by defining fund size, target deal count, and ownership targets. Show the judges you understand power-law dynamics by explicitly showing how reserve allocation concentrates capital into winning bets while letting underperforming assets drop off without follow-on dilution.",
         "follow_up_questions": [
-          "What is the strongest evidence of repeat demand?",
-          "What is the fully diluted ownership at this price?",
-          "What milestone will this capital finance?"
+          "How do you determine whether a portfolio company warrants follow-on reserve capital in Series A versus writing off the initial check?",
+          "If entry valuations increase by 30% across the market due to high capital supply, how does your portfolio construction model adjust check size, fund capacity, or ownership targets?",
+          "What is your target single-company portfolio concentration limit to balance power-law upside with risk management?"
         ]
       },
-      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
+      "ai_note": "This case study was generated strictly from the short RSS feed title and snippet regarding Coherent Market Insights' VC market report on Yahoo Finance UK. All deal-specific parameters not present in the excerpt are explicitly marked as missing, and portfolio construction calculations rely on a clearly labeled, hypothetical baseline model."
     },
-    "region_focus": "Global",
+    "region_focus": "India",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 3,
+  "concept_rotation_index": 4,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
