@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T11:48:54.880562+08:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:25:29.511616+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 38,
+  "candidate_count": 45,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
@@ -16,117 +16,128 @@
   ],
   "case_study": {
     "story": {
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "source": "TechCrunch Venture",
-      "region": "Global",
-      "published_at": "2026-11-11T20:04:28+00:00"
+      "title": "Exclusive: Fireside Ventures Sees Another Key Exit, Days After Cofounder Vinay Singh",
+      "url": "https://inc42.com/buzz/exclusive-fireside-ventures-sees-another-key-exit-days-after-cofounder-vinay-singh/",
+      "summary": "Consumer tech focussed venture capital firm Fireside Ventures has seen a second exit from its leadership and investment team in…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-12T17:12:16+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "Olaf Sakkers (Emerging VC Fund Manager). Specific firm name, strategy focus, fund size, and portfolio headquarters are not disclosed in the supplied article excerpt.",
-      "what_happened": "Venture capital investor Olaf Sakkers has spent the past five years operating as an emerging fund manager during a challenging fundraising market often referred to as the 'emerging-manager squeeze.' The TechCrunch coverage details his multi-year efforts to establish a successful track record despite adverse macroeconomic conditions. Original article: https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "company_at_a_glance": "The selected story concerns Exclusive: Fireside Ventures Sees Another Key Exit, Days After Cofounder Vinay Singh. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Consumer tech focussed venture capital firm Fireside Ventures has seen a second exit from its leadership and investment team in…",
       "deal_facts": [
         {
-          "label": "Manager Name",
-          "value": "Olaf Sakkers"
+          "label": "Company",
+          "value": "Exclusive: Fireside Ventures Sees Another Key Exit, Days After Cofounder Vinay Singh"
         },
         {
-          "label": "Track Record Duration",
-          "value": "5 years (as stated in the supplied excerpt)"
+          "label": "Deal type",
+          "value": "Not confirmed from the available RSS excerpt"
         },
         {
-          "label": "Fund Name & Vintage",
-          "value": "Not disclosed in the supplied article excerpt"
+          "label": "Amount raised / deal value",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "Target / Closed Fund Size",
-          "value": "Not disclosed in the supplied article excerpt"
+          "label": "Valuation",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "LP Investor Base",
-          "value": "Not disclosed in the supplied article excerpt"
-        },
-        {
-          "label": "Management Fee / Carried Interest",
-          "value": "Not disclosed in the supplied article excerpt"
+          "label": "Investors",
+          "value": "Verify in the original article"
         }
       ],
       "business_model": {
-        "plain_english": "A venture capital fund manager raises pooled capital from Limited Partners (LPs—such as institutional endowments, family offices, and high-net-worth individuals) to invest in early-stage high-growth technology startups in exchange for equity ownership.",
-        "customer": "Institutional LPs, family offices, and accredited investors looking for exposure to high-growth, early-stage private companies.",
-        "revenue_engine": "The fund manager typically charges an annual management fee (traditionally ~2% of committed capital) to fund firm operations, and earns carried interest (traditionally ~20% of net fund profits above a return hurdle) when portfolio investments achieve liquidity through mergers, acquisitions, or IPOs.",
+        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
+        "customer": "Not established from the available excerpt",
+        "revenue_engine": "Not established from the available excerpt",
         "unit_economics_to_check": [
-          "Management fee yield versus annual firm operating budget (burn rate)",
-          "Net Internal Rate of Return (Net IRR) delivered to LPs after fees",
-          "Total Value to Paid-In Capital (TVPI) ratio",
-          "Distributed to Paid-In Capital (DPI) ratio",
-          "Portfolio company loss rate (percentage of write-offs)"
+          "Gross margin",
+          "Customer acquisition cost (CAC)",
+          "Retention / repeat purchase",
+          "Contribution margin"
         ]
       },
       "why_now": [
-        "Possible investor rationale: Emerging managers operating in tight capital markets develop rigorous capital discipline, preventing inflated valuations during initial entry.",
-        "Possible investor rationale: A 5-year operating history through a market downturn acts as a natural filter, separating resilient fund managers from bull-market operators.",
-        "Possible investor rationale: Institutional LPs seeking excess market returns (alpha) often find higher upside potential in smaller, nimble emerging funds compared to over-capitalized multi-billion-dollar funds."
+        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
+        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
       ],
       "investor_view": {
-        "verdict": "Not yet; conditional interest",
-        "thesis": "Olaf Sakkers demonstrates notable persistence by operating successfully for five years in an era defined by an 'emerging-manager squeeze.' However, because key fund performance indicators—such as DPI, TVPI, vintage breakdown, and portfolio valuations—are omitted from the article excerpt, an LP commitment cannot be recommended without detailed due diligence into the fund's audited financial data room.",
+        "verdict": "Do not make an investment decision yet — conditional interest only",
+        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
         "reasons_to_be_interested": [
-          "Five years of continuous operation in a hostile macro fundraising environment proves grit and operational sustainability.",
-          "Emerging managers tend to work closer with founders, providing strong deal sourcing and value-add execution."
+          "The company has attracted financing or deal attention (verify the transaction details).",
+          "The sector may offer a meaningful market opportunity (validate using independent market data)."
         ],
         "what_must_be_true": [
-          "The fund must possess verified performance metrics (TVPI > 2.0x, positive DPI) on mature portfolio holdings.",
-          "The GP must have a repeatable, proprietary deal-sourcing pipeline that does not rely solely on competitive auctions.",
-          "The fund's LP fee structure must adequately cover operating expenses without depleting capital deployed into startups."
+          "Customers have a painful problem and are willing to pay.",
+          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
+          "The company has a defensible advantage.",
+          "The entry valuation allows an attractive return under realistic exit assumptions."
         ]
       },
       "risks": [
-        "Risk: Institutional LP Liquidity Squeeze | Why it matters: LPs are allocating capital overwhelmingly to established brand-name funds, making it hard for emerging managers to close target fund sizes. | How to test: Audit the fund's LP commitments, re-up rates from prior LPs, and soft-circled capital.",
-        "Risk: Unrealized Valuation Marks (Paper Gain Risk) | Why it matters: High TVPI driven by unrealized startup markups may collapse if startups cannot raise follow-on rounds at their current valuations. | How to test: Re-underwrite underlying startup financial metrics (revenue, growth rate, burn rate) and apply updated market multiples.",
-        "Risk: Key-Person Operational Concentration | Why it matters: Emerging funds often depend heavily on a single solo GP or small team; partner departure can break the investment strategy. | How to test: Review key-person contract clauses, fee split structures, and team decision-making governance."
+        {
+          "risk": "Weak product-market fit",
+          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
+          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
+        },
+        {
+          "risk": "Unattractive unit economics",
+          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
+          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
+        },
+        {
+          "risk": "Valuation and dilution",
+          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
+          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
+        }
       ],
       "diligence": [
         {
-          "request": "Full LP Data Room (Audited Financial Statements, Schedule of Investments, LP Agreements)",
-          "why": "Necessary to calculate actual Net IRR, DPI (Distributed to Paid-In), and TVPI (Total Value to Paid-In) rather than relying on self-reported GP claims."
+          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
+          "why": "Tests growth quality and whether scale is improving economics."
         },
         {
-          "request": "Portfolio Valuation Methodology and Write-down Log for the past 5 years",
-          "why": "Determines whether the manager marks startup valuations down proactively or holds inflated paper valuations during market downturns."
+          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
+          "why": "Tests whether demand is durable rather than one-off."
         },
         {
-          "request": "Blind Founder References (3 from successful investments, 3 from written-off startups)",
-          "why": "Evaluates the manager's true reputation, value-add, board room behavior, and support during crisis situations."
+          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
+          "why": "Tests whether growth can be scaled profitably."
         },
         {
-          "request": "Fund Budget & Management Fee Breakdown",
-          "why": "Ensures the management firm is financially viable and will not suffer from operational insolvency before capital deployment completes."
+          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
+          "why": "Shows ownership, dilution and downside protection."
+        },
+        {
+          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
+          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
         }
       ],
       "concept_lesson": {
-        "name": "Due Diligence",
-        "definition": "Due diligence is the systematic process of testing and verifying a target company's or fund manager's claims, underlying financial economics, team competence, legal integrity, and strategic market positioning prior to finalizing an investment decision.",
-        "formula": "Diligence Framework = Categorize inquiry into 8 Core Pillars (Market, Product, Customer, Competition, Financials, Team, Legal/Regulatory, Terms). For every claim: [Stated Claim] -> [Primary Evidence Requested] -> [Verification Source] -> [Risk Assessment].",
-        "connection_to_deal": "In evaluating an emerging VC fund manager like Olaf Sakkers, due diligence requires converting broad claims (e.g., 'beating the emerging-manager squeeze over five years') into verified financial metrics across fund returns, capital deployment speed, and portfolio markups.",
-        "worked_example": "Because specific fund performance figures are not disclosed in the article excerpt, we construct a hypothetical LP due diligence model to evaluate a sample 5-year-old $50M venture capital fund:\n\n1. Target Fund Capital Committed: $50,000,000 (Hypothetical figure; not disclosed in article excerpt).\n2. Capital Drawn / Paid-In Capital: $40,000,000 (Hypothetical figure; 80% drawn over 5 years; not disclosed in article excerpt).\n3. Cash Distributions Paid Back to LPs: $10,000,000 (Hypothetical figure; not disclosed in article excerpt).\n4. Current Estimated Fair Market Value (FMV) of Remaining Portfolio: $70,000,000 (Hypothetical figure; not disclosed in article excerpt).\n\nCalculation Step 1: Distributed to Paid-In Capital (DPI)\nDPI = Cash Distributions / Paid-In Capital\nDPI = $10,000,000 [Hypothetical] / $40,000,000 [Hypothetical] = 0.25x DPI.\n(Meaning LPs have received back 25 cents per dollar invested in cash).\n\nCalculation Step 2: Total Value to Paid-In Capital (TVPI)\nTVPI = (Cash Distributions + Remaining FMV) / Paid-In Capital\nTVPI = ($10,000,000 [Hypothetical] + $70,000,000 [Hypothetical]) / $40,000,000 [Hypothetical]\nTVPI = $80,000,000 / $40,000,000 = 2.0x TVPI.\n(Meaning the fund shows a total 2.0x value, combining cash returned and paper valuations).\n\nStep 3: Diligence Finding & Risk Identification\nThe diligence analyst must highlight that while a 2.0x TVPI [Hypothetical] appears healthy, 87.5% of the total value ($70M out of $80M) is tied up in paper marks (unrealized gains). The diligence team must audit the individual valuations of the remaining startup portfolio to ensure the marks are realistic.",
-        "takeaway": "Never take high-level narrative statements or un-audited paper marks at face value. Effective due diligence separates paper gains (TVPI) from cash returns (DPI) and systematically verifies every strategic claim against audited financial records."
+        "name": "Pre-money vs post-money valuation",
+        "definition": "Pre-money valuation is what the company is worth immediately before new investment. Post-money valuation is the value immediately after the investment.",
+        "formula": "Post-money = Pre-money + New investment. Investor ownership = Investment / Post-money.",
+        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+        "worked_example": "Illustrative example: a $4m investment at a $16m pre-money valuation gives a $20m post-money valuation and 20% ownership. These numbers are not facts about today's company.",
+        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
-        "sample_recommendation": "We recommend a provisional 'Pass / Conditional Hold' regarding capital commitment. While Olaf Sakkers displays strong persistence by navigating the emerging-manager squeeze for 5 years, essential fund performance data—including fund size, DPI, TVPI, net IRR, and portfolio company health—are not disclosed in the supplied source. We require full data room access before issuing a final investment vote.",
-        "how_to_present": "Structure your VCIC panel presentation in four crisp phases: 1) Executive Summary: State your provisional investment recommendation immediately. 2) Key Strengths & Hypotheses: Highlight the manager's 5-year track record and survival through market contraction. 3) Diligence Findings & Gaps: Explicitly point out missing financial data (DPI vs. TVPI, fee budgets) and lay out your 8-pillar diligence plan. 4) Risk Mitigation & Decision Gates: Present specific conditions (e.g., minimum verified DPI threshold of 0.5x, minimum fund size threshold) under which you would convert to a 'Yes' vote.",
+        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
+        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
         "follow_up_questions": [
-          "What is the current DPI (cash returned) versus TVPI (paper marks) across your 5-year track record?",
-          "How do you maintain access and win allocation in seed rounds when competing against large multi-stage firms?",
-          "What is your minimum viable fund size to maintain firm operations if macro fundraising remains depressed?"
+          "What is the strongest evidence of repeat demand?",
+          "What is the fully diluted ownership at this price?",
+          "What milestone will this capital finance?"
         ]
       },
-      "ai_note": "This case study was generated strictly using the supplied headline and RSS excerpt. No external research or assumed fund figures were added. All specific fund metrics (e.g., fund size, IRR, DPI, portfolio names) were explicitly noted as 'Not disclosed in the supplied article excerpt'. All numerical examples used to demonstrate concepts were explicitly flagged as hypothetical."
+      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "Global",
+    "region_focus": "India",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 5,
+  "concept_rotation_index": 0,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
