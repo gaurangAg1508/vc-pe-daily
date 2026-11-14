@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T11:13:53.750830+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 46,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "source": "TechCrunch Venture",
+      "region": "Global",
+      "published_at": "2026-11-13T22:43:00+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "This case study examines the broader AI startup ecosystem facing a structural capital shift following the departure of Nvidia CEO Jensen Huang. Nvidia acted as a dominant strategic corporate venture capital (CVC) backer in artificial intelligence, deploying tens of billions of dollars across numerous AI startups. Specific startup portfolio names, individual deal terms, and financial metrics are not disclosed in the supplied article excerpt.",
+      "what_happened": "On November 13, 2026, TechCrunch Venture reported that Jensen Huang's departure from Nvidia created a major void in AI startup financing. Under Huang, Nvidia injected tens of billions of dollars into AI startups. With Huang no longer leading the company, venture capital investors and founders expect smaller check sizes, reduced strategic balance-sheet participation, and lower valuations across early- and growth-stage AI deals. (Source: https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)",
+      "deal_facts": [
+        {
+          "label": "Primary Strategic Investor Mentioned",
+          "value": "Nvidia (under former CEO Jensen Huang)"
+        },
+        {
+          "label": "Historical CVC Capital Deployed",
+          "value": "Tens of billions of dollars (exact historical breakdown per startup or year is not disclosed in the supplied article excerpt)"
+        },
+        {
+          "label": "Target Companies / Beneficiaries",
+          "value": "Broad AI startup ecosystem (specific startup names and sectors are not disclosed in the supplied article excerpt)"
+        },
+        {
+          "label": "Expected Impact on Valuations",
+          "value": "Lower valuations expected by founders and VCs (exact discount percentages or cap adjustments are not disclosed in the supplied article excerpt)"
+        },
+        {
+          "label": "Expected Impact on Check Sizes",
+          "value": "Smaller investment check sizes anticipated across future funding rounds (exact check size targets are not disclosed in the supplied article excerpt)"
+        },
+        {
+          "label": "Transaction/Event Date",
+          "value": "November 13, 2026"
+        }
+      ],
+      "business_model": {
+        "plain_english": "Early-stage AI startups typically build proprietary foundation models, vertical AI applications, or compute infrastructure. Strategic CVC funding—historically provided by GPU hardware vendors like Nvidia—helped subsidize massive upfront training and inference compute costs in exchange for equity, cloud credits, or ecosystem lock-in.",
+        "customer": "Target customers for AI startups generally range from enterprise B2B software buyers to developers and B2C consumers (specific target customers for individual portfolio companies are not disclosed in the supplied article excerpt).",
+        "revenue_engine": "AI startups generally monetize via recurring SaaS subscriptions, usage-based compute billing, or API consumption pricing (specific revenue models for portfolio startups are not disclosed in the supplied article excerpt).",
+        "unit_economics_to_check": [
+          "Gross Margin After Cloud & GPU Compute Costs: Essential to test whether the business model remains viable without subsidized CVC hardware access.",
+          "Customer Acquisition Cost (CAC) Payback Period: Critical to verify sales efficiency as cash runways shrink due to smaller check sizes.",
+          "Net Revenue Retention (NRR): Measures expansion revenue from existing enterprise clients to reduce reliance on external capital raises.",
+          "Compute Spend as a Percentage of Revenue: Evaluates how efficiently inference costs scale with user growth."
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Market calibration—The withdrawal of soft CVC subsidies presents an opportunity to price AI deals at realistic multiples rather than hyper-inflated strategic benchmarks.",
+        "Possible investor rationale: Flight to capital efficiency—Financial VCs can now negotiate tighter governance terms, stronger liquidation preferences, and realistic anti-dilution protections when underwriting AI founders.",
+        "Possible investor rationale: Re-evaluating moat durability—Without mega-checks covering massive GPU burn rates, investors must test which startups possess genuine product moats rather than hardware-subsidized momentum."
+      ],
+      "investor_view": {
+        "verdict": "Not yet; conditional interest.",
+        "thesis": "While lower valuations present attractive entry points, investors must remain cautious until portfolio-level unit economics prove viable without mega-scale strategic balance sheet backing from corporate leaders like Nvidia.",
+        "reasons_to_be_interested": [
+          "Valuation Reset: Compressed pricing allows traditional VCs to acquire meaningful equity stakes at lower entry multiples.",
+          "Focus on Organic Efficiency: Capital scarcity forces AI founders to optimize algorithms for inference cost-efficiency rather than throwing brute-force hardware at model training."
+        ],
+        "what_must_be_true": [
+          "The target AI startup must demonstrate non-subsidized positive gross margins above 60% after paying commercial GPU hosting rates.",
+          "The company must possess proprietary data assets or deep workflow integration to retain enterprise customers independently of chip supplier alignment.",
+          "Existing preferred term sheets must incorporate robust liquidation preferences to protect down-round risk."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Compute Cost Explosion & Margin Compression",
+          "why_it_matters": "If strategic chipmakers reduce favorable compute subsidies, AI startups face immediate gross margin degradation.",
+          "how_to_test": "Audit cloud vendor invoices and calculate non-subsidized gross margin across all active enterprise customer accounts."
+        },
+        {
+          "risk": "Funding Gap & Bridge Round Risk",
+          "why_it_matters": "Smaller check sizes across the ecosystem increase the likelihood of unexpected bridge rounds or down-round dilutions before reaching key milestones.",
+          "how_to_test": "Perform monthly burn rate analyses and calculate cash runway assuming zero strategic follow-on checks for 24 months."
+        },
+        {
+          "risk": "Valuation Downward Revision in Subsequent Rounds",
+          "why_it_matters": "Previous valuations driven by strategic CVC bidding wars may face sharp down-rounds, triggering anti-dilution provisions and diluting common share equity.",
+          "how_to_test": "Review existing capitalization tables to inspect anti-dilution clauses (full-ratchet vs. weighted-average) across all prior series."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Detailed Capitalization Table & Cap Table History",
+          "why": "To verify existing shareholder liquidation preference stacks, ownership percentages, and anti-dilution rights prior to submitting a new term sheet."
+        },
+        {
+          "request": "Historical GPU / Infrastructure Expense Ledger",
+          "why": "To determine what portion of infrastructure spend was subsidized or offset by strategic CVC credits versus actual cash expenses."
+        },
+        {
+          "request": "Customer Cohort Churn & Expansion Data",
+          "why": "To verify underlying product-market fit and ensure organic net expansion compensates for tighter venture funding cycles."
+        }
+      ],
+      "concept_lesson": {
+        "name": "Liquidation Preference",
+        "definition": "A contractual clause in preferred stock term sheets establishing the sequence and amount of payout that preferred shareholders receive relative to common shareholders (e.g., founders and employees) upon a liquidity event, such as an M&A exit, trade sale, or company liquidation.",
+        "formula": "For 1x Non-Participating Preferred Stock: Investor Payout = Max(Invested Capital, Ownership % × Exit Proceeds). For 1x Participating Preferred Stock: Investor Payout = Invested Capital + [Ownership % × (Exit Proceeds - Total Invested Capital)].",
+        "connection_to_deal": "The connection cannot be calculated directly from disclosed facts. The supplied excerpt mentions lower valuations and smaller check sizes following Jensen Huang's departure, but it does not disclose specific term sheet details, liquidation preference multiples, or preferred stock structures for any specific startup. Below is a clearly labelled hypothetical numerical illustration to demonstrate how liquidation preferences function during a market-wide valuation reset.",
+        "worked_example": "Hypothetical Worked Example:\n\nScenario Context:\nAssume an AI startup previously raised capital at a peak valuation, but faces a compressed M&A exit due to reduced overall strategic funding in the AI sector.\n\nAssumptions & Baseline Data:\n- Tens of Billions Invested by Nvidia across AI startups: REPORTED\n- Initial Series A Capital Invested by VC: $10,000,000 (HYPOTHETICAL)\n- VC Equity Ownership Stake: 20% (HYPOTHETICAL)\n- Initial Post-Money Valuation: $50,000,000 (HYPOTHETICAL)\n- Downside Distressed Exit Proceeds: $15,000,000 (HYPOTHETICAL)\n\nCalculation 1: 1x Non-Participating Preference\n1. Option A (Preference Right): 1x Invested Capital = $10,000,000 (HYPOTHETICAL).\n2. Option B (Common Conversion): 20% ownership × $15,000,000 proceeds = $3,000,000 (HYPOTHETICAL).\n3. Investor Decision: The investor chooses Option A ($10,000,000 preference). The remaining $5,000,000 ($15,000,000 total proceeds - $10,000,000 preference) is distributed to common stock holders (founders/employees) (HYPOTHETICAL).\n\nCalculation 2: 1x Participating Preference (Full Participation)\n1. Step 1 (Preference Distribution): Investor takes 1x preference = $10,000,000 (HYPOTHETICAL).\n2. Step 2 (Pro-Rata Sharing): Remaining proceeds = $5,000,000 ($15,000,000 - $10,000,000). Investor receives 20% of remaining $5,000,000 = $1,000,000 (HYPOTHETICAL).\n3. Total Investor Payout: $10,000,000 + $1,000,000 = $11,000,000 (HYPOTHETICAL). Remaining for common shareholders = $4,000,000 (HYPOTHETICAL).\n\nSummary of Data Labels:\n- Nvidia historic investment aggregate ('tens of billions'): REPORTED\n- All specific dollar values ($10M, $50M, $15M, $3M, $11M, $4M, $5M) and equity percentages (20%): HYPOTHETICAL",
+        "takeaway": "In macro environments where strategic check sizes shrink and valuations drop, liquidation preferences act as the primary structural protection for venture capital investors against downside loss. In VCIC, students must analyze where a new check sits in the preference stack to ensure down-round liquidity events do not erase investor returns."
+      },
+      "vcic": {
+        "sample_recommendation": "We recommend a conditional 'Pass' on unhedged early-stage AI seed investments until term sheets adapt to the post-subsidy environment. However, we recommend actively issuing term sheets to top-tier, capital-efficient B2B AI startups where we can negotiate a 1x Non-Participating Liquidation Preference alongside a reduced entry valuation multiple.",
+        "how_to_present": "In your 5-minute VCIC partner presentation, frame the market shift directly: 'With strategic CVC capital scaling back following executive transitions at primary hardware providers like Nvidia, valuation multiples are resetting. We must capitalize on this pricing shift by negotiating clean 1x non-participating liquidation preferences and strict capital-efficiency milestones before releasing follow-on tranches.'",
+        "follow_up_questions": [
+          "What is the exact liquidation preference stack across all prior funding rounds on the target company's cap table?",
+          "How much of the startup's current runway is tied to non-cash cloud compute credits versus actual cash reserves?",
+          "If follow-on check sizes drop by 30-50% across the market, how does management plan to adjust its 18-month hiring and compute burn plan?"
+        ]
+      },
+      "ai_note": "This analysis relies strictly on the news headline and RSS excerpt published by TechCrunch Venture on November 13, 2026. Private company financial metrics, individual startup names, and term sheet mechanics were not disclosed in the source data and have been framed strictly as hypotheses or labeled hypothetical examples in accordance with rigorous VCIC analytical standards."
+    },
+    "region_focus": "Global",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 1,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
