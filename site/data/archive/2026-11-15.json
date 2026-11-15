@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:38:47.062631+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 33,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Anup Gupta To Exit Nexus Venture Partners After 16 Years",
+      "url": "https://inc42.com/buzz/anup-gupta-to-exit-nexus-venture-partners-after-16-years/",
+      "summary": "Anup Gupta is stepping down from his role as a partner at venture capital (VC) firm Nexus Venture Partners after…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-14T14:45:29+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "Nexus Venture Partners is an established venture capital firm operating in the India and US cross-border technology investment ecosystem. The provided news excerpt announces that Partner Anup Gupta is stepping down from the firm after a 16-year tenure.",
+      "what_happened": "Anup Gupta, a partner at venture capital firm Nexus Venture Partners, is stepping down from his role after 16 years with the firm. The brief announcement provides no specific financial terms, successor details, or precise exit timeline beyond his departure.",
+      "deal_facts": [
+        {
+          "label": "Partner Exiting",
+          "value": "Anup Gupta"
+        },
+        {
+          "label": "Venture Capital Firm",
+          "value": "Nexus Venture Partners"
+        },
+        {
+          "label": "Tenure at Firm",
+          "value": "16 years"
+        },
+        {
+          "label": "Fund Size / Capital Under Management",
+          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing the firm's assets under management (AUM) and fee base."
+        },
+        {
+          "label": "Deal Track Record & Attribution",
+          "value": "Not disclosed in the supplied article excerpt. Necessary to understand Anup Gupta's individual contribution to overall fund returns."
+        },
+        {
+          "label": "Reason for Departure / Next Steps",
+          "value": "Not disclosed in the supplied article excerpt. Important to determine whether this represents a competitive move, retirement, or fund restructuring."
+        }
+      ],
+      "business_model": {
+        "plain_english": "A venture capital partnership manages pooled capital from institutional investors (Limited Partners) to invest in early- to growth-stage private equity startups, aiming to exit via IPO or M&A at substantial capital gains.",
+        "customer": "Institutional Limited Partners (LPs), including pension funds, university endowments, sovereign wealth funds, and fund-of-funds seeking high risk-adjusted capital appreciation.",
+        "revenue_engine": "Annual management fees (typically 2% of committed or invested capital) to cover fund operating expenses, plus carried interest (typically 20% of net profits above a hurdle rate) generated upon successful portfolio exits.",
+        "unit_economics_to_check": [
+          "Management fee revenue per partner versus operating overhead costs.",
+          "Carried interest distribution split among senior investment partners.",
+          "DPI (Distributed to Paid-In Capital) ratio across vintage fund generations.",
+          "Follow-on capital reserve ratio per portfolio company."
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Completion of a major fund investment period or vintage cycle after 16 years, providing a natural transition window.",
+        "Possible investor rationale: Potential desire by the partner to launch a new investment entity, angel fund, or transition to an operational leadership role.",
+        "Possible investor rationale: Planned generational succession within Nexus Venture Partners to elevate junior partners and re-align equity economics."
+      ],
+      "investor_view": {
+        "verdict": "Conditional Pass on fresh fund commitments; active diligence required before re-upping.",
+        "thesis": "Senior partner departures in venture capital create key-person risk and disrupt LP-GP governance dynamics. Because 16 years represents substantial firm history, LPs must pause new allocations until deal attribution, board seat continuity, and key-person provisions are fully evaluated.",
+        "reasons_to_be_interested": [
+          "Nexus Venture Partners possesses a multi-decade operating history in the high-growth Indian and US-India tech ecosystem.",
+          "Partner transition opens equity ownership pool for high-performing mid-level partners, boosting team retention.",
+          "Opportunity for LPs to renegotiate management fee structures or fund sizing during upcoming fund raises."
+        ],
+        "what_must_be_true": [
+          "Anup Gupta's departure does not trigger Key Person clause breaches in existing Limited Partnership Agreements (LPAs).",
+          "Historical fund returns (DPI and TVPI) demonstrate top-quartile performance driven by a broad investment committee rather than single-partner reliance.",
+          "A clear governance plan exists for transferring active board seats and founder relationships to remaining partners."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Key Person Clause Activation",
+          "why_it_matters": "If the LPA defines Anup Gupta as a Key Person, his departure could pause investment periods or allow LPs to suspend capital calls.",
+          "how_to_test": "Review the governing LPA documents of active Nexus funds to check key-person definitions and operational remedies."
+        },
+        {
+          "risk": "Loss of Proprietary Sourcing and Founder Network",
+          "why_it_matters": "A partner with 16 years of tenure holds deep network relationships; losing them could decrease quality seed/Series A deal flow.",
+          "how_to_test": "Perform founder exit interviews and analyze sourcing attribution for historical deals over the last 5 years."
+        },
+        {
+          "risk": "Portfolio Governance Disruption",
+          "why_it_matters": "Vacated board seats in active growth-stage startups require experienced replacement board members to maintain guidance.",
+          "how_to_test": "Request the board seat transition schedule for all current portfolio companies where Anup Gupta served as a director."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Historical Deal Attribution Schedule",
+          "why": "To verify which partner sourced, led, and managed each investment, isolating Anup Gupta's net contribution to fund DPI/MOIC."
+        },
+        {
+          "request": "LPA Governance & Key Person Terms",
+          "why": "To identify explicit contractual clauses triggered by partner departures and assess capital deployment continuity."
+        },
+        {
+          "request": "Portfolio Board Transition Plan",
+          "why": "To confirm that underlying portfolio startups experience seamless board representation without operational blind spots."
+        }
+      ],
+      "concept_lesson": {
+        "name": "IRR vs MOIC (Internal Rate of Return vs Multiple on Invested Capital)",
+        "definition": "MOIC (Multiple on Invested Capital) measures absolute cash capital return relative to initial investment, completely ignoring time. IRR (Internal Rate of Return) measures the annualized percentage rate of return earned on an investment, making it deeply sensitive to the timing of cash inflows and outflows.",
+        "formula": "MOIC = (Total Cash Returned) / (Total Cash Invested). Single cash flow IRR = (Exit Value / Initial Investment)^(1 / Years) - 1.",
+        "connection_to_deal": "The provided news excerpt notes Anup Gupta's 16-year tenure at Nexus Venture Partners, but omits all fund financial figures. Consequently, actual fund IRR and MOIC cannot be calculated from the disclosed facts. In long venture capital tenures (e.g., 16 years), understanding the difference between MOIC and IRR is critical because holding an investment over 16 years heavily suppresses IRR unless the MOIC is extraordinarily large.",
+        "worked_example": "Assume a hypothetical venture capital fund investment managed over time. Scenario A reflects a long holding period matching the 16-year timeline context, while Scenario B reflects a fast exit.\n\nScenario A (Long Hold):\n- Initial Investment: $5,000,000 (Hypothetical)\n- Exit Cash Inflow: $50,000,000 (Hypothetical)\n- Hold Period: 16 years (Hypothetical, inspired by reported tenure of 16 years)\n- MOIC Calculation: $50,000,000 / $5,000,000 = 10.0x MOIC (Hypothetical)\n- IRR Calculation: ($50,000,000 / $5,000,000)^(1 / 16) - 1 = 15.48% IRR (Hypothetical)\n\nScenario B (Short Hold):\n- Initial Investment: $5,000,000 (Hypothetical)\n- Exit Cash Inflow: $50,000,000 (Hypothetical)\n- Hold Period: 4 years (Hypothetical)\n- MOIC Calculation: $50,000,000 / $5,000,000 = 10.0x MOIC (Hypothetical)\n- IRR Calculation: ($50,000,000 / $5,000,000)^(1 / 4) - 1 = 77.83% IRR (Hypothetical)\n\nAnalysis: Both scenarios yield an identical 10.0x MOIC (Hypothetical), generating $45,000,000 in net profit (Hypothetical). However, Scenario B achieves a 77.83% IRR (Hypothetical) versus Scenario A's 15.48% IRR (Hypothetical) because the $50,000,000 cash return occurred 12 years sooner (Hypothetical). Note: The tenure length of 16 years is a reported fact regarding Anup Gupta's tenure (Reported), but its application as a fund holding period and all associated dollar amounts are strictly hypothetical (Hypothetical).",
+        "takeaway": "LPs evaluate MOIC to confirm total wealth creation (dollars returned), but rely on IRR to evaluate capital efficiency over time. High MOIC over a 16-year hold can produce a modest IRR due to the compounding effect of time."
+      },
+      "vcic": {
+        "sample_recommendation": "We recommend a provisional 'Hold / Pass' on new capital commitments to Nexus Venture Partners pending complete key-person LPA auditing and deal-attribution analysis following Anup Gupta's departure after 16 years.",
+        "how_to_present": "Structure your VCIC presentation by distinguishing between reported news facts and underlying LP investment implications. First, state the event (partner departure after 16 years). Second, present the quantitative framework (requesting deal attribution to separate partner MOIC/IRR metrics). Third, outline the exact LPA contractual terms (Key Person clauses) that must be satisfied before recommending an LP re-up.",
+        "follow_up_questions": [
+          "Does Anup Gupta's departure trigger key-person provisions under existing Limited Partnership Agreements?",
+          "What portion of total fund historical MOIC and DPI is directly attributable to deals led by Anup Gupta?",
+          "How will board representation and ongoing operational support be reassigned across remaining partners for active portfolio companies?"
+        ]
+      },
+      "ai_note": "This case study was generated strictly from the provided headline and RSS excerpt using disciplined VCIC analysis principles. No non-disclosed metrics, portfolio figures, or non-public partner details were assumed or invented."
+    },
+    "region_focus": "India",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 2,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
