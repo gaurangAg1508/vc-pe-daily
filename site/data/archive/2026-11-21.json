@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T11:58:03.500890+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 66,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
+      "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
+      "summary": "Spacetech startup SatSure has raised ₹60 Cr from Central government-backed spacetech VC fund, Antariksh Venture Capital Fund (AVCF). The amount…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-20T10:31:57+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "SatSure is an Indian spacetech startup specializing in satellite data applications and spatial analytics. Further detailed historical metrics, founding history, and team backgrounds are not disclosed in the supplied article excerpt.",
+      "what_happened": "SatSure has raised a Series B funding round reported at ₹200 Cr (~$24M USD equivalent), with ₹60 Cr contributed by the Central government-backed Antariksh Venture Capital Fund (AVCF). Full transaction details and participating co-investors are available in the original coverage by Inc42 (https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/).",
+      "deal_facts": [
+        {
+          "label": "Company Name",
+          "value": "SatSure"
+        },
+        {
+          "label": "Funding Stage",
+          "value": "Series B"
+        },
+        {
+          "label": "Lead Investor",
+          "value": "Antariksh Venture Capital Fund (AVCF)"
+        },
+        {
+          "label": "Lead Investor Description",
+          "value": "Central government-backed spacetech venture capital fund"
+        },
+        {
+          "label": "AVCF Investment Amount",
+          "value": "₹60 Cr"
+        },
+        {
+          "label": "Reported Total Round Size",
+          "value": "₹200 Cr (as stated in headline)"
+        },
+        {
+          "label": "Post-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt. This matters because without pre/post-money valuation, an investor cannot calculate ownership percentage, entry price, or expected return multiples."
+        },
+        {
+          "label": "Current Revenue & ARR",
+          "value": "Not disclosed in the supplied article excerpt. This matters because Series B investments usually require proven product-market fit and clear valuation multiples relative to annualized recurring revenue (ARR)."
+        },
+        {
+          "label": "Historical Growth Rate",
+          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing momentum and trajectory toward Series C or exit liquidity."
+        },
+        {
+          "label": "Use of Proceeds",
+          "value": "Not disclosed in the supplied article excerpt. Essential to verify whether capital is allocated toward high-ROI R&D, satellite constellation deployment, or sales expansion."
+        }
+      ],
+      "business_model": {
+        "plain_english": "SatSure operates in the spacetech sector, leveraging satellite data and spatial intelligence analytics to provide domain-specific insights. Specific offerings, software-vs-hardware distribution, and service layers are not detailed in the excerpt.",
+        "customer": "Not disclosed in the supplied article excerpt. Typically, spacetech intelligence platforms target enterprise B2B customers (e.g., agriculture, infrastructure, banking/insurance) or government/defence agencies (G2B).",
+        "revenue_engine": "Not disclosed in the supplied article excerpt. Common revenue mechanisms in this space include annual software-as-a-service (SaaS) subscriptions for analytics platforms, API consumption fees, or custom government contracts.",
+        "unit_economics_to_check": [
+          "Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV) across private enterprise and public sector segments.",
+          "Gross Margins (differentiating high-margin proprietary software analytics from low-margin third-party satellite data procurement costs).",
+          "Net Retention Rate (NRR) and Annual Contract Value (ACV) expansion metrics.",
+          "CapEx requirement per unit of data processed or proprietary payload deployed."
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Policy Tailwinds — Sovereign backing from the Indian Central government through AVCF indicates strong national priority and potential fast-tracked regulatory/procurement pathways for domestic spacetech firms.",
+        "Possible investor rationale: Market Maturation — Transition from early-stage proof-of-concept (Series A) to scaling commercial monetization (Series B) as satellite imagery costs decrease and downstream AI capabilities expand.",
+        "Possible investor rationale: Capital Defense — Securing strategic anchor capital from a government fund provides institutional credibility, lowering prospective risk for institutional co-investors in the remainder of the ₹200 Cr round."
+      ],
+      "investor_view": {
+        "verdict": "Not yet; conditional interest.",
+        "thesis": "While sovereign support via AVCF provides a strong strategic moat and regulatory validation in the high-barrier Indian spacetech sector, investment cannot be committed without fundamental financial due diligence. Conditional interest is contingent on verifying recurring revenue quality, cap table dynamics, and post-money entry valuation.",
+        "reasons_to_be_interested": [
+          "Government-backed lead investor (AVCF) mitigates regulatory barriers and provides access to public-sector procurement infrastructure.",
+          "Spacetech spatial analytics address massive systemic markets in climate resilience, agriculture risk, infrastructure monitoring, and defense.",
+          "Successful Series B positioning implies the company has passed initial technical viability milestones."
+        ],
+        "what_must_be_true": [
+          "Entry valuation must allow a realistic path to a 3x–5x MOIC given public/private market liquidity multiples in spatial analytics.",
+          "Revenue must be predominantly recurring software analytics (high gross margin) rather than capital-intensive custom consulting.",
+          "Cap table must retain sufficient equity incentive pool for key technical executives post-Series B."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Capital Intensity and Cash Burn Rate",
+          "why_it_matters": "Spacetech companies often suffer from extended product development lifecycles and high infrastructure costs, threatening premature depletion of capital.",
+          "how_to_test": "Audit historical burn rate, net runway post-Series B, and compute capital efficiency metrics (e.g., Burn Multiple = Net Burn / Net New ARR)."
+        },
+        {
+          "risk": "Revenue Concentration in Government Contracts",
+          "why_it_matters": "Over-reliance on government procurement can lead to unpredictable, lengthy sales cycles and cash flow volatility due to bureaucracy.",
+          "how_to_test": "Request customer concentration schedule to ensure no single client represents >15% of annual revenue and evaluate commercial B2B sales traction."
+        },
+        {
+          "risk": "Valuation Overhang & Cap Table Dilution",
+          "why_it_matters": "If the ₹200 Cr Series B is raised at an inflated valuation without matching growth metrics, down-round risk increases for Series C.",
+          "how_to_test": "Analyze cap table, preference stacks (e.g., liquidation preferences), and compare ARR multiple against benchmark public spatial analytics peers."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Detailed Cap Table & Term Sheet History",
+          "why": "To verify current ownership percentages, liquidation preferences, anti-dilution provisions, and the exact ownership stake purchased by AVCF's ₹60 Cr."
+        },
+        {
+          "request": "Audited Financial Statements & ARR Breakdown",
+          "why": "To segregate high-margin software recurring revenue from low-margin hardware or professional services revenue."
+        },
+        {
+          "request": "Customer Cohort & Net Retention Analysis",
+          "why": "To evaluate product stickiness, logo churn, and account expansion dynamics across B2B and government clients."
+        },
+        {
+          "request": "Technology & Intellectual Property (IP) Audit",
+          "why": "To verify proprietary ownership of data processing algorithms, satellite integration IP, and dependencies on third-party satellite data vendors."
+        }
+      ],
+      "concept_lesson": {
+        "name": "IRR (Internal Rate of Return) vs. MOIC (Multiple on Invested Capital)",
+        "definition": "MOIC (Multiple on Invested Capital) measures absolute capital growth regardless of time: it answers 'How many dollars do we get back for every dollar invested?' IRR (Internal Rate of Return) is the annualized percentage rate of return earned on an investment, explicitly accounting for the time value of money. While MOIC tells an investor the absolute magnitude of cash returned, IRR reflects the speed of capital return—a key metric for fund-level LP performance evaluation.",
+        "formula": "MOIC = Total Cash Returned / Total Cash Invested\nIRR = (Exit Value / Initial Investment)^(1 / t) - 1  (for a single cash inflow/outflow over t years, where Net Present Value = 0)",
+        "connection_to_deal": "In SatSure's case, financial returns cannot be calculated because exit valuation, target exit timeline, and current post-money entry valuation are 'Not disclosed in the supplied article excerpt'. However, venture capitalists evaluating AVCF's ₹60 Cr cheque must balance both MOIC (target 3x+ for Series B) and IRR (target >25%) to hit overall fund hurdles.",
+        "worked_example": "Below is a comparative mathematical model illustrating how time impacts IRR while MOIC remains identical, using reported and hypothetical figures:\n\n- AVCF Initial Investment: ₹60 Cr [Reported in excerpt]\n- Projected Exit Payout: ₹180 Cr [Hypothetical figure used for illustration]\n- Calculated MOIC = ₹180 Cr / ₹60 Cr = 3.0x [Hypothetical calculation derived from reported investment and hypothetical exit]\n\nScenario A (Fast Liquidity - 3 Year Exit):\n- Timeline (t): 3 years [Hypothetical]\n- Formula: IRR = (180 / 60)^(1 / 3) - 1 = (3.0)^(0.3333) - 1\n- Calculated IRR: 44.22% [Hypothetical calculation]\n\nScenario B (Slow Liquidity - 7 Year Exit):\n- Timeline (t): 7 years [Hypothetical]\n- Formula: IRR = (180 / 60)^(1 / 7) - 1 = (3.0)^(0.1428) - 1\n- Calculated IRR: 16.99% [Hypothetical calculation]\n\nAnalysis: In both scenarios, the absolute profit (₹120 Cr) and MOIC (3.0x) are identical. However, Scenario A yields an outstanding 44.22% IRR (beating standard VC hurdle rates of ~25%), whereas Scenario B yields 16.99% IRR, which underperforms typical early-growth venture fund hurdles due to the extended 7-year capital lockup.",
+        "takeaway": "Never analyze a deal's return prospective using MOIC or IRR in isolation. High MOIC realized over an excessively long duration creates poor IRR, depressing a fund's performance metrics for LPs. Conversely, a high IRR achieved in a rapid 12-month flip on a low MOIC yields insufficient total cash dollars to 'return the fund'. VC deals require balancing velocity (IRR) with magnitude (MOIC)."
+      },
+      "vcic": {
+        "sample_recommendation": "Partner Recommendation: Pass on immediate check allocation; issue a 'Conditional Interest' memo to SatSure pending full diligence room access. Frame the pitch to judges as: 'We recognize strong sovereign signal and regulatory positioning via AVCF's ₹60 Cr participation in the ₹200 Cr Series B. However, without disclosed valuation and ARR breakdown, committing capital presents unquantifiable risk. We recommend entering exclusivity to diligence customer retention and ARR multiples, aiming for a target 3.5x MOIC / 30% IRR over a 5-year exit horizon.'",
+        "how_to_present": "Structure your presentation with disciplined venture principles: 1) Acknowledge the core news fact (AVCF lead in ₹200 Cr Series B) and sovereign tailwinds. 2) Explicitly list key unstated variables (Valuation, ARR, Burn). 3) Present a rigorous framework for evaluating returns using both MOIC and IRR. 4) Conclude with structured, high-priority diligence requests.",
+        "follow_up_questions": [
+          "What exact pre-money valuation did AVCF accept for their ₹60 Cr lead investment, and what liquidation preferences attach to this Series B tranche?",
+          "What percentage of SatSure's current ARR is derived from private B2B enterprise software vs. long-cycle Indian government contracts?",
+          "What is the current runway post-₹200 Cr close, and what is the target net ARR growth required prior to Series C or exit?"
+        ]
+      },
+      "ai_note": "This case study was generated strictly from the provided headline and RSS excerpt. No unverified external corporate disclosures, private databases, or invented figures were incorporated. Missing operational and financial data are explicitly tagged as undisclosed."
+    },
+    "region_focus": "India",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 2,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
