@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:09:39.881444+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 56,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+      "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+      "summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing investor AVP. The company has now raised more than €41.06 million ($45 million) in […] The post Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-20T12:41:53+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "Archer (formerly hackajob) is a London- and New York-based technology company building AI recruiting agents designed to automate hiring workflows for both employers/recruiters and job seekers.",
+      "what_happened": "Archer raised €9.1 million ($10 million) in a funding round led by Volition Capital, with participation from existing investor AVP. This financing brings Archer's cumulative funding to over €41.06 million ($45 million). The company plans to use the new funds to deploy AI recruiting agents across its dual-sided recruiting ecosystem. (Source: https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/ )",
+      "deal_facts": [
+        {
+          "label": "Company Name",
+          "value": "Archer (formerly hackajob)"
+        },
+        {
+          "label": "Headquarters Locations",
+          "value": "London, United Kingdom and New York, United States"
+        },
+        {
+          "label": "Round Size",
+          "value": "€9.1 million ($10 million)"
+        },
+        {
+          "label": "Lead Investor",
+          "value": "Volition Capital"
+        },
+        {
+          "label": "Participating Investors",
+          "value": "AVP (existing investor)"
+        },
+        {
+          "label": "Cumulative Capital Raised",
+          "value": "More than €41.06 million ($45 million)"
+        },
+        {
+          "label": "Post-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt. Critical for determining investor entry price, required exit size, and potential fund return multiples."
+        },
+        {
+          "label": "Company Revenue / ARR",
+          "value": "Not disclosed in the supplied article excerpt. Crucial to evaluate growth velocity, valuation multiples, capital efficiency, and product-market fit."
+        },
+        {
+          "label": "Growth Rate",
+          "value": "Not disclosed in the supplied article excerpt. Necessary to assess revenue momentum and competitive positioning."
+        },
+        {
+          "label": "Ownership Percentage Acquired",
+          "value": "Not disclosed in the supplied article excerpt. Prevents precise calculation of pro-rata rights, cap table dilution, and GP fund ownership targets."
+        }
+      ],
+      "business_model": {
+        "plain_english": "Archer operates a technology platform that deploys AI software agents to match job candidates with corporate recruiters, streamlining early-stage sourcing, screening, and job applicant matching.",
+        "customer": "Dual-sided market: Enterprise employers/recruiters seeking qualified hires, and job seekers searching for career opportunities.",
+        "revenue_engine": "Pricing model is not disclosed in the supplied article excerpt. Typically, HR tech platforms monetize via recurring annual software subscriptions (SaaS), fee-per-hire success pricing, or seat-based recruiter software licenses.",
+        "unit_economics_to_check": [
+          "Customer Acquisition Cost (CAC) for both employers and job seekers",
+          "Net Revenue Retention (NRR) and Annual Contract Value (ACV) from enterprise recruiting teams",
+          "Gross margins considering AI model inference and compute API infrastructure costs",
+          "Candidate-to-hire conversion velocity and time-to-fill reduction metrics"
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Corporate talent acquisition teams are transitioning from passive job boards to autonomous AI agents that proactively source, screen, and engage qualified candidates.",
+        "Possible investor rationale: Rebranding from hackajob to Archer signals a strategic expansion beyond software developer matching into broad multi-sector AI workforce agency.",
+        "Possible investor rationale: Strong signal from existing investor AVP re-investing alongside growth-focused lead investor Volition Capital suggests positive internal financial traction."
+      ],
+      "investor_view": {
+        "verdict": "Conditional Interest / Pending Deep Diligence",
+        "thesis": "Archer operates in a high-value category (recruitment software) where AI agents can drive dramatic efficiency gains for employers. If Archer demonstrates strong software gross margins, scalable AI unit economics, and rapid ARR expansion, it represents an attractive growth equity opportunity. However, lack of financial metrics and valuation details requires withholding a definitive commit decision.",
+        "reasons_to_be_interested": [
+          "Strong institutional backing from Volition Capital and follow-on capital from AVP, building on >$45M total capital raised.",
+          "Dual-sided network effects enhanced by agentic automation for both sides of the recruitment funnel.",
+          "Dual presence in premier tech and enterprise talent hubs (London and New York)."
+        ],
+        "what_must_be_true": [
+          "Annual recurring revenue (ARR) must reflect rapid growth (>70-100% YoY) with healthy Net Revenue Retention (>110%).",
+          "Gross margins must exceed 70%, proving AI agent compute costs do not drag down traditional SaaS margin profiles.",
+          "Entry valuation must allow the investing fund to achieve at least a 3x gross MOIC under conservative market exit multiples."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Intense Competition & Low AI Wrapper Moats",
+          "why_it_matters": "Established ATS platforms (e.g., Greenhouse, Workday) and vertical AI startups are building native candidate sourcing agents, creating pricing pressure.",
+          "how_to_test": "Evaluate customer win/loss reports, feature differentiation, and candidate response rates against competing recruitment tools."
+        },
+        {
+          "risk": "AI Inference and Compute Cost Erosion",
+          "why_it_matters": "If AI agents require continuous model inference per candidate match, gross margins could drop significantly below standard software levels.",
+          "how_to_test": "Audit COGS (Cost of Goods Sold) line items specifically isolating cloud and model API costs per active candidate profile."
+        },
+        {
+          "risk": "High Historical Capital Accumulation ($45M+ Raised)",
+          "why_it_matters": "Prior capital raises may imply a high existing preferred valuation, elevating liquidation preference hurdles and narrowing exit return windows.",
+          "how_to_test": "Review the full capitalization table, preference stack (1x non-participating vs participating), and historic valuation step-ups."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Audited Financial Statements, ARR Breakdown, and COGS Schedule",
+          "why": "Not disclosed in the supplied article excerpt. Mandatory to verify recurring revenue, customer retention rates, and software gross margins."
+        },
+        {
+          "request": "Term Sheet & Cap Table for the €9.1M ($10M) Round",
+          "why": "Not disclosed in the supplied article excerpt. Necessary to determine valuation, liquidation preferences, option pool top-ups, and investor governance rights."
+        },
+        {
+          "request": "Product Telemetry on AI Agent Autonomy & Candidate Match Accuracy",
+          "why": "Not disclosed in the supplied article excerpt. Essential to assess whether AI agents deliver genuine automated value or require human operator intervention."
+        }
+      ],
+      "concept_lesson": {
+        "name": "VC/PE Fund Economics & Distribution Waterfall",
+        "definition": "Fund economics dictate how cash flows, fees, and investment profits are shared between Limited Partners (LPs, institutional investors who supply capital) and the General Partner (GP, the fund manager). Key components include Management Fees (typically 2% per year to fund operations), Carried Interest (the GP's share of net profits, usually 20%), Hurdle Rate / Preferred Return (an annual baseline return LPs receive before GP carry applies, often 8%), and the Distribution Waterfall (the sequential order in which realized cash is distributed back to LPs and GPs).",
+        "formula": "Simplified GP Carried Interest = Carry Rate × Max(0, Realized Fund Cash Distributions - Invested Capital - LP Preferred Return Hurdle Amount)",
+        "connection_to_deal": "While Volition Capital led Archer's €9.1 million ($10 million) round, specific fund parameters (such as Volition's fund size, fee structure, or carry hurdle) are not disclosed in the supplied article excerpt. Below is a structured hypothetical example demonstrating how a $10 million check in Archer fits into a standard VC fund return model.",
+        "worked_example": "Assume a hypothetical growth VC fund of $100 million total capital (Hypothetical). The fund charges a 2% annual management fee over a 10-year life ($20M total fees, leaving $80M net investable capital). The fund invests $10 million (Reported check size raised by Archer in this round) as part of its deployment strategy. The fund terms specify an 8% annual preferred return hurdle and a 20% carried interest rate (Hypothetical).\n\nSuppose that at the end of the fund life, total realized fund cash distributions equal $300 million across all portfolio exits (Hypothetical):\n1. Return of Principal: The first $100 million returned goes directly to LPs to repay their initial committed capital (Hypothetical).\n2. LP Hurdle (Preferred Return): LPs receive an 8% compound annual return on their $100M, equaling ~$115.9 million in cumulative hurdle returns (Hypothetical).\n3. Carried Interest Pool: Realized proceeds above $215.9M ($100M capital + $115.9M hurdle) equal $84.1 million in net profits eligible for carry split (Hypothetical).\n4. GP Carried Interest (20%): 20% × $84.1M = $16.82 million earned by the GP team (Hypothetical).\n5. Net LP Distribution: Total $300M distributions - $16.82M GP carry = $283.18 million net to LPs (Hypothetical), delivering a 2.83x net fund MOIC.",
+        "takeaway": "Understanding fund economics is critical for venture capital investors. A $10 million investment check must generate a sizable multiple return (e.g., 3x to 5x+) to return LP principal, satisfy hurdle obligations, and generate meaningful carried interest for the fund managers."
+      },
+      "vcic": {
+        "sample_recommendation": "We recommend progressing Archer to Phase 2 due diligence with a conditional verdict. The company addresses a large recruitment automation market with backing from reputable growth investors (Volition Capital, AVP). However, because key financial metrics—including valuation, ARR, gross margins, and burn rate—are missing, final investment memo approval must remain gated pending data room review.",
+        "how_to_present": "Deliver your VCIC presentation in three distinct sections: 1) Executive Summary & Market Mechanics: Highlight Archer's dual-sided AI agent positioning in talent acquisition; 2) Key Positive Signals: Emphasize Volition Capital's leadership, AVP's repeat investment, and $45M+ cumulative capital; 3) Mandatory Diligence Gates: Clearly highlight missing parameters (Valuation, ARR growth, compute COGS) and define the financial thresholds required to execute a binding investment term sheet.",
+        "follow_up_questions": [
+          "What is Archer's current ARR, year-over-year revenue growth rate, and net revenue retention (NRR)?",
+          "What is the pre-money valuation and target equity ownership percentage associated with this €9.1M ($10M) round?",
+          "How do AI agent compute costs impact gross margin percentage compared to traditional SaaS models?"
+        ]
+      },
+      "ai_note": "This practical case study relies strictly on information disclosed in the provided headline and RSS excerpt. Crucial undisclosed facts—such as ARR, valuation, gross margins, and fund structure details—have been explicitly marked as missing and supplemented with clearly labeled hypothetical figures for educational purposes."
+    },
+    "region_focus": "Global",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 3,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}

@@ -1,160 +1,155 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T11:58:03.500890+08:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:09:39.881444+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 66,
+  "candidate_count": 56,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
-    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
-      "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
-      "summary": "Spacetech startup SatSure has raised ₹60 Cr from Central government-backed spacetech VC fund, Antariksh Venture Capital Fund (AVCF). The amount…",
-      "source": "Inc42",
-      "region": "India",
-      "published_at": "2026-11-20T10:31:57+00:00"
+      "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+      "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+      "summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing investor AVP. The company has now raised more than €41.06 million ($45 million) in […] The post Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-20T12:41:53+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "SatSure is an Indian spacetech startup specializing in satellite data applications and spatial analytics. Further detailed historical metrics, founding history, and team backgrounds are not disclosed in the supplied article excerpt.",
-      "what_happened": "SatSure has raised a Series B funding round reported at ₹200 Cr (~$24M USD equivalent), with ₹60 Cr contributed by the Central government-backed Antariksh Venture Capital Fund (AVCF). Full transaction details and participating co-investors are available in the original coverage by Inc42 (https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/).",
+      "company_at_a_glance": "Archer (formerly hackajob) is a London- and New York-based technology company building AI recruiting agents designed to automate hiring workflows for both employers/recruiters and job seekers.",
+      "what_happened": "Archer raised €9.1 million ($10 million) in a funding round led by Volition Capital, with participation from existing investor AVP. This financing brings Archer's cumulative funding to over €41.06 million ($45 million). The company plans to use the new funds to deploy AI recruiting agents across its dual-sided recruiting ecosystem. (Source: https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/ )",
       "deal_facts": [
         {
           "label": "Company Name",
-          "value": "SatSure"
+          "value": "Archer (formerly hackajob)"
         },
         {
-          "label": "Funding Stage",
-          "value": "Series B"
+          "label": "Headquarters Locations",
+          "value": "London, United Kingdom and New York, United States"
+        },
+        {
+          "label": "Round Size",
+          "value": "€9.1 million ($10 million)"
         },
         {
           "label": "Lead Investor",
-          "value": "Antariksh Venture Capital Fund (AVCF)"
+          "value": "Volition Capital"
         },
         {
-          "label": "Lead Investor Description",
-          "value": "Central government-backed spacetech venture capital fund"
+          "label": "Participating Investors",
+          "value": "AVP (existing investor)"
         },
         {
-          "label": "AVCF Investment Amount",
-          "value": "₹60 Cr"
-        },
-        {
-          "label": "Reported Total Round Size",
-          "value": "₹200 Cr (as stated in headline)"
+          "label": "Cumulative Capital Raised",
+          "value": "More than €41.06 million ($45 million)"
         },
         {
           "label": "Post-Money Valuation",
-          "value": "Not disclosed in the supplied article excerpt. This matters because without pre/post-money valuation, an investor cannot calculate ownership percentage, entry price, or expected return multiples."
+          "value": "Not disclosed in the supplied article excerpt. Critical for determining investor entry price, required exit size, and potential fund return multiples."
         },
         {
-          "label": "Current Revenue & ARR",
-          "value": "Not disclosed in the supplied article excerpt. This matters because Series B investments usually require proven product-market fit and clear valuation multiples relative to annualized recurring revenue (ARR)."
+          "label": "Company Revenue / ARR",
+          "value": "Not disclosed in the supplied article excerpt. Crucial to evaluate growth velocity, valuation multiples, capital efficiency, and product-market fit."
         },
         {
-          "label": "Historical Growth Rate",
-          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing momentum and trajectory toward Series C or exit liquidity."
+          "label": "Growth Rate",
+          "value": "Not disclosed in the supplied article excerpt. Necessary to assess revenue momentum and competitive positioning."
         },
         {
-          "label": "Use of Proceeds",
-          "value": "Not disclosed in the supplied article excerpt. Essential to verify whether capital is allocated toward high-ROI R&D, satellite constellation deployment, or sales expansion."
+          "label": "Ownership Percentage Acquired",
+          "value": "Not disclosed in the supplied article excerpt. Prevents precise calculation of pro-rata rights, cap table dilution, and GP fund ownership targets."
         }
       ],
       "business_model": {
-        "plain_english": "SatSure operates in the spacetech sector, leveraging satellite data and spatial intelligence analytics to provide domain-specific insights. Specific offerings, software-vs-hardware distribution, and service layers are not detailed in the excerpt.",
-        "customer": "Not disclosed in the supplied article excerpt. Typically, spacetech intelligence platforms target enterprise B2B customers (e.g., agriculture, infrastructure, banking/insurance) or government/defence agencies (G2B).",
-        "revenue_engine": "Not disclosed in the supplied article excerpt. Common revenue mechanisms in this space include annual software-as-a-service (SaaS) subscriptions for analytics platforms, API consumption fees, or custom government contracts.",
+        "plain_english": "Archer operates a technology platform that deploys AI software agents to match job candidates with corporate recruiters, streamlining early-stage sourcing, screening, and job applicant matching.",
+        "customer": "Dual-sided market: Enterprise employers/recruiters seeking qualified hires, and job seekers searching for career opportunities.",
+        "revenue_engine": "Pricing model is not disclosed in the supplied article excerpt. Typically, HR tech platforms monetize via recurring annual software subscriptions (SaaS), fee-per-hire success pricing, or seat-based recruiter software licenses.",
         "unit_economics_to_check": [
-          "Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV) across private enterprise and public sector segments.",
-          "Gross Margins (differentiating high-margin proprietary software analytics from low-margin third-party satellite data procurement costs).",
-          "Net Retention Rate (NRR) and Annual Contract Value (ACV) expansion metrics.",
-          "CapEx requirement per unit of data processed or proprietary payload deployed."
+          "Customer Acquisition Cost (CAC) for both employers and job seekers",
+          "Net Revenue Retention (NRR) and Annual Contract Value (ACV) from enterprise recruiting teams",
+          "Gross margins considering AI model inference and compute API infrastructure costs",
+          "Candidate-to-hire conversion velocity and time-to-fill reduction metrics"
         ]
       },
       "why_now": [
-        "Possible investor rationale: Policy Tailwinds — Sovereign backing from the Indian Central government through AVCF indicates strong national priority and potential fast-tracked regulatory/procurement pathways for domestic spacetech firms.",
-        "Possible investor rationale: Market Maturation — Transition from early-stage proof-of-concept (Series A) to scaling commercial monetization (Series B) as satellite imagery costs decrease and downstream AI capabilities expand.",
-        "Possible investor rationale: Capital Defense — Securing strategic anchor capital from a government fund provides institutional credibility, lowering prospective risk for institutional co-investors in the remainder of the ₹200 Cr round."
+        "Possible investor rationale: Corporate talent acquisition teams are transitioning from passive job boards to autonomous AI agents that proactively source, screen, and engage qualified candidates.",
+        "Possible investor rationale: Rebranding from hackajob to Archer signals a strategic expansion beyond software developer matching into broad multi-sector AI workforce agency.",
+        "Possible investor rationale: Strong signal from existing investor AVP re-investing alongside growth-focused lead investor Volition Capital suggests positive internal financial traction."
       ],
       "investor_view": {
-        "verdict": "Not yet; conditional interest.",
-        "thesis": "While sovereign support via AVCF provides a strong strategic moat and regulatory validation in the high-barrier Indian spacetech sector, investment cannot be committed without fundamental financial due diligence. Conditional interest is contingent on verifying recurring revenue quality, cap table dynamics, and post-money entry valuation.",
+        "verdict": "Conditional Interest / Pending Deep Diligence",
+        "thesis": "Archer operates in a high-value category (recruitment software) where AI agents can drive dramatic efficiency gains for employers. If Archer demonstrates strong software gross margins, scalable AI unit economics, and rapid ARR expansion, it represents an attractive growth equity opportunity. However, lack of financial metrics and valuation details requires withholding a definitive commit decision.",
         "reasons_to_be_interested": [
-          "Government-backed lead investor (AVCF) mitigates regulatory barriers and provides access to public-sector procurement infrastructure.",
-          "Spacetech spatial analytics address massive systemic markets in climate resilience, agriculture risk, infrastructure monitoring, and defense.",
-          "Successful Series B positioning implies the company has passed initial technical viability milestones."
+          "Strong institutional backing from Volition Capital and follow-on capital from AVP, building on >$45M total capital raised.",
+          "Dual-sided network effects enhanced by agentic automation for both sides of the recruitment funnel.",
+          "Dual presence in premier tech and enterprise talent hubs (London and New York)."
         ],
         "what_must_be_true": [
-          "Entry valuation must allow a realistic path to a 3x–5x MOIC given public/private market liquidity multiples in spatial analytics.",
-          "Revenue must be predominantly recurring software analytics (high gross margin) rather than capital-intensive custom consulting.",
-          "Cap table must retain sufficient equity incentive pool for key technical executives post-Series B."
+          "Annual recurring revenue (ARR) must reflect rapid growth (>70-100% YoY) with healthy Net Revenue Retention (>110%).",
+          "Gross margins must exceed 70%, proving AI agent compute costs do not drag down traditional SaaS margin profiles.",
+          "Entry valuation must allow the investing fund to achieve at least a 3x gross MOIC under conservative market exit multiples."
         ]
       },
       "risks": [
         {
-          "risk": "Capital Intensity and Cash Burn Rate",
-          "why_it_matters": "Spacetech companies often suffer from extended product development lifecycles and high infrastructure costs, threatening premature depletion of capital.",
-          "how_to_test": "Audit historical burn rate, net runway post-Series B, and compute capital efficiency metrics (e.g., Burn Multiple = Net Burn / Net New ARR)."
+          "risk": "Intense Competition & Low AI Wrapper Moats",
+          "why_it_matters": "Established ATS platforms (e.g., Greenhouse, Workday) and vertical AI startups are building native candidate sourcing agents, creating pricing pressure.",
+          "how_to_test": "Evaluate customer win/loss reports, feature differentiation, and candidate response rates against competing recruitment tools."
         },
         {
-          "risk": "Revenue Concentration in Government Contracts",
-          "why_it_matters": "Over-reliance on government procurement can lead to unpredictable, lengthy sales cycles and cash flow volatility due to bureaucracy.",
-          "how_to_test": "Request customer concentration schedule to ensure no single client represents >15% of annual revenue and evaluate commercial B2B sales traction."
+          "risk": "AI Inference and Compute Cost Erosion",
+          "why_it_matters": "If AI agents require continuous model inference per candidate match, gross margins could drop significantly below standard software levels.",
+          "how_to_test": "Audit COGS (Cost of Goods Sold) line items specifically isolating cloud and model API costs per active candidate profile."
         },
         {
-          "risk": "Valuation Overhang & Cap Table Dilution",
-          "why_it_matters": "If the ₹200 Cr Series B is raised at an inflated valuation without matching growth metrics, down-round risk increases for Series C.",
-          "how_to_test": "Analyze cap table, preference stacks (e.g., liquidation preferences), and compare ARR multiple against benchmark public spatial analytics peers."
+          "risk": "High Historical Capital Accumulation ($45M+ Raised)",
+          "why_it_matters": "Prior capital raises may imply a high existing preferred valuation, elevating liquidation preference hurdles and narrowing exit return windows.",
+          "how_to_test": "Review the full capitalization table, preference stack (1x non-participating vs participating), and historic valuation step-ups."
         }
       ],
       "diligence": [
         {
-          "request": "Detailed Cap Table & Term Sheet History",
-          "why": "To verify current ownership percentages, liquidation preferences, anti-dilution provisions, and the exact ownership stake purchased by AVCF's ₹60 Cr."
+          "request": "Audited Financial Statements, ARR Breakdown, and COGS Schedule",
+          "why": "Not disclosed in the supplied article excerpt. Mandatory to verify recurring revenue, customer retention rates, and software gross margins."
         },
         {
-          "request": "Audited Financial Statements & ARR Breakdown",
-          "why": "To segregate high-margin software recurring revenue from low-margin hardware or professional services revenue."
+          "request": "Term Sheet & Cap Table for the €9.1M ($10M) Round",
+          "why": "Not disclosed in the supplied article excerpt. Necessary to determine valuation, liquidation preferences, option pool top-ups, and investor governance rights."
         },
         {
-          "request": "Customer Cohort & Net Retention Analysis",
-          "why": "To evaluate product stickiness, logo churn, and account expansion dynamics across B2B and government clients."
-        },
-        {
-          "request": "Technology & Intellectual Property (IP) Audit",
-          "why": "To verify proprietary ownership of data processing algorithms, satellite integration IP, and dependencies on third-party satellite data vendors."
+          "request": "Product Telemetry on AI Agent Autonomy & Candidate Match Accuracy",
+          "why": "Not disclosed in the supplied article excerpt. Essential to assess whether AI agents deliver genuine automated value or require human operator intervention."
         }
       ],
       "concept_lesson": {
-        "name": "IRR (Internal Rate of Return) vs. MOIC (Multiple on Invested Capital)",
-        "definition": "MOIC (Multiple on Invested Capital) measures absolute capital growth regardless of time: it answers 'How many dollars do we get back for every dollar invested?' IRR (Internal Rate of Return) is the annualized percentage rate of return earned on an investment, explicitly accounting for the time value of money. While MOIC tells an investor the absolute magnitude of cash returned, IRR reflects the speed of capital return—a key metric for fund-level LP performance evaluation.",
-        "formula": "MOIC = Total Cash Returned / Total Cash Invested\nIRR = (Exit Value / Initial Investment)^(1 / t) - 1  (for a single cash inflow/outflow over t years, where Net Present Value = 0)",
-        "connection_to_deal": "In SatSure's case, financial returns cannot be calculated because exit valuation, target exit timeline, and current post-money entry valuation are 'Not disclosed in the supplied article excerpt'. However, venture capitalists evaluating AVCF's ₹60 Cr cheque must balance both MOIC (target 3x+ for Series B) and IRR (target >25%) to hit overall fund hurdles.",
-        "worked_example": "Below is a comparative mathematical model illustrating how time impacts IRR while MOIC remains identical, using reported and hypothetical figures:\n\n- AVCF Initial Investment: ₹60 Cr [Reported in excerpt]\n- Projected Exit Payout: ₹180 Cr [Hypothetical figure used for illustration]\n- Calculated MOIC = ₹180 Cr / ₹60 Cr = 3.0x [Hypothetical calculation derived from reported investment and hypothetical exit]\n\nScenario A (Fast Liquidity - 3 Year Exit):\n- Timeline (t): 3 years [Hypothetical]\n- Formula: IRR = (180 / 60)^(1 / 3) - 1 = (3.0)^(0.3333) - 1\n- Calculated IRR: 44.22% [Hypothetical calculation]\n\nScenario B (Slow Liquidity - 7 Year Exit):\n- Timeline (t): 7 years [Hypothetical]\n- Formula: IRR = (180 / 60)^(1 / 7) - 1 = (3.0)^(0.1428) - 1\n- Calculated IRR: 16.99% [Hypothetical calculation]\n\nAnalysis: In both scenarios, the absolute profit (₹120 Cr) and MOIC (3.0x) are identical. However, Scenario A yields an outstanding 44.22% IRR (beating standard VC hurdle rates of ~25%), whereas Scenario B yields 16.99% IRR, which underperforms typical early-growth venture fund hurdles due to the extended 7-year capital lockup.",
-        "takeaway": "Never analyze a deal's return prospective using MOIC or IRR in isolation. High MOIC realized over an excessively long duration creates poor IRR, depressing a fund's performance metrics for LPs. Conversely, a high IRR achieved in a rapid 12-month flip on a low MOIC yields insufficient total cash dollars to 'return the fund'. VC deals require balancing velocity (IRR) with magnitude (MOIC)."
+        "name": "VC/PE Fund Economics & Distribution Waterfall",
+        "definition": "Fund economics dictate how cash flows, fees, and investment profits are shared between Limited Partners (LPs, institutional investors who supply capital) and the General Partner (GP, the fund manager). Key components include Management Fees (typically 2% per year to fund operations), Carried Interest (the GP's share of net profits, usually 20%), Hurdle Rate / Preferred Return (an annual baseline return LPs receive before GP carry applies, often 8%), and the Distribution Waterfall (the sequential order in which realized cash is distributed back to LPs and GPs).",
+        "formula": "Simplified GP Carried Interest = Carry Rate × Max(0, Realized Fund Cash Distributions - Invested Capital - LP Preferred Return Hurdle Amount)",
+        "connection_to_deal": "While Volition Capital led Archer's €9.1 million ($10 million) round, specific fund parameters (such as Volition's fund size, fee structure, or carry hurdle) are not disclosed in the supplied article excerpt. Below is a structured hypothetical example demonstrating how a $10 million check in Archer fits into a standard VC fund return model.",
+        "worked_example": "Assume a hypothetical growth VC fund of $100 million total capital (Hypothetical). The fund charges a 2% annual management fee over a 10-year life ($20M total fees, leaving $80M net investable capital). The fund invests $10 million (Reported check size raised by Archer in this round) as part of its deployment strategy. The fund terms specify an 8% annual preferred return hurdle and a 20% carried interest rate (Hypothetical).\n\nSuppose that at the end of the fund life, total realized fund cash distributions equal $300 million across all portfolio exits (Hypothetical):\n1. Return of Principal: The first $100 million returned goes directly to LPs to repay their initial committed capital (Hypothetical).\n2. LP Hurdle (Preferred Return): LPs receive an 8% compound annual return on their $100M, equaling ~$115.9 million in cumulative hurdle returns (Hypothetical).\n3. Carried Interest Pool: Realized proceeds above $215.9M ($100M capital + $115.9M hurdle) equal $84.1 million in net profits eligible for carry split (Hypothetical).\n4. GP Carried Interest (20%): 20% × $84.1M = $16.82 million earned by the GP team (Hypothetical).\n5. Net LP Distribution: Total $300M distributions - $16.82M GP carry = $283.18 million net to LPs (Hypothetical), delivering a 2.83x net fund MOIC.",
+        "takeaway": "Understanding fund economics is critical for venture capital investors. A $10 million investment check must generate a sizable multiple return (e.g., 3x to 5x+) to return LP principal, satisfy hurdle obligations, and generate meaningful carried interest for the fund managers."
       },
       "vcic": {
-        "sample_recommendation": "Partner Recommendation: Pass on immediate check allocation; issue a 'Conditional Interest' memo to SatSure pending full diligence room access. Frame the pitch to judges as: 'We recognize strong sovereign signal and regulatory positioning via AVCF's ₹60 Cr participation in the ₹200 Cr Series B. However, without disclosed valuation and ARR breakdown, committing capital presents unquantifiable risk. We recommend entering exclusivity to diligence customer retention and ARR multiples, aiming for a target 3.5x MOIC / 30% IRR over a 5-year exit horizon.'",
-        "how_to_present": "Structure your presentation with disciplined venture principles: 1) Acknowledge the core news fact (AVCF lead in ₹200 Cr Series B) and sovereign tailwinds. 2) Explicitly list key unstated variables (Valuation, ARR, Burn). 3) Present a rigorous framework for evaluating returns using both MOIC and IRR. 4) Conclude with structured, high-priority diligence requests.",
+        "sample_recommendation": "We recommend progressing Archer to Phase 2 due diligence with a conditional verdict. The company addresses a large recruitment automation market with backing from reputable growth investors (Volition Capital, AVP). However, because key financial metrics—including valuation, ARR, gross margins, and burn rate—are missing, final investment memo approval must remain gated pending data room review.",
+        "how_to_present": "Deliver your VCIC presentation in three distinct sections: 1) Executive Summary & Market Mechanics: Highlight Archer's dual-sided AI agent positioning in talent acquisition; 2) Key Positive Signals: Emphasize Volition Capital's leadership, AVP's repeat investment, and $45M+ cumulative capital; 3) Mandatory Diligence Gates: Clearly highlight missing parameters (Valuation, ARR growth, compute COGS) and define the financial thresholds required to execute a binding investment term sheet.",
         "follow_up_questions": [
-          "What exact pre-money valuation did AVCF accept for their ₹60 Cr lead investment, and what liquidation preferences attach to this Series B tranche?",
-          "What percentage of SatSure's current ARR is derived from private B2B enterprise software vs. long-cycle Indian government contracts?",
-          "What is the current runway post-₹200 Cr close, and what is the target net ARR growth required prior to Series C or exit?"
+          "What is Archer's current ARR, year-over-year revenue growth rate, and net revenue retention (NRR)?",
+          "What is the pre-money valuation and target equity ownership percentage associated with this €9.1M ($10M) round?",
+          "How do AI agent compute costs impact gross margin percentage compared to traditional SaaS models?"
         ]
       },
-      "ai_note": "This case study was generated strictly from the provided headline and RSS excerpt. No unverified external corporate disclosures, private databases, or invented figures were incorporated. Missing operational and financial data are explicitly tagged as undisclosed."
+      "ai_note": "This practical case study relies strictly on information disclosed in the provided headline and RSS excerpt. Crucial undisclosed facts—such as ARR, valuation, gross margins, and fund structure details—have been explicitly marked as missing and supplemented with clearly labeled hypothetical figures for educational purposes."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 2,
+  "concept_rotation_index": 3,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
