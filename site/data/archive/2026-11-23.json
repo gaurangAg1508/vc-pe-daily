@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T11:43:35.459030+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 46,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+      "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+      "summary": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
+      "source": "YourStory",
+      "region": "India",
+      "published_at": "2026-11-23T02:00:00+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "The news item covers the aggregate Indian startup ecosystem funding rebound for the week of November 23, 2026. Specific individual company names driving this rebound were Not disclosed in the supplied article excerpt.",
+      "what_happened": "Venture capital funding in Indian startups experienced a sharp weekly rebound, reaching a total of $255 million in raised capital. This surge was primarily propped up by a couple of mid-to-late-stage funding rounds falling in the $50-million range, alongside notable activity among women founders driving social change. For further details, see the original reporting by YourStory at https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change.",
+      "deal_facts": [
+        {
+          "label": "Total Weekly Ecosystem Funding",
+          "value": "$255 million across Indian startups (Reported in article excerpt)"
+        },
+        {
+          "label": "Large Deal Size Range",
+          "value": "A couple of deals in the $50-million range (Reported in article excerpt)"
+        },
+        {
+          "label": "Geographic Region",
+          "value": "India (Reported in article excerpt)"
+        },
+        {
+          "label": "Target Founder Demographic Focus",
+          "value": "Women founders driving social change (Reported in article excerpt)"
+        },
+        {
+          "label": "Specific Startup Names",
+          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing specific company product-market fit."
+        },
+        {
+          "label": "Valuations and Round Pricing",
+          "value": "Not disclosed in the supplied article excerpt. Essential for calculating prospective fund return multiples."
+        },
+        {
+          "label": "Participating VC Investors",
+          "value": "Not disclosed in the supplied article excerpt. Important to verify lead investor track record and signal quality."
+        },
+        {
+          "label": "Fund Ownership Targets & Check Sizes",
+          "value": "Not disclosed in the supplied article excerpt. Necessary for evaluating portfolio exposure and dilution limits."
+        }
+      ],
+      "business_model": {
+        "plain_english": "Not disclosed in the supplied article excerpt. The source text discusses macro-level funding activity across multiple startups rather than the business model of a single entity.",
+        "customer": "Not disclosed in the supplied article excerpt.",
+        "revenue_engine": "Not disclosed in the supplied article excerpt.",
+        "unit_economics_to_check": [
+          "Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV) across portfolio segments",
+          "Gross Margin profile across growth-stage ($50M round) recipients",
+          "Payback period on sales and marketing expenditures",
+          "Net Revenue Retention (NRR) to ensure low churn before scaling capital"
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Institutional LPs and VC funds are deploying pent-up dry powder (uninvested capital raised by venture funds) into proven growth-stage companies after an extended period of market dormancy.",
+        "Possible investor rationale: Growth-stage deals in the $50-million range indicate that market valuations have recalibrated to realistic levels, encouraging growth investors to resume large check writing.",
+        "Possible investor rationale: Increased focus on women founders driving social change reflects growing institutional LP interest in impact-driven ventures that combine strong unit economics with scalable social returns."
+      ],
+      "investor_view": {
+        "verdict": "Not yet; conditional interest.",
+        "thesis": "While macro ecosystem rebounds ($255M total weekly funding, $50M mega-deals) demonstrate returning market liquidity in India, disciplined venture investors must evaluate deal terms, post-money valuations, and equity ownership targets at the individual fund level rather than chasing aggregate headline momentum.",
+        "reasons_to_be_interested": [
+          "Strong top-line macro rebound signals a healthier follow-on investment market for downstream portfolio companies.",
+          "The presence of $50M growth rounds indicates institutional lead investors are actively underwriting larger check sizes in India.",
+          "Empirical growth in female-led social impact ventures expands investment pipeline diversity and captures emerging market segments."
+        ],
+        "what_must_be_true": [
+          "Target startups receiving $50M checks must demonstrate clear pathways to profitability with gross margins exceeding baseline industry benchmarks.",
+          "Post-money valuations (company value immediately following new capital investment) must leave sufficient upside to target a minimum 3x-5x MOIC (Multiple on Invested Capital: total cash returned relative to total capital invested).",
+          "Writing a check into a $50M syndicate must comply with fund-level portfolio construction guidelines, avoiding excessive single-asset concentration risk."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Single-Asset Concentration Risk",
+          "why_it_matters": "If a venture fund deploys too large a portion of its capital into one $50M round, a failure or down-round in that company will severely impair fund-level returns.",
+          "how_to_test": "Enforce strict portfolio limits capping maximum capital exposure to any single investment (e.g., max 10% of total fund commitments including follow-on reserves)."
+        },
+        {
+          "risk": "Valuation Inflation during Macro Rebounds",
+          "why_it_matters": "Funding surges ($255M in a single week) can ignite bidding wars among growth investors, driving up entry valuations and depressing future MOIC potential.",
+          "how_to_test": "Benchmark entry valuation multiples against public market peers and historical acquisition multiples within the Indian technology ecosystem."
+        },
+        {
+          "risk": "Reserve Depletion Risk",
+          "why_it_matters": "Participating in large growth rounds without reserving sufficient capital for downstream follow-on rounds exposes the fund to severe equity dilution during future capital raises.",
+          "how_to_test": "Audit fund reserve ratios (e.g., maintaining a 1:1 or 1:1.5 initial-to-follow-on reserve ratio) prior to issuing a term sheet."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Individual capitalization tables and term sheets for the referenced $50M funding rounds.",
+          "why": "The excerpt provides only aggregate weekly figures. Evaluating an investment requires precise data on entry valuation, liquidation preferences, and anti-dilution provisions."
+        },
+        {
+          "request": "Historical audited financial statements and unit economics breakdowns (CAC, LTV, Gross Margins) for target startups.",
+          "why": "Not disclosed in the supplied article excerpt. Essential to verify whether the startup's growth justifies a $50M capital infusion."
+        },
+        {
+          "request": "VC Fund deployment schedule, fund size specifications, and reserve allocation model.",
+          "why": "To calculate portfolio construction metrics, including maximum exposure per position and available capital for maintaining pro-rata ownership rights."
+        }
+      ],
+      "concept_lesson": {
+        "name": "Portfolio Construction & Reserve Management",
+        "definition": "Portfolio construction is the strategic strategy by which a venture fund allocates capital across fund commitments, balancing check sizes, total number of investments, sector/stage diversification, and follow-on reserves. Because VC returns follow a Power Law distribution (where a tiny fraction of outlier portfolio companies generate the vast majority of total fund returns), portfolio construction ensures that winning investments are large enough to 'return the fund' while protecting against the inevitable failure of many early-stage assets.",
+        "formula": "Single-Company Exposure (%) = (Initial Capital Invested + Target Reserve Allocation) / Total Fund Commitments\nInitial Ownership (%) = Initial Capital Invested / Post-Money Valuation",
+        "connection_to_deal": "The reported $255M ecosystem total and $50M deal sizes cannot be directly linked to a specific fund's portfolio construction parameters because individual fund sizes, target ownership percentages, check sizes, and reserve strategies are Not disclosed in the supplied article excerpt. To illustrate how a venture fund analyzes participating in or leading a $50M growth round, we use a hypothetical numerical portfolio model below.",
+        "worked_example": "Consider a hypothetical $500 million VC Fund ('Fund IV') (Hypothetical fund size: $500,000,000). The market news reports total weekly ecosystem funding of $255 million (Reported), with major rounds around $50 million (Reported).\n\nSuppose Fund IV evaluates leading one of these $50 million growth rounds (Reported deal context) by writing a $25 million check (Hypothetical check size: $25,000,000).\n\nStep 1: Calculate Initial Exposure\nInitial Exposure = $25,000,000 (Hypothetical check) / $500,000,000 (Hypothetical fund size) = 5.0% (Hypothetical calculation).\n\nStep 2: Account for Reserves\nFund IV maintains a standard 1:1 follow-on reserve ratio, setting aside an additional $25 million for future rounds (Hypothetical reserve allocation: $25,000,000).\nTotal Potential Exposure = ($25,000,000 initial + $25,000,000 reserve) / $500,000,000 = $50,000,000 / $500,000,000 = 10.0% (Hypothetical maximum exposure).\n\nStep 3: Calculate Target Ownership\nIf the target growth startup receives the $50 million total round at a post-money valuation of $250 million (Hypothetical valuation: $250,000,000), Fund IV's $25 million check yields:\nInitial Ownership = $25,000,000 / $250,000,000 = 10.0% equity stake (Hypothetical ownership).\n\nStep 4: Portfolio Construction Evaluation\nBy capping total exposure at 10% per company, Fund IV can construct a balanced portfolio of approximately 15 to 20 core investments (Hypothetical portfolio size). This structure prevents single-asset concentration risk while ensuring that a 10x return on a successful $250M entry valuation returns $250M+ (0.5x of the entire $500M fund), satisfying venture return hurdles.",
+        "takeaway": "A venture investor never evaluates a deal check in isolation. Every investment check size and follow-on reserve must fit systematically within the fund's portfolio construction framework to balance concentration risk, maintain ownership targets, and harness the VC Power Law."
+      },
+      "vcic": {
+        "sample_recommendation": "Pass on making an immediate investment commitment based on aggregate market headlines alone. However, issue a conditional mandate to source deal flow directly from the lead syndicates managing the $50M growth rounds in India, pending full review of company-level unit economics, valuations, and portfolio exposure limits.",
+        "how_to_present": "When pitching the investment committee in VCIC, allocate your 5 minutes deliberately: (1) Spend 1 minute establishing the macro market context ($255M weekly funding rebound in India, $50M deal sizes) while explicitly distinguishing headline data from missing micro-level diligence facts. (2) Spend 2 minutes walking through the business model metrics and risk factors. (3) Spend 2 minutes presenting your portfolio construction model—demonstrating exact check size, ownership targets, reserve allocations, and single-asset exposure limits relative to your fund size.",
+        "follow_up_questions": [
+          "What is our fund's maximum single-asset concentration cap, and does writing a check into a $50M round breach that limit?",
+          "How are we pricing follow-on reserves for this asset to avoid dilution in subsequent growth rounds?",
+          "Are current entry valuation multiples in the Indian market compatible with our fund's target 3x gross MOIC return threshold?"
+        ]
+      },
+      "ai_note": "This educational analysis was generated strictly using the supplied news excerpt. Reported figures ($255M total funding rebound, $50M deal size range) are explicitly categorized as reported facts. All missing data points (specific startup names, financials, unit economics, ownership percentages, fund sizes) are formally marked as 'Not disclosed in the supplied article excerpt' and modeled using clearly labeled hypothetical numerical illustrations in accordance with VCIC analytical rigor."
+    },
+    "region_focus": "India",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 4,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
