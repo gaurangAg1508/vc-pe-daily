@@ -1,148 +1,159 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T11:43:35.459030+08:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T14:57:25.673743+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 46,
+  "candidate_count": 56,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
-    "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
     "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
-      "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
-      "summary": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
-      "source": "YourStory",
-      "region": "India",
-      "published_at": "2026-11-23T02:00:00+00:00"
+      "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+      "url": "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/",
+      "summary": "coprod, a Swiss robotics hardware startup building modular hardware components for robotics and physical AI applications, has raised €5.45 million ($6 million) in a pre-Seed funding round. The round was co-led by Founderful and PROTOTYPE, with additional backing from General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, and Venturekick. Angel […] The post Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware appeared first on EU-Startups .",
+      "source": "EU-Startups",
+      "region": "Global",
+      "published_at": "2026-11-23T09:01:18+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The news item covers the aggregate Indian startup ecosystem funding rebound for the week of November 23, 2026. Specific individual company names driving this rebound were Not disclosed in the supplied article excerpt.",
-      "what_happened": "Venture capital funding in Indian startups experienced a sharp weekly rebound, reaching a total of $255 million in raised capital. This surge was primarily propped up by a couple of mid-to-late-stage funding rounds falling in the $50-million range, alongside notable activity among women founders driving social change. For further details, see the original reporting by YourStory at https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change.",
+      "company_at_a_glance": "coprod is a Switzerland-based robotics hardware startup developing modular hardware components tailored for robotics and physical Artificial Intelligence (AI) applications. The company aims to address 'integration hell'—the complex, time-consuming process of combining fragmented hardware and software subsystems into functional robotic platforms.",
+      "what_happened": "coprod completed a €5.45 million (approximately $6 million USD) pre-Seed financing round. The round was co-led by Swiss seed fund Founderful and deep-tech venture firm PROTOTYPE. Additional participation came from global and regional venture capital funds including General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, Venturekick, alongside undisclosed angel investors.",
       "deal_facts": [
         {
-          "label": "Total Weekly Ecosystem Funding",
-          "value": "$255 million across Indian startups (Reported in article excerpt)"
+          "label": "Company Name",
+          "value": "coprod"
         },
         {
-          "label": "Large Deal Size Range",
-          "value": "A couple of deals in the $50-million range (Reported in article excerpt)"
+          "label": "Headquarters / Region",
+          "value": "Switzerland (Global reach)"
         },
         {
-          "label": "Geographic Region",
-          "value": "India (Reported in article excerpt)"
+          "label": "Funding Stage",
+          "value": "Pre-Seed"
         },
         {
-          "label": "Target Founder Demographic Focus",
-          "value": "Women founders driving social change (Reported in article excerpt)"
+          "label": "Capital Raised",
+          "value": "€5.45 million (~$6.0 million USD)"
         },
         {
-          "label": "Specific Startup Names",
-          "value": "Not disclosed in the supplied article excerpt. Crucial for assessing specific company product-market fit."
+          "label": "Co-Lead Investors",
+          "value": "Founderful, PROTOTYPE"
         },
         {
-          "label": "Valuations and Round Pricing",
-          "value": "Not disclosed in the supplied article excerpt. Essential for calculating prospective fund return multiples."
+          "label": "Participating Investors",
+          "value": "General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, Venturekick, Angel Investors"
         },
         {
-          "label": "Participating VC Investors",
-          "value": "Not disclosed in the supplied article excerpt. Important to verify lead investor track record and signal quality."
+          "label": "Core Product Focus",
+          "value": "Modular hardware components designed to solve hardware integration challenges in robotics and physical AI"
         },
         {
-          "label": "Fund Ownership Targets & Check Sizes",
-          "value": "Not disclosed in the supplied article excerpt. Necessary for evaluating portfolio exposure and dilution limits."
+          "label": "Valuation (Pre/Post-Money)",
+          "value": "Not disclosed in the supplied article excerpt"
+        },
+        {
+          "label": "Current Revenue / Commercial Metrics",
+          "value": "Not disclosed in the supplied article excerpt"
+        },
+        {
+          "label": "Use of Proceeds",
+          "value": "Not disclosed in the supplied article excerpt"
         }
       ],
       "business_model": {
-        "plain_english": "Not disclosed in the supplied article excerpt. The source text discusses macro-level funding activity across multiple startups rather than the business model of a single entity.",
-        "customer": "Not disclosed in the supplied article excerpt.",
-        "revenue_engine": "Not disclosed in the supplied article excerpt.",
+        "plain_english": "coprod builds standardized, modular hardware modules that allow robotics engineers and physical AI developers to plug and play components without custom-building hardware integration interfaces from scratch.",
+        "customer": "Specific customer segments are not disclosed in the supplied article excerpt. However, potential target profiles likely include original equipment manufacturers (OEMs), robotics startups, enterprise automation developers, and academic research labs building physical AI hardware.",
+        "revenue_engine": "The explicit monetization mechanism is not disclosed in the supplied article excerpt. Standard models in this category include direct component hardware sales, recurring software/firmware licensing fees for integration software, and non-recurring engineering (NRE) fees for enterprise customizations.",
         "unit_economics_to_check": [
-          "Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV) across portfolio segments",
-          "Gross Margin profile across growth-stage ($50M round) recipients",
-          "Payback period on sales and marketing expenditures",
-          "Net Revenue Retention (NRR) to ensure low churn before scaling capital"
+          "Hardware Gross Margin (Selling Price minus Bill of Materials [BOM] cost and contract manufacturing expense)",
+          "Average Order Value (AOV) across module types",
+          "Customer Acquisition Cost (CAC) vs. Customer Lifetime Value (LTV) for hardware buyers",
+          "Repeat purchase frequency and module upsell rate per robotics build",
+          "Warranty, replacement, and return rates per batch"
         ]
       },
       "why_now": [
-        "Possible investor rationale: Institutional LPs and VC funds are deploying pent-up dry powder (uninvested capital raised by venture funds) into proven growth-stage companies after an extended period of market dormancy.",
-        "Possible investor rationale: Growth-stage deals in the $50-million range indicate that market valuations have recalibrated to realistic levels, encouraging growth investors to resume large check writing.",
-        "Possible investor rationale: Increased focus on women founders driving social change reflects growing institutional LP interest in impact-driven ventures that combine strong unit economics with scalable social returns."
+        "Possible investor rationale hypothesis: The explosive growth of foundation models for robotics (Physical AI) has created an acute bottleneck where hardware assembly, power routing, and sensor integration take longer than model training itself.",
+        "Possible investor rationale hypothesis: Standardizing modular hardware components can compress product development cycles for hardware startups from years to months, dramatically lowering capital requirements across the robotics sector.",
+        "Possible investor rationale hypothesis: Venture investors are eager to gain early exposure to the physical AI infrastructure layer, analogous to how standardized semiconductor platforms unlocked software-defined computing."
       ],
       "investor_view": {
-        "verdict": "Not yet; conditional interest.",
-        "thesis": "While macro ecosystem rebounds ($255M total weekly funding, $50M mega-deals) demonstrate returning market liquidity in India, disciplined venture investors must evaluate deal terms, post-money valuations, and equity ownership targets at the individual fund level rather than chasing aggregate headline momentum.",
+        "verdict": "Not yet; conditional interest (Proceed to Phase 2 Diligence).",
+        "thesis": "coprod is tackling a fundamental bottleneck in the rapidly expanding physical AI industry. Raising €5.45M at pre-Seed from premier funds signals strong team quality and syndicate interest. However, physical hardware carries severe capital intensity, supply chain, and margin risks that require thorough primary diligence before issuing a firm investment memo.",
         "reasons_to_be_interested": [
-          "Strong top-line macro rebound signals a healthier follow-on investment market for downstream portfolio companies.",
-          "The presence of $50M growth rounds indicates institutional lead investors are actively underwriting larger check sizes in India.",
-          "Empirical growth in female-led social impact ventures expands investment pipeline diversity and captures emerging market segments."
+          "Exceptionally large pre-Seed round (€5.45M) co-led by top-tier regional and global investors (Founderful, PROTOTYPE, General Catalyst), offering strong initial capitalization and network access.",
+          "Clear positioning against 'integration hell,' a pervasive industry pain point that delays time-to-market for robotics original equipment manufacturers (OEMs).",
+          "Favorable tailwinds driven by enterprise demand for physical AI automation and autonomous hardware systems."
         ],
         "what_must_be_true": [
-          "Target startups receiving $50M checks must demonstrate clear pathways to profitability with gross margins exceeding baseline industry benchmarks.",
-          "Post-money valuations (company value immediately following new capital investment) must leave sufficient upside to target a minimum 3x-5x MOIC (Multiple on Invested Capital: total cash returned relative to total capital invested).",
-          "Writing a check into a $50M syndicate must comply with fund-level portfolio construction guidelines, avoiding excessive single-asset concentration risk."
+          "The modular hardware components must demonstrate a 5x to 10x reduction in system integration time and cost compared to legacy custom engineering.",
+          "The hardware gross margins must realistically scale to at least 45%–55% at volume manufacturing to avoid unsustainable cash burn.",
+          "coprod's modular architecture must possess defensible intellectual property (IP) or software/firmware lock-in to prevent rapid commoditization by incumbent component manufacturers."
         ]
       },
       "risks": [
-        {
-          "risk": "Single-Asset Concentration Risk",
-          "why_it_matters": "If a venture fund deploys too large a portion of its capital into one $50M round, a failure or down-round in that company will severely impair fund-level returns.",
-          "how_to_test": "Enforce strict portfolio limits capping maximum capital exposure to any single investment (e.g., max 10% of total fund commitments including follow-on reserves)."
-        },
-        {
-          "risk": "Valuation Inflation during Macro Rebounds",
-          "why_it_matters": "Funding surges ($255M in a single week) can ignite bidding wars among growth investors, driving up entry valuations and depressing future MOIC potential.",
-          "how_to_test": "Benchmark entry valuation multiples against public market peers and historical acquisition multiples within the Indian technology ecosystem."
-        },
-        {
-          "risk": "Reserve Depletion Risk",
-          "why_it_matters": "Participating in large growth rounds without reserving sufficient capital for downstream follow-on rounds exposes the fund to severe equity dilution during future capital raises.",
-          "how_to_test": "Audit fund reserve ratios (e.g., maintaining a 1:1 or 1:1.5 initial-to-follow-on reserve ratio) prior to issuing a term sheet."
-        }
+        "Execution and Supply Chain Risk: Hardware fabrication involves long lead times, component yield issues, and minimum order quantities (MOQs) that can rapidly deplete early-stage capital.",
+        "Why it matters: Manufacturing delays or quality control failures can destroy pre-Seed startup runway and damage early customer relationships.",
+        "How to test: Review coprod's supply chain partners, bill-of-materials (BOM) redundancy, contract manufacturer SLAs, and prototype defect rates during technical due diligence.",
+        "Defensibility and Competition Risk: Incumbent hardware component vendors or open-source hardware projects could copy coprod's modular form factor.",
+        "Why it matters: If the product is easily replicable, coprod will face price erosion and depressed gross margins.",
+        "How to test: Perform an international patent search and evaluate proprietary software/firmware protocols embedded within coprod's modular units.",
+        "Capital Intensity and Dilution Risk: Hardware companies frequently require large follow-on capital raises to support inventory and tooling, risking severe founder and early-investor dilution.",
+        "Why it matters: A large €5.45M pre-Seed round establishes high expectations; failing to reach commercial milestones before cash depletion will trigger down-round risks.",
+        "How to test: Audit the financial model for cash runway, tooling expenditure (Capex), inventory working capital requirements, and milestone-based hiring plans."
       ],
       "diligence": [
         {
-          "request": "Individual capitalization tables and term sheets for the referenced $50M funding rounds.",
-          "why": "The excerpt provides only aggregate weekly figures. Evaluating an investment requires precise data on entry valuation, liquidation preferences, and anti-dilution provisions."
+          "request": "Complete Bill of Materials (BOM) cost breakdown, contract manufacturing agreements, and target gross margin schedule per product unit.",
+          "why": "Determines whether coprod can achieve viable hardware economics or will struggle with low gross margins inherent in hardware distribution."
         },
         {
-          "request": "Historical audited financial statements and unit economics breakdowns (CAC, LTV, Gross Margins) for target startups.",
-          "why": "Not disclosed in the supplied article excerpt. Essential to verify whether the startup's growth justifies a $50M capital infusion."
+          "request": "Product architecture schematics, patent filings, and proprietary firmware source code documentation.",
+          "why": "Verifies whether coprod has defensible intellectual property (IP) protecting its modular integration technology."
         },
         {
-          "request": "VC Fund deployment schedule, fund size specifications, and reserve allocation model.",
-          "why": "To calculate portfolio construction metrics, including maximum exposure per position and available capital for maintaining pro-rata ownership rights."
+          "request": "Customer pipeline log, pilot project feedback, letter of intent (LOI) details, and lead-time commitments from early hardware integrators.",
+          "why": "Confirms market demand and measures whether customers experience quantifiable reduction in 'integration hell'."
+        },
+        {
+          "request": "Comprehensive Cap Table detailing pre-deal ownership, option pool reservation, and exact convertible note or priced seed terms for the €5.45M round.",
+          "why": "Assesses dilution impact, voting control, alignment of incentives, and liquidity preferences across participating VC funds."
+        },
+        {
+          "request": "Detailed 24-month operational burn rate budget, capital expenditure (CapEx) forecast, and key technical milestone delivery dates.",
+          "why": "Ensures the €5.45M provides sufficient cash runway (ideally 18-24 months) to achieve commercialization and de-risk the Series A round."
         }
       ],
       "concept_lesson": {
-        "name": "Portfolio Construction & Reserve Management",
-        "definition": "Portfolio construction is the strategic strategy by which a venture fund allocates capital across fund commitments, balancing check sizes, total number of investments, sector/stage diversification, and follow-on reserves. Because VC returns follow a Power Law distribution (where a tiny fraction of outlier portfolio companies generate the vast majority of total fund returns), portfolio construction ensures that winning investments are large enough to 'return the fund' while protecting against the inevitable failure of many early-stage assets.",
-        "formula": "Single-Company Exposure (%) = (Initial Capital Invested + Target Reserve Allocation) / Total Fund Commitments\nInitial Ownership (%) = Initial Capital Invested / Post-Money Valuation",
-        "connection_to_deal": "The reported $255M ecosystem total and $50M deal sizes cannot be directly linked to a specific fund's portfolio construction parameters because individual fund sizes, target ownership percentages, check sizes, and reserve strategies are Not disclosed in the supplied article excerpt. To illustrate how a venture fund analyzes participating in or leading a $50M growth round, we use a hypothetical numerical portfolio model below.",
-        "worked_example": "Consider a hypothetical $500 million VC Fund ('Fund IV') (Hypothetical fund size: $500,000,000). The market news reports total weekly ecosystem funding of $255 million (Reported), with major rounds around $50 million (Reported).\n\nSuppose Fund IV evaluates leading one of these $50 million growth rounds (Reported deal context) by writing a $25 million check (Hypothetical check size: $25,000,000).\n\nStep 1: Calculate Initial Exposure\nInitial Exposure = $25,000,000 (Hypothetical check) / $500,000,000 (Hypothetical fund size) = 5.0% (Hypothetical calculation).\n\nStep 2: Account for Reserves\nFund IV maintains a standard 1:1 follow-on reserve ratio, setting aside an additional $25 million for future rounds (Hypothetical reserve allocation: $25,000,000).\nTotal Potential Exposure = ($25,000,000 initial + $25,000,000 reserve) / $500,000,000 = $50,000,000 / $500,000,000 = 10.0% (Hypothetical maximum exposure).\n\nStep 3: Calculate Target Ownership\nIf the target growth startup receives the $50 million total round at a post-money valuation of $250 million (Hypothetical valuation: $250,000,000), Fund IV's $25 million check yields:\nInitial Ownership = $25,000,000 / $250,000,000 = 10.0% equity stake (Hypothetical ownership).\n\nStep 4: Portfolio Construction Evaluation\nBy capping total exposure at 10% per company, Fund IV can construct a balanced portfolio of approximately 15 to 20 core investments (Hypothetical portfolio size). This structure prevents single-asset concentration risk while ensuring that a 10x return on a successful $250M entry valuation returns $250M+ (0.5x of the entire $500M fund), satisfying venture return hurdles.",
-        "takeaway": "A venture investor never evaluates a deal check in isolation. Every investment check size and follow-on reserve must fit systematically within the fund's portfolio construction framework to balance concentration risk, maintain ownership targets, and harness the VC Power Law."
+        "name": "Due Diligence in Early-Stage Deep-Tech & Hardware Investments",
+        "definition": "Due diligence is the systematic process of investigating, auditing, and verifying a target company's commercial claims, product technology, financial economics, team credentials, legal standing, and operational risks prior to closing an investment transaction.",
+        "formula": "Diligence Scope = Market (TAM/SAM) + Product/Tech (IP/BOM) + Customer Validation + Competitive Moat + Financials (Gross Margin/Burn/Runway) + Team + Legal/Cap Table + Deal Terms. For every risk identified, assign an Evidence Requirement, an Owner, and a Mitigation Plan.",
+        "connection_to_deal": "In evaluating coprod's €5.45M round, investors cannot rely solely on the high profile of co-investors like General Catalyst or Founderful. Due diligence must systematically test whether coprod's hardware integration solution solves a real problem at gross margins that justify venture-scale returns. Crucial missing details (valuation, current revenue, unit economics) must be audited.",
+        "worked_example": "Hypothetical Due Diligence Runway & Financial Verification Model for coprod:\n\n1. Capital Raised: €5,450,000 (Reported in article excerpt).\n2. Target Cash Runway Horizon: 24 months (Hypothetical benchmark for Pre-Seed deep-tech).\n3. Monthly Fixed Cash Burn (R&D team, lab space, legal): €160,000/month (Hypothetical estimate).\n4. Planned Capital Expenditure / Tooling / Prototyping: €800,000 upfront (Hypothetical estimate).\n5. Net Working Capital available for Operations: €5,450,000 (Reported) - €800,000 (Hypothetical) = €4,650,000 (Hypothetical derived total).\n6. Operational Cash Runway = €4,650,000 (Hypothetical derived) / €160,000 (Hypothetical monthly burn) = ~29 months of operational runway.\n7. Gross Margin Verification (Hypothetical Unit Level):\n   - Target Selling Price per Module: €1,200 (Hypothetical).\n   - Direct Hardware Bill of Materials (BOM) Cost: €450 (Hypothetical).\n   - Manufacturing & Assembly Cost: €150 (Hypothetical).\n   - Total Unit COGS (Cost of Goods Sold): €450 + €150 = €600 (Hypothetical).\n   - Unit Gross Profit: €1,200 - €600 = €600 (Hypothetical).\n   - Unit Gross Margin Percentage: (€600 / €1,200) * 100 = 50.0% (Hypothetical target benchmark).\n\nDiligence Rule: If verified unit gross margins fall below 40% during technical audit, the business risk profile shifts from scalable tech-enabler to low-margin contract manufacturing.",
+        "takeaway": "Due diligence turns founder pitch narrative into quantifiable, testable hypotheses. In hardware and physical AI deals, verifying unit economics (BOM costs and gross margins) and cash burn runway early prevents investing in capital-inefficient businesses."
       },
       "vcic": {
-        "sample_recommendation": "Pass on making an immediate investment commitment based on aggregate market headlines alone. However, issue a conditional mandate to source deal flow directly from the lead syndicates managing the $50M growth rounds in India, pending full review of company-level unit economics, valuations, and portfolio exposure limits.",
-        "how_to_present": "When pitching the investment committee in VCIC, allocate your 5 minutes deliberately: (1) Spend 1 minute establishing the macro market context ($255M weekly funding rebound in India, $50M deal sizes) while explicitly distinguishing headline data from missing micro-level diligence facts. (2) Spend 2 minutes walking through the business model metrics and risk factors. (3) Spend 2 minutes presenting your portfolio construction model—demonstrating exact check size, ownership targets, reserve allocations, and single-asset exposure limits relative to your fund size.",
+        "sample_recommendation": "Partner Recommendation: Proceed to Phase 2 Technical & Commercial Due Diligence on coprod (€5.45M Pre-Seed Round).\n\nExecutive Summary: coprod presents a compelling infrastructural play in the physical AI sector by solving hardware integration bottlenecks ('integration hell'). The €5.45M round co-led by Founderful and PROTOTYPE, alongside General Catalyst and Pace Ventures, provides exceptional capital resources and syndicate backing for a pre-seed stage entity.\n\nKey Investment Dilemma & Next Steps: While the round syndicate is elite, critical commercial facts—including current revenue, post-money valuation, BOM gross margins, and specific customer pilot data—are missing from disclosed materials. We recommend issuing a non-binding expression of interest contingent upon completing technical IP reviews, supplier audit, unit economic modeling showing >45% gross margin potential, and verifying cap table preference terms.",
+        "how_to_present": "When presenting to VCIC judges, frame your evaluation around disciplined due diligence framework logic. Acknowledge the strong positive signal from high-caliber syndicate members, but emphasize that smart investors verify operational fundamentals (BOM costs, runway, IP defensibility) rather than blindly following headlines. Clearly distinguish reported facts from hypothetical assumptions.",
         "follow_up_questions": [
-          "What is our fund's maximum single-asset concentration cap, and does writing a check into a $50M round breach that limit?",
-          "How are we pricing follow-on reserves for this asset to avoid dilution in subsequent growth rounds?",
-          "Are current entry valuation multiples in the Indian market compatible with our fund's target 3x gross MOIC return threshold?"
+          "What is your target Bill of Materials (BOM) cost at 1,000-unit scale, and what hardware gross margins are you currently yielding on initial prototypes?",
+          "Can you walk us through the specific technical interface standardization that allows your modular components to reduce customer integration time by orders of magnitude?",
+          "How is this €5.45M pre-seed round structured (priced equity vs. convertible notes), and what pre-money valuation or valuation cap was set?",
+          "What specific commercial milestone (e.g., paid pilots, unit production volume, annual recurring revenue) must be hit over the next 18-24 months to de-risk your Series A raise?"
         ]
       },
-      "ai_note": "This educational analysis was generated strictly using the supplied news excerpt. Reported figures ($255M total funding rebound, $50M deal size range) are explicitly categorized as reported facts. All missing data points (specific startup names, financials, unit economics, ownership percentages, fund sizes) are formally marked as 'Not disclosed in the supplied article excerpt' and modeled using clearly labeled hypothetical numerical illustrations in accordance with VCIC analytical rigor."
+      "ai_note": "This case study was generated strictly from the provided headline and RSS excerpt of the EU-Startups article (published Nov 23, 2026). All facts regarding investors (€5.45M pre-seed, Founderful, PROTOTYPE, General Catalyst, etc.) are directly anchored in the text. Missing venture data (valuation, revenue, customer names, use of proceeds) are explicitly labeled as undisclosed, and numerical models use clearly identified hypothetical variables."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 4,
+  "concept_rotation_index": 5,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
