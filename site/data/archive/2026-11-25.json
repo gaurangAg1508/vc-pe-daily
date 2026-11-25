@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:25:58.648406+08:00",
+  "timezone": "Asia/Singapore",
+  "title": "VC & PE Daily",
+  "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
+  "sources_checked": 15,
+  "candidate_count": 73,
+  "sources_with_errors": [
+    "Entrackr: HTTPError: HTTP Error 404: Not Found",
+    "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
+    "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
+    "KrASIA: HTTPError: HTTP Error 404: Not Found",
+    "a16z: HTTPError: HTTP Error 404: Not Found"
+  ],
+  "case_study": {
+    "story": {
+      "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+      "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+      "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-24T10:23:27+00:00"
+    },
+    "analysis": {
+      "company_at_a_glance": "AidenAI is an enterprise artificial intelligence (AI) startup based in India that specializes in scaling enterprise AI workflows. The company recently announced a $32 million (₹297.1 crore) Series A financing round.",
+      "what_happened": "On November 24, 2026, tech news publication Inc42 reported that AidenAI secured $32 million (₹297.1 crore) in Series A funding led by an unnamed growth investment firm (the excerpt cuts off). The capital is earmarked to scale its enterprise AI workflow platform. For full coverage, refer to Inc42's original article at https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/.",
+      "deal_facts": [
+        {
+          "label": "Company Name",
+          "value": "AidenAI"
+        },
+        {
+          "label": "Transaction Stage",
+          "value": "Series A [Reported]"
+        },
+        {
+          "label": "Capital Raised",
+          "value": "$32 Million / ₹297.1 Crore [Reported]"
+        },
+        {
+          "label": "Lead Investor",
+          "value": "Growth investment firm (full name cut off in excerpt) [Partially Reported]"
+        },
+        {
+          "label": "Pre-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt. Crucial for calculating investor equity percentage and share price."
+        },
+        {
+          "label": "Post-Money Valuation",
+          "value": "Not disclosed in the supplied article excerpt. Essential for determining overall market capitalization post-round."
+        },
+        {
+          "label": "Investor Ownership Stake",
+          "value": "Not disclosed in the supplied article excerpt. Necessary to evaluate round dilution and ownership targets."
+        },
+        {
+          "label": "Current Revenue / Annual Recurrent Revenue (ARR)",
+          "value": "Not disclosed in the supplied article excerpt. Essential to assess valuation multiples and revenue traction."
+        },
+        {
+          "label": "Stated Use of Proceeds",
+          "value": "Scale enterprise AI workflows [Reported high-level purpose; granular capital allocation not disclosed]."
+        }
+      ],
+      "business_model": {
+        "plain_english": "AidenAI provides software designed to automate and orchestrate complex business processes using artificial intelligence models within enterprise environments. (Note: Specific core product architecture is not detailed in the excerpt).",
+        "customer": "Large corporations and enterprise clients seeking to integrate AI into existing operational workflows. (Specific target verticals or customer names are not disclosed in the supplied article excerpt).",
+        "revenue_engine": "Likely operates on a B2B Software-as-a-Service (SaaS) subscription model or a usage-based enterprise licensing fee structure. (Exact pricing tiers and billing mechanics are not disclosed in the supplied article excerpt).",
+        "unit_economics_to_check": [
+          "Customer Acquisition Cost (CAC) vs. Customer Lifetime Value (LTV) ratio",
+          "Net Revenue Retention (NRR) to verify expansion within enterprise accounts",
+          "Gross Margin % (accounting for underlying LLM API/compute infrastructure costs)",
+          "CAC Payback Period (months to recoup sales and marketing spend)"
+        ]
+      },
+      "why_now": [
+        "Possible investor rationale: Global enterprises are transitioning from initial generative AI experimentation to production-grade workflow integration, driving demand for specialized middleware.",
+        "Possible investor rationale: Enterprise software buyers require secure, scalable AI workflow orchestration tools that integrate directly into legacy tech stacks without data leakage.",
+        "Possible investor rationale: India's enterprise SaaS ecosystem is increasingly producing globally competitive deep-tech and AI infrastructure platforms capable of commanding premium Series A rounds."
+      ],
+      "investor_view": {
+        "verdict": "Not yet; conditional interest (Pass pending complete diligence).",
+        "thesis": "Enterprise AI workflow orchestration represents a massive total addressable market (TAM). A $32M Series A suggests strong investor conviction, but without visibility into revenue, valuation, unit economics, and technical moat, an investment decision cannot be validated.",
+        "reasons_to_be_interested": [
+          "Substantial Series A round ($32M) indicates significant validation from growth-stage institutional venture investors.",
+          "Positioned in enterprise AI workflows, a high-growth sector with strong willingness-to-pay from corporate IT budgets."
+        ],
+        "what_must_be_true": [
+          "AidenAI must possess proprietary IP or deep workflow integrations rather than serving as a thin wrapper over foundation models (e.g., OpenAI/Anthropic APIs).",
+          "Gross margins must exceed 70%, proving compute costs are efficiently passed to customers or optimized internally.",
+          "The pre-money valuation must reflect a realistic multiple of actual ARR to prevent over-dilution or future down-round risk."
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Commoditization / Foundation Model Encroachment",
+          "why_it_matters": "If foundation model providers (e.g., OpenAI, Anthropic, Google) build native workflow features, generic orchestration layers become obsolete.",
+          "how_to_test": "Audit the proprietary nature of AidenAI's code base, fine-tuned models, patent pipeline, and custom enterprise integrations during technical diligence."
+        },
+        {
+          "risk": "High Infrastructure & Compute Cost (Margin Squeeze)",
+          "why_it_matters": "AI workflows relying heavy on third-party cloud GPUs or API calls can severely erode gross margins below standard SaaS benchmarks (typically 75-85%).",
+          "how_to_test": "Inspect audited income statements and unit-level COGS (Cost of Goods Sold), specifically isolating cloud hosting and model inference fees."
+        },
+        {
+          "risk": "Prolonged Enterprise Sales Cycles",
+          "why_it_matters": "Selling into enterprises requires lengthy procurement, security, and compliance reviews, accelerating cash burn before revenue converts.",
+          "how_to_test": "Analyze historical pipeline sales velocity, deal conversion rates, and pilot-to-paid transition metrics across cohorts."
+        }
+      ],
+      "diligence": [
+        {
+          "request": "Full Cap Table and Term Sheet terms",
+          "why": "To calculate pre-money valuation, post-money valuation, option pool expansion, liquidation preferences, and exact investor dilution."
+        },
+        {
+          "request": "Audited Financial Statements & Detailed Revenue Breakdown (ARR, NRR, Gross Margins)",
+          "why": "To establish baseline valuation multiples and verify unit economic viability before committing capital."
+        },
+        {
+          "request": "Customer Contract Schedule and Top 10 Account Case Studies",
+          "why": "To evaluate customer concentration risk, average contract value (ACV), and real-world ROI delivered by the software."
+        }
+      ],
+      "concept_lesson": {
+        "name": "Pre-Money vs. Post-Money Valuation",
+        "definition": "Pre-money valuation represents the agreed-upon equity value of a company immediately BEFORE receiving a new round of investment capital. Post-money valuation is the equity value of the company immediately AFTER the new capital is injected into the business. Understanding this distinction is fundamental in venture capital because it dictates how much equity (ownership percentage) an investor receives for their check and how much existing shareholders are diluted.",
+        "formula": "1) Post-Money Valuation = Pre-Money Valuation + New Investment Capital\n2) Investor Ownership % = New Investment Capital / Post-Money Valuation\n3) Post-Money Valuation = New Investment Capital / Investor Ownership %",
+        "connection_to_deal": "The Inc42 article excerpt reports that AidenAI raised $32 million in Series A funding. However, the article DOES NOT disclose the pre-money valuation or post-money valuation. Consequently, we cannot compute the exact percentage of AidenAI sold to the Series A investors from the disclosed text alone.",
+        "worked_example": "Because the exact valuation is missing from the article, let us walk through a hypothetical VCIC scenario using the reported investment amount:\n\n- New Investment Capital: $32.0 Million [Reported]\n- Assumed Hypothetical Pre-Money Valuation: $96.0 Million [Hypothetical]\n\nCalculation Step 1: Compute Post-Money Valuation\nPost-Money Valuation = Pre-Money ($96.0M [Hypothetical]) + New Capital ($32.0M [Reported]) = $128.0 Million [Hypothetical]\n\nCalculation Step 2: Compute Lead Investor Ownership Percentage\nInvestor Ownership % = New Capital ($32.0M [Reported]) / Post-Money ($128.0M [Hypothetical]) = 25.0% [Hypothetical]\n\nAlternative Scenario (Higher Valuation):\nIf the agreed Pre-Money Valuation were instead $288.0 Million [Hypothetical]:\n- Post-Money Valuation = $288.0M [Hypothetical] + $32.0M [Reported] = $320.0 Million [Hypothetical]\n- Investor Ownership % = $32.0M [Reported] / $320.0M [Hypothetical] = 10.0% [Hypothetical]\n\nNotice that for a fixed check size ($32M), a higher pre-money valuation dramatically decreases the investor's ownership percentage and increases the price per share.",
+        "takeaway": "Always verify whether a negotiated valuation quote is 'pre-money' or 'post-money'. Confusing the two on a VCIC cap table sheet will distort your ownership calculations, dilution models, and return-on-investment targets."
+      },
+      "vcic": {
+        "sample_recommendation": "Investment Recommendation: CONDITIONAL PASS / PROVISIONAL HOLD on AidenAI's Series A round pending complete financial diligence.\n\nKey Findings: AidenAI has announced a substantial $32 million Series A round to capitalize on the rapid adoption of enterprise AI workflows. While the macro trend surrounding AI orchestration software is highly compelling and the size of the round reflects institutional backing, crucial deal terms—including pre-money valuation, current ARR, gross margins, and customer retention metrics—are not disclosed in the available information.\n\nNext Steps: We recommend issuing an Information Request to the founders to review the full capitalization table and revenue performance. If the pre-money valuation provides an attractive ARR entry multiple (e.g., <15x ARR) and gross margins exceed 70%, we should consider participating.",
+        "how_to_present": "When presenting to VCIC judges: 1) State your decision upfront clearly ('We are placing a conditional hold pending financial verification'). 2) Clearly delineate between reported facts ($32M Series A) and undisclosed variables ( valuation, ARR, gross margins). 3) Walk the judges through your valuation framework by contrasting a low vs. high pre-money scenario to prove cap-table literacy. 4) Outline the top 3 diligence requests needed to turn the verdict into an actionable 'Yes'.",
+        "follow_up_questions": [
+          "What pre-money valuation would you cap this round at relative to their undisclosed ARR?",
+          "How does the $32M capital injection impact the existing founders' dilution assuming a 15% post-money option pool expansion?",
+          "If compute fees suppress gross margins to 50%, how does that alter your target post-money valuation multiple?"
+        ]
+      },
+      "ai_note": "In enterprise AI investments, evaluating workflow platforms requires rigorous distinction between proprietary execution layers and wrapper utilities. Investors must look past funding headlines and examine gross margins after LLM API/compute costs, enterprise data privacy guarantees, and integration depth."
+    },
+    "region_focus": "India",
+    "reading_time_minutes": 15
+  },
+  "concept_rotation_index": 0,
+  "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
+}
