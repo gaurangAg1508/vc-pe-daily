@@ -1,143 +1,144 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T13:01:55.298191+08:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T13:01:52.949058+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 78,
+  "candidate_count": 51,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
     "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
-    "a16z: HTTPError: HTTP Error 404: Not Found"
+    "a16z: HTTPError: HTTP Error 404: Not Found",
+    "Global VC & PE (Google News): HTTPError: HTTP Error 429: Too Many Requests"
   ],
   "case_study": {
     "story": {
-      "title": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FYzFBTjNfV3owNnNjQy1NSDlxMWZNOWw1bHg5VzlhN0drajVvSndpRGhZaWdQcmtiMEhhTWFfUnFlQnpXNmlTM2tJU1ZpeF8takljNXFOVkJJVFl1dVhFZXUtRGFXa09rNWs5UkNZM1dVQQ?oc=5",
-      "summary": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures 아시아경제",
-      "source": "아시아경제",
-      "region": "Global",
-      "published_at": "2026-11-25T23:28:33+00:00"
+      "title": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones",
+      "url": "https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/",
+      "summary": "Deeptech startup Green Aero has raised $14 Mn (₹129.2 Cr) in a Series A funding round led by Crane Ventures,…",
+      "source": "Inc42",
+      "region": "India",
+      "published_at": "2026-11-26T03:55:05+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "NCredible is an early-stage technology startup providing 'AX' (AI Transformation) solutions specifically targeted at the food manufacturing industry. The company operates at the intersection of vertical artificial intelligence and industrial food processing, aiming to modernize production, quality control, or supply chain workflows. Specific corporate details such as founding year, headquarters location, team size, and core product architecture were not disclosed in the supplied article excerpt.",
-      "what_happened": "NCredible secured Seed funding co-led or participated in by prominent early-stage venture capital firms Kakao Ventures and The Ventures. Details regarding the investment amount, pre-money valuation, board seat allocations, and capital deployment plans were not disclosed in the supplied article excerpt. (Source: 아시아경제, https://news.google.com/rss/articles/CBMickFVX3lxTE5FYzFBTjNfV3owNnNxQy1NSDlxMWZNOWw1bHg5VzlhN7GkjVvSndpRGhZaWdQcmtiMEhhTWFfUnFlQnpXNmlTM2tJU1ZpeF8takljNXFOVkJJVFl1dVhFZXUtRGFXa09rNWs5UkNZM1dVQQ?oc=5).",
+      "company_at_a_glance": "The selected story concerns Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Deeptech startup Green Aero has raised $14 Mn (₹129.2 Cr) in a Series A funding round led by Crane Ventures,…",
       "deal_facts": [
         {
-          "label": "Company Name",
-          "value": "NCredible"
+          "label": "Company",
+          "value": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones"
         },
         {
-          "label": "Funding Stage",
-          "value": "Seed Round"
+          "label": "Deal type",
+          "value": "Not confirmed from the available RSS excerpt"
         },
         {
-          "label": "Disclosed Investors",
-          "value": "Kakao Ventures, The Ventures"
+          "label": "Amount raised / deal value",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "Target Industry",
-          "value": "Food Manufacturing Industry (Vertical AI / AX)"
+          "label": "Valuation",
+          "value": "Not reported in the available RSS excerpt"
         },
         {
-          "label": "Capital Raised Amount",
-          "value": "Not disclosed in the supplied article excerpt. Crucial because it determines the company's financial runway, burn rate tolerance, and execution horizon."
-        },
-        {
-          "label": "Post-Money Valuation",
-          "value": "Not disclosed in the supplied article excerpt. Crucial for calculating entry price, ownership percentage, and minimum required exit valuations for targeted fund returns."
-        },
-        {
-          "label": "Financials & Revenue",
-          "value": "Not disclosed in the supplied article excerpt. Crucial to verify early product-market fit, enterprise contract sizes, and sales velocity."
+          "label": "Investors",
+          "value": "Verify in the original article"
         }
       ],
       "business_model": {
-        "plain_english": "NCredible provides specialized artificial intelligence software tools to food manufacturing plants to optimize their operational workflows (AI Transformation or 'AX').",
-        "customer": "Food manufacturing companies, consumer packaged goods (CPG) food producers, batch processing plants, and food packaging operators.",
-        "revenue_engine": "Likely structured as a B2B Software-as-a-Service (SaaS) subscription model or enterprise software licensing fee per plant/facility. (Note: Specific pricing tiers and revenue structures are not disclosed in the supplied article excerpt and must be verified).",
+        "plain_english": "The available headline and excerpt do not contain enough information to describe the company's full business model reliably.",
+        "customer": "Not established from the available excerpt",
+        "revenue_engine": "Not established from the available excerpt",
         "unit_economics_to_check": [
-          "Annual Contract Value (ACV) per manufacturing plant",
-          "Customer Acquisition Cost (CAC) for industrial sales cycles",
-          "Net Retention Rate (NRR) and expansion potential across multi-factory enterprises",
-          "Gross Margin percentage on software vs. hardware integration or implementation services"
+          "Gross margin",
+          "Customer acquisition cost (CAC)",
+          "Retention / repeat purchase",
+          "Contribution margin"
         ]
       },
       "why_now": [
-        "Possible investor rationale hypothesis: Legacy food manufacturing sectors face severe labor shortages, rising raw material inflation, and tightening regulatory quality compliance, creating urgent demand for AI-driven automation.",
-        "Possible investor rationale hypothesis: AI adoption is evolving from horizontal foundational models toward vertical domain-specific software ('AX') tailored for niche manufacturing workflows.",
-        "Possible investor rationale hypothesis: Kakao Ventures and The Ventures recognize an opportunity to back early movers in industrial food-tech software before global platform players dominate the regional market."
+        "The company may need capital to reach its next operating milestone, but the use of proceeds needs to be verified.",
+        "Investors may be backing a market opportunity or evidence of traction; the excerpt alone cannot establish which factor drove the decision."
       ],
       "investor_view": {
-        "verdict": "Not yet; conditional interest pending detailed primary diligence.",
-        "thesis": "Vertical AI for food manufacturing offers strong moat potential due to deep domain workflows and high switching costs. However, investing requires verifying actual software utility, customer contract value, and deployment efficiency.",
+        "verdict": "Do not make an investment decision yet — conditional interest only",
+        "thesis": "The story is worth investigating, but a funding announcement is not evidence by itself that the company is a good investment. The thesis depends on market size, differentiated product, repeatable growth and a price that leaves room for returns.",
         "reasons_to_be_interested": [
-          "Targeting a massive, traditionally underserved legacy market (food manufacturing) ripe for digital efficiency gains.",
-          "Backing from reputable early-stage venture capital firms (Kakao Ventures, The Ventures) provides institutional validation and follow-on support."
+          "The company has attracted financing or deal attention (verify the transaction details).",
+          "The sector may offer a meaningful market opportunity (validate using independent market data)."
         ],
         "what_must_be_true": [
-          "NCredible's product must demonstrate repeatable, quantifiable ROI for plant managers (e.g., yield improvement, defect reduction, energy savings).",
-          "Sales cycles must be manageable (under 6 months) to avoid heavy capital burn before achieving cash flow efficiency.",
-          "The founders must possess deep domain expertise in both AI/machine learning and food factory operations."
+          "Customers have a painful problem and are willing to pay.",
+          "Growth is repeatable and does not depend on uneconomic customer acquisition.",
+          "The company has a defensible advantage.",
+          "The entry valuation allows an attractive return under realistic exit assumptions."
         ]
       },
       "risks": [
         {
-          "risk": "Long Enterprise Sales Cycles",
-          "why_it_matters": "Traditional food manufacturers are conservative buyers. Extended pilot phases can drain early-stage capital reserves.",
-          "how_to_test": "Request pilot-to-paid conversion rates, average contract negotiation timelines, and historical sales funnel data."
+          "risk": "Weak product-market fit",
+          "why_it_matters": "Headline growth can hide poor retention or one-off demand.",
+          "how_to_test": "Review customer cohorts, repeat rates, churn and reference calls."
         },
         {
-          "risk": "High Customization & Implementation Drag",
-          "why_it_matters": "If the AI solution requires custom integration for every facility, NCredible risks acting like a services firm rather than a scalable software platform, depressing gross margins.",
-          "how_to_test": "Analyze revenue breakdown between software licenses and professional services; audit setup time per factory deployment."
+          "risk": "Unattractive unit economics",
+          "why_it_matters": "A fast-growing business can destroy value if each incremental customer loses money.",
+          "how_to_test": "Review CAC, gross margin, payback period and contribution margin by cohort."
         },
         {
-          "risk": "Data Scarcity & Hardware Compatibility",
-          "why_it_matters": "Legacy factories often lack standard IoT sensors or legacy hardware interfaces, restricting the data quality required for AI models to function.",
-          "how_to_test": "Review technical architecture to verify compatibility with legacy PLC/SCADA factory infrastructure."
+          "risk": "Valuation and dilution",
+          "why_it_matters": "Even a strong company can be a poor investment if the entry price is too high or future funding dilutes ownership.",
+          "how_to_test": "Obtain the cap table, valuation, share class and fully diluted ownership schedule."
         }
       ],
       "diligence": [
         {
-          "request": "Detailed Cap Table and Term Sheet",
-          "why": "To verify exact valuation, ownership percentage, option pool size, and preference structures established in the Seed round."
+          "request": "Monthly revenue, growth and gross margin for the last 24 months.",
+          "why": "Tests growth quality and whether scale is improving economics."
         },
         {
-          "request": "Customer Reference Calls & Case Studies",
-          "why": "To validate whether food manufacturing clients experience actual cost savings, operational yield improvements, or waste reduction."
+          "request": "Customer cohorts, churn, repeat purchase and top-customer concentration.",
+          "why": "Tests whether demand is durable rather than one-off."
         },
         {
-          "request": "Financial Model & Monthly Burn Rate",
-          "why": "To assess capital runway, projected milestone achievement, and timing requirements for Series A fundraising."
+          "request": "CAC, payback period, contribution margin and channel-level acquisition costs.",
+          "why": "Tests whether growth can be scaled profitably."
+        },
+        {
+          "request": "Current cap table, round valuation, security type, liquidation preference and pro-rata rights.",
+          "why": "Shows ownership, dilution and downside protection."
+        },
+        {
+          "request": "Use of proceeds, monthly burn, runway and milestones for the next 18–24 months.",
+          "why": "Tests whether the capital raised is enough to reach a value-creating milestone."
         }
       ],
       "concept_lesson": {
-        "name": "Liquidation Preference",
-        "definition": "Liquidation Preference is a critical venture capital term sheet clause that dictates the order and amount of payout preferred shareholders receive relative to common shareholders (e.g., founders and employees) upon a liquidity event, such as a company sale, merger, or asset liquidation. It provides downside protection for investors by ensuring they recoup their capital before common stock receives proceeds.",
-        "formula": "For 1x Non-Participating Preferred Stock: Investor Payout = Max(Invested Capital, Ownership % × Net Exit Proceeds). For 1x Participating Preferred Stock: Investor Payout = Invested Capital + [Ownership % × (Net Exit Proceeds - Invested Capital)].",
-        "connection_to_deal": "The exact liquidation preference and deal terms for NCredible's Seed round are not disclosed in the supplied article excerpt. In typical early-stage VC deals, institutional investors like Kakao Ventures negotiate preferred stock holding a 1x Non-Participating Liquidation Preference to safeguard capital against low-value exit outcomes.",
-        "worked_example": "Assume a hypothetical Seed investment in NCredible: Kakao Ventures invests $1,000,000 (Hypothetical) for 20% (Hypothetical) of NCredible as 1x Non-Participating Preferred Stock. The remaining 80% (Hypothetical) is owned by common shareholders (Founders).\n\nScenario A (Low-Value Exit): NCredible is acquired for $3,000,000 (Hypothetical).\n- Liquidation Preference value (1x): $1,000,000 (Hypothetical).\n- As-Converted share (20% of $3,000,000): $600,000 (Hypothetical).\n- Decision: The investor chooses the higher amount ($1,000,000). Kakao Ventures receives $1,000,000 (Hypothetical), and the remaining $2,000,000 (Hypothetical) is distributed to common shareholders.\n\nScenario B (High-Value Exit): NCredible is acquired for $20,000,000 (Hypothetical).\n- Liquidation Preference value (1x): $1,000,000 (Hypothetical).\n- As-Converted share (20% of $20,000,000): $4,000,000 (Hypothetical).\n- Decision: The investor waives preference and converts to common stock. Kakao Ventures receives $4,000,000 (Hypothetical), and common shareholders receive $16,000,000 (Hypothetical).",
-        "takeaway": "Liquidation preferences shield venture investors from downside loss in modest exits while ensuring alignment with founders during mega-outcomes."
+        "name": "IRR vs MOIC",
+        "definition": "MOIC measures how many times invested capital is returned. IRR measures the annualised rate of return and is sensitive to timing.",
+        "formula": "MOIC = Total cash returned / Total cash invested. For one cash outflow and one inflow, IRR = (Exit value / Investment)^(1 / years) - 1.",
+        "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
+        "worked_example": "Illustrative example: $10m invested and $30m returned is 3.0x MOIC. If returned after 5 years, the annualised IRR is about 24.6%. These are teaching numbers, not deal data.",
+        "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
-        "sample_recommendation": "We recommend conditional entry into diligence for NCredible's Seed round, subject to verification of financial metrics and product repeatability. While vertical AI for food manufacturing ('AX') addresses structural industrial pain points, the lack of disclosed contract values, burn rate, and valuation metrics in available reports makes a definitive investment decision premature.",
-        "how_to_present": "When presenting to VCIC judges: 1) Acknowledge the market opportunity in industrial AI transformation ('AX') clearly. 2) Explicitly list the key parameters missing from public disclosures (valuation, check size, ACV). 3) Frame your thesis around testing customer ROI and deployment scalability. 4) Use accurate financial terminology (e.g., non-participating preference, gross burn, net dollar retention) to demonstrate technical competence.",
+        "sample_recommendation": "I would keep this on the diligence list, not recommend an unconditional investment from the announcement alone.",
+        "how_to_present": "Start with the customer problem and market; explain the business model; show growth and unit economics; state valuation and ownership; present upside, downside and the decision.",
         "follow_up_questions": [
-          "What is NCredible's current Monthly Recurring Revenue (MRR) and pipeline of enterprise food manufacturer pilots?",
-          "How long does software implementation take per manufacturing facility, and what internal resources are required?",
-          "What exact liquidation preference, anti-dilution, and governance rights were attached to Kakao Ventures and The Ventures' Seed equity terms?"
+          "What is the strongest evidence of repeat demand?",
+          "What is the fully diluted ownership at this price?",
+          "What milestone will this capital finance?"
         ]
       },
-      "ai_note": "This case study was synthesized from short-form news metadata. Omitted metrics ( valuation, burn, revenue, product architecture) reflect intentional analytical discipline: never invent data where facts are undisclosed."
+      "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "Global",
+    "region_focus": "India",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 1,
+  "concept_rotation_index": 2,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
