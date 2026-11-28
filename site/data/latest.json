@@ -1,36 +1,35 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T13:01:52.949058+08:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:43:50.527470+08:00",
   "timezone": "Asia/Singapore",
   "title": "VC & PE Daily",
   "subtitle": "One deal. One investor lens. Fifteen minutes of learning.",
   "sources_checked": 15,
-  "candidate_count": 51,
+  "candidate_count": 50,
   "sources_with_errors": [
     "Entrackr: HTTPError: HTTP Error 404: Not Found",
     "Tech.eu: HTTPError: HTTP Error 403: Forbidden",
     "EU-Startups: HTTPError: HTTP Error 403: Forbidden",
     "Tech in Asia: HTTPError: HTTP Error 403: Forbidden",
     "KrASIA: HTTPError: HTTP Error 404: Not Found",
-    "a16z: HTTPError: HTTP Error 404: Not Found",
-    "Global VC & PE (Google News): HTTPError: HTTP Error 429: Too Many Requests"
+    "a16z: HTTPError: HTTP Error 404: Not Found"
   ],
   "case_study": {
     "story": {
-      "title": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones",
-      "url": "https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/",
-      "summary": "Deeptech startup Green Aero has raised $14 Mn (₹129.2 Cr) in a Series A funding round led by Crane Ventures,…",
-      "source": "Inc42",
-      "region": "India",
-      "published_at": "2026-11-26T03:55:05+00:00"
+      "title": "Vietnam Eases IPO Requirements As Investment Funds Back Tech Startups - Vietcetera",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUk1rV0doZkZIOFk0ODdaVmUycnRMODJKSzVKbFpNeldqUHJMb20zQm9MTnhwSU9jVFQyUG5Kc1hwWDM3cnVzTXRmdTJ3a2FjMWRtU0YyMnU0Z0Q4NlFDanF3aG9tSjZ3UjZSWW1YTUtJU1pPVmFScE9fRWpFZEExSVdFS3o4eGlwUWg3NEttQ1dOemlwdVdpRVluONIBoAFBVV95cUxOMFFGelBOM2JPQjJtclVJLWJuYUplNFNFWVcxdHB3ZzhjT08xeWYyX2RFc1p6ZnQ0VFpqLUljSlc3VFRtUDZtYXN5bW1pMWVjNDZvN2E0VWFBS3RubHR6aWoxYXRMYThnajlwNW55Xzh1R2FyYWtCQW01NXc2WnRBQVM0cUhRcXN3Uy1nUHptTmQ1aEVZV1Y4cDRNN0xoSjdt?oc=5",
+      "summary": "Vietnam Eases IPO Requirements As Investment Funds Back Tech Startups Vietcetera",
+      "source": "Vietcetera",
+      "region": "Global",
+      "published_at": "2026-11-27T03:03:54+00:00"
     },
     "analysis": {
-      "company_at_a_glance": "The selected story concerns Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones. The RSS excerpt is a starting point, not a full company profile.",
-      "what_happened": "Deeptech startup Green Aero has raised $14 Mn (₹129.2 Cr) in a Series A funding round led by Crane Ventures,…",
+      "company_at_a_glance": "The selected story concerns Vietnam Eases IPO Requirements As Investment Funds Back Tech Startups - Vietcetera. The RSS excerpt is a starting point, not a full company profile.",
+      "what_happened": "Vietnam Eases IPO Requirements As Investment Funds Back Tech Startups Vietcetera",
       "deal_facts": [
         {
           "label": "Company",
-          "value": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones"
+          "value": "Vietnam Eases IPO Requirements As Investment Funds Back Tech Startups - Vietcetera"
         },
         {
           "label": "Deal type",
@@ -118,11 +117,11 @@
         }
       ],
       "concept_lesson": {
-        "name": "IRR vs MOIC",
-        "definition": "MOIC measures how many times invested capital is returned. IRR measures the annualised rate of return and is sensitive to timing.",
-        "formula": "MOIC = Total cash returned / Total cash invested. For one cash outflow and one inflow, IRR = (Exit value / Investment)^(1 / years) - 1.",
+        "name": "VC/PE fund economics",
+        "definition": "Fund economics explain how investors (LPs) and the fund manager (GP) share costs, fees and profits. Key terms include management fee, carried interest, hurdle and distributions.",
+        "formula": "Simplified carry = Carry rate × Profits eligible for carry, after applying the fund's distribution waterfall and any hurdle or return of capital.",
         "connection_to_deal": "The excerpt does not disclose enough transaction detail to calculate this concept for the selected company. Use the clearly labelled illustration to learn the mechanics, then plug in verified deal terms if the article reports them.",
-        "worked_example": "Illustrative example: $10m invested and $30m returned is 3.0x MOIC. If returned after 5 years, the annualised IRR is about 24.6%. These are teaching numbers, not deal data.",
+        "worked_example": "Illustrative example: a fund returns $150m on $100m invested, producing $50m gross profit. At a simplified 20% carry with no hurdle or other adjustments, carry would be $10m. Real waterfalls can differ substantially.",
         "takeaway": "Separate a company's operating quality from the price and terms at which you invest."
       },
       "vcic": {
@@ -136,9 +135,9 @@
       },
       "ai_note": "Basic rule-based teaching template. Add the optional Gemini API secret to generate a company-specific analysis."
     },
-    "region_focus": "India",
+    "region_focus": "Global",
     "reading_time_minutes": 15
   },
-  "concept_rotation_index": 2,
+  "concept_rotation_index": 3,
   "editor_note": "One story is selected for a focused 15-minute case study. Deal details not present in the supplied RSS excerpt are marked as unknown; possible investor rationale is a hypothesis, not a reported fact."
 }
